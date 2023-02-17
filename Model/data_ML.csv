@@ -1,0 +1,1593 @@
+bat,brand,cam_front,cam_main,condition,conect,cores,cpu_vel,mem_int,mem_ram,os,phone,screen_size,screen_type,warranty,water_res,price_norm,price_off,retail
+5000,samsung,5,13,nuevo,4G,8,1.6,32,2,android,galaxy a03 core,6.5,ips,12,no,,,ripley
+5000,samsung,5,50,nuevo,4G,8,2.3,64,4,android,galaxy a04,6.5,ips,12,no,569,549,ripley
+5000,samsung,5,50,nuevo,4G,8,2.3,64,3,android,galaxy a04e,6.5,ips,12,no,489,469,ripley
+5000,samsung,8,50,nuevo,4G,8,2,64,4,android,galaxy a13,6.6,ips,12,no,649,599,ripley
+5000,samsung,8,48,nuevo,5G,8,2.2,128,4,android,galaxy a22,6.6,ips,12,no,,,ripley
+5000,samsung,8,50,nuevo,4G,8,2.4,128,4,android,galaxy a23,6.6,ips,12,no,849,769,ripley
+5000,samsung,13,48,nuevo,4G,8,2.4,128,4,android,galaxy a33,6.4,amoled,12,si,1199,1099,ripley
+5000,samsung,32,64,nuevo,4G,8,2.4,128,6,android,galaxy a53,,amoled,12,si,1689,1599,ripley
+4500,samsung,32,12,nuevo,4G,8,2.8,128,6,android,galaxy s20 fe,6.5,amoled,12,si,1899,1799,ripley
+4500,samsung,32,12,nuevo,4G,8,2.8,128,6,android,galaxy s20 fe,6.5,ips,12,si,1899,1799,ripley
+4500,samsung,32,12,nuevo,4G,8,2.8,128,6,android,galaxy s21 fe,6.4,amoled,12,si,2899,2499,ripley
+4500,samsung,32,12,nuevo,4G,8,2.8,256,6,android,galaxy s21 fe,6.4,amoled,12,si,,,ripley
+4500,samsung,32,12,nuevo,5G,8,2.9,128,6,android,galaxy s21 fe,6.4,ips,12,no,2899,2499,ripley
+3700,samsung,10,50,nuevo,5G,8,2.99,128,8,android,galaxy s22,6.1,amoled,12,si,3499,3299,ripley
+5000,samsung,40,108,nuevo,5G,8,2.99,128,8,android,galaxy s22 ultra,6.8,amoled,12,si,4399,4199,ripley
+5000,samsung,40,108,nuevo,5G,8,2.99,128,8,android,galaxy s22 ultra,6.8,amoled,12,si,4399,4199,ripley
+5000,samsung,40,108,nuevo,5G,8,2.99,128,8,android,galaxy s22 ultra,6.8,amoled,12,no,4399,4199,ripley
+4500,samsung,10,50,nuevo,5G,8,2.99,128,8,android,galaxy s22 plus,6.6,amoled,12,si,4599,4399,ripley
+3900,samsung,12,50,nuevo,5G,8,3.36,256,8,android,galaxy s23,6.1,amoled,12,si,3999,3799,ripley
+4700,samsung,12,50,nuevo,5G,8,3.36,512,8,android,galaxy s23 plus,6.6,amoled,12,si,4799,4599,ripley
+5000,samsung,12,200,nuevo,5G,8,3.36,512,12,android,galaxy s23 ultra,6.8,amoled,12,si,5599,5399,ripley
+3700,samsung,10,12,nuevo,4G,8,3.18,128,8,android,galaxy z flip 4,6.7,amoled,12,si,3699,3599,ripley
+4400,samsung,4,50,nuevo,4G,8,3.18,256,12,android,galaxy z fold4,7.6,amoled,12,si,6799,6599,ripley
+4300,honor,32,108,nuevo,5G,8,2.4,256,8,android,honor 50,6.57,ips,24,no,2999,2799,ripley
+5000,honor,8,48,nuevo,4G,8,2.4,128,4,android,honor x7,6.74,ips,12,no,,,ripley
+5000,honor,16,64,nuevo,4G,8,2.4,128,8,android,honor x9,6.9,ips,12,no,1499,1349,ripley
+3110,apple,12,12,nuevo,4G,6,2.65,64,4,ios,iphone 11,6.1,ips,12,si,2199,2099,ripley
+3110,apple,12,12,nuevo,4G,6,2.65,128,4,ios,iphone 11,6.1,ips,12,si,2499,2399,ripley
+3227,apple,12,12,nuevo,5G,6,3.23,128,4,ios,iphone 13,6.1,super retina xdr oled,12,si,4099,3999,ripley
+3227,apple,12,12,nuevo,5G,6,3.23,128,4,ios,iphone 13,6.1,super retina xdr oled,12,si,4099,3999,ripley
+3227,apple,12,12,nuevo,5G,6,3.23,128,4,ios,iphone 13,,super retina xdr oled,12,si,4099,3999,ripley
+3227,apple,12,12,nuevo,5G,6,3.23,256,4,ios,iphone 13,6.1,super retina xdr oled,12,si,4999,4899,ripley
+3227,apple,12,12,nuevo,5G,6,3.23,256,4,ios,iphone 13,,super retina xdr oled,12,si,4999,4899,ripley
+3227,apple,12,12,nuevo,5G,6,3.23,128,4,ios,iphone 13,,super retina xdr oled,12,si,,,ripley
+3100,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 13 pro,,super retina xdr oled,12,si,4799,4699,ripley
+3100,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 13 pro,6.1,super retina xdr oled,12,si,4799,4699,ripley
+3100,apple,12,12,nuevo,5G,6,3.23,256,6,ios,iphone 13 pro,6.1,super retina xdr oled,12,si,5999,5899,ripley
+3100,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 13 pro,6.1,super retina xdr oled,12,si,,,ripley
+4352,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 13 pro max,,super retina xdr oled,12,si,,,ripley
+4352,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 13 pro max,,super retina xdr oled,12,si,6199,5999,ripley
+3279,apple,12,12,nuevo,5G,6,3.23,256,6,ios,iphone 14,6.1,super retina xdr oled,12,si,4999,4899,ripley
+3279,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 14,6.1,super retina xdr oled,12,si,4499,4349,ripley
+4325,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 14 plus,6.7,super retina xdr oled,12,si,4999,4899,ripley
+4325,apple,12,12,nuevo,5G,6,3.23,256,6,ios,iphone 14 plus,6.7,super retina xdr oled,12,si,5599,5499,ripley
+3200,apple,12,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro,6.1,super retina xdr oled,12,si,5899,5799,ripley
+1821,apple,7,12,nuevo,5G,6,3.23,64,3,ios,iphone se,4.7,ips,12,si,2399,2199,ripley
+1821,apple,7,12,nuevo,5G,6,,128,3,ios,iphone se,4.7,ips,12,si,2699,2499,ripley
+1821,apple,7,12,nuevo,5G,6,3.23,64,3,ios,iphone se,4.7,ips,12,si,2499,2299,ripley
+1821,apple,7,12,nuevo,5G,6,3.23,64,3,ios,iphone se,4.7,ips,12,si,2499,2299,ripley
+4500,xiaomi,32,50,nuevo,5G,8,3,256,8,android,mi 12,6.28,amoled,12,no,3459,3359,ripley
+4020,motorola,5,16,nuevo,4G,8,2.3,64,2,android,moto e22i,6.5,ips,12,no,479,449,ripley
+4400,motorola,13,50,nuevo,5G,8,2.4,256,12,android,moto edge 30 fusion,6.4,oled,12,no,2499,2399,ripley
+4020,motorola,32,64,nuevo,5G,8,2.4,128,8,android,moto edge 30,6,oled,12,no,1699,1629,ripley
+4800,motorola,60,50,nuevo,5G,8,3,256,12,android,moto edge 30 pro,6.9,oled,0,no,2899,2799,ripley
+5000,motorola,13,50,nuevo,4G,8,2.4,128,4,android,moto g31,6.4,oled,12,no,699,669,ripley
+5000,motorola,13,50,nuevo,4G,8,2.4,128,4,android,moto g31,6.4,oled,0,no,699,669,ripley
+5000,huawei,8,50,nuevo,4G,8,2.4,128,6,emui,nova y90,6.67,ips,12,no,1099,989,ripley
+5000,xiaomi,13,64,nuevo,4G,8,2.05,128,6,android,poco m5s,6.43,amoled,12,no,1099,949,ripley
+5000,xiaomi,13,64,nuevo,4G,8,2.05,128,6,android,poco m5s,6.43,amoled,12,no,1099,949,ripley
+5000,realme,5,13,nuevo,4G,8,1.8,64,4,android,realme 21y,6.5,ips,12,no,699,669,ripley
+5000,realme,5,13,nuevo,4G,8,1.8,64,4,android,realme 21y,6.5,ips,12,no,699,669,ripley
+5000,realme,16,108,nuevo,4G,8,2.4,128,8,android,realme 9,6.4,amoled,12,no,1299,1169,ripley
+5000,realme,16,50,nuevo,4G,8,2,128,6,android,realme 9i,6.6,ips,12,no,1159,1043,ripley
+5000,realme,16,50,nuevo,4G,8,2,128,6,android,realme 9i,6.6,ips,12,no,1159,1043,ripley
+5000,realme,8,50,nuevo,4G,8,2.2,128,4,android,realme c35,6,ips,12,si,859,809,ripley
+5000,realme,5,8,nuevo,4G,8,1.6,32,2,android,realme c11,6.5,ips,12,no,519,499,ripley
+6000,xiaomi,8,50,nuevo,4G,8,2,128,4,android,redmi 10,6.5,ips,12,no,859,839,ripley
+5000,xiaomi,5,13,nuevo,4G,8,2,64,3,android,redmi 10a,6.52,ips,12,no,609,599,ripley
+5000,xiaomi,5,50,nuevo,4G,8,2.4,64,4,android,redmi 10c,6.71,ips,12,no,729,699,ripley
+5000,xiaomi,5,13,nuevo,4G,8,2,32,2,android,redmi 9a,6.53,ips,12,no,489,469,ripley
+5000,xiaomi,5,13,nuevo,4G,8,2.3,64,3,android,redmi 9c,6.53,ips,12,no,,,ripley
+5000,xiaomi,5,13,nuevo,4G,8,2.3,64,3,android,redmi 9c,6.53,amoled,12,no,629,599,ripley
+5000,xiaomi,5,13,nuevo,4G,8,2.3,64,3,android,redmi 9c,6.53,ips,12,no,639,599,ripley
+5000,xiaomi,,64,nuevo,4G,8,2.05,128,6,android,redmi note 10s,6.43,ips,12,si,,,ripley
+5000,xiaomi,13,50,nuevo,4G,8,2.4,128,4,android,redmi note 11,6.43,ips,12,no,979,949,ripley
+5000,xiaomi,13,50,nuevo,4G,8,2.4,128,4,android,redmi note 11,6.43,ips,12,no,,,ripley
+5000,xiaomi,16,50,nuevo,4G,8,2.4,128,6,android,redmi note 11,6.67,ips,12,no,,,ripley
+5000,xiaomi,16,108,nuevo,4G,8,2.5,128,6,android,redmi note 11 pro,6.67,ips,12,si,,,ripley
+5000,vivo,5,13,nuevo,4G,8,2.3,64,4,android,vivo y16,6.51,ips,12,no,,,ripley
+5000,vivo,8,64,nuevo,4G,8,2,128,8,android,vivo y53s,,ips,12,no,,,ripley
+5000,samsung,8,50,nuevo,4G,8,2,64,4,android,galaxy a13,6.6,ips,12,no,649,599,plaza vea
+2000,alcatel,2,5,nuevo,4G,4,1.28,32,1,android,5033ep,5,ips,12,no,219,199,plaza vea
+5000,samsung,13,48,nuevo,4G,8,2,128,4,android,galaxy a22,6.4,super amoled,12,no,799,749,plaza vea
+5000,motorola,8,50,nuevo,4G,8,2,128,4,android,moto g31,6.4,oled,12,no,699,649,plaza vea
+5000,xiaomi,5,13,nuevo,4G,2,2,32,2,android,redmi 9a,,ips,12,no,499,,plaza vea
+5000,samsung,8,50,nuevo,4G,8,2,128,4,android,galaxy a23,6.6,ips,12,no,899,849,plaza vea
+5000,motorola,16,50,nuevo,4G,8,2.4,128,6,android,moto g52,6.6,oled,12,no,999,939,plaza vea
+5000,samsung,13,48,nuevo,4G,8,2.4,128,6,android,galaxy a33,6.4,super amoled,12,si,1299,1199,plaza vea
+5000,samsung,32,64,nuevo,4G,8,2.4,128,6,android,galaxy a53,6.5,super amoled,12,si,1799,1699,plaza vea
+5000,motorola,16,16,nuevo,4G,8,3,64,4,android,moto g8,6.4,ips,,no,499,459,plaza vea
+5000,xiaomi,5,13,nuevo,4G,8,3,32,2,android,redmi 9a,6.5,ips,,no,499,,plaza vea
+5000,samsung,5,50,nuevo,4G,8,2.3,64,3,android,galaxy a04e,6.5,ips,12,no,499,,plaza vea
+5000,xiaomi,16,108,nuevo,4G,8,2.4,128,6,android,redmi note 11s,6.4,amoled,12,no,1079,,plaza vea
+4020,motorola,5,16,nuevo,4G,8,2.3,64,2,android,moto e22i,6.5,ips,12,no,479,449,plaza vea
+5000,tcl,8,50,nuevo,4G,8,2.3,64,4,android,30 se,6.5,ips,12,no,599,549,plaza vea
+5000,samsung,13,48,nuevo,4G,8,2.4,128,6,android,galaxy a33,,super amoled,12,si,1299,1199,plaza vea
+5000,xiaomi,13,50,nuevo,4G,8,2.4,128,4,android,redmi note 11,6.4,ips,12,no,999,,plaza vea
+5000,xiaomi,5,13,nuevo,4G,8,2,32,2,android,redmi 9a,6.5,ips,12,no,499,,plaza vea
+5000,xiaomi,5,13,nuevo,4G,8,2,32,2,android,redmi 9a,6.5,ips,12,no,499,,plaza vea
+5000,samsung,8,50,nuevo,4G,8,2,64,4,android,galaxy a13,6.6,ips,12,no,649,599,plaza vea
+5000,samsung,13,48,nuevo,4G,8,2,128,4,android,galaxy a22,6.4,super amoled,12,no,799,749,plaza vea
+5000,motorola,16,50,nuevo,4G,8,2.4,128,6,android,moto g52,6.6,oled,12,no,999,939,plaza vea
+4020,motorola,5,16,nuevo,4G,8,2.3,64,2,android,moto e22i,6.5,ips,12,no,479,449,plaza vea
+5000,motorola,8,50,nuevo,4G,8,2,128,4,android,moto g31,6.4,oled,12,no,699,649,plaza vea
+5000,samsung,5,50,nuevo,4G,8,2.3,64,3,android,galaxy a04e,6.5,ips,12,no,499,,plaza vea
+4000,honor,16,64,nuevo,4G,8,2.4,128,6,android,honor x8,6.7,ips,12,no,1199,,plaza vea
+5000,honor,8,48,nuevo,4G,8,,128,4,android,honor x7,6.7,ips,12,no,999,,plaza vea
+4000,huawei,16,108,nuevo,4G,8,2,128,6,emui,nova 9 se,6.8,ips,12,no,899,849,plaza vea
+5000,xiaomi,16,108,nuevo,5G,8,2.96,128,6,android,poco x4 pro,6.6,amoled,12,no,1499,,plaza vea
+5000,xiaomi,16,64,nuevo,5G,8,2.05,128,6,android,poco m4 pro,6.4,amoled,12,no,1099,,plaza vea
+5000,realme,8,50,nuevo,5G,8,2.4,128,6,android,9i,6.5,ips,12,no,1099,999,plaza vea
+5000,xiaomi,5,13,nuevo,4G,8,2.3,128,4,android,redmi 9c,6.5,ips,12,no,799,,plaza vea
+5000,vivo,8,13,nuevo,4G,8,1.8,128,4,android,y21s,6.5,ips,12,no,999,,plaza vea
+4000,vivo,44,,nuevo,4G,8,2.4,128,8,android,v21,6.4,amoled,12,no,2299,,plaza vea
+4360,huawei,13,50,nuevo,5G,8,2.84,256,8,emui,p50 pro,6.6,oled,12,no,3699,3399,plaza vea
+4300,huawei,16,64,nuevo,4G,8,2,128,6,emui,nova 8i,6.7,ips,12,no,999,,plaza vea
+4000,motorola,5,13,nuevo,4G,8,1.6,32,2,android,moto e20,6.5,ips,12,no,579,,plaza vea
+5000,motorola,13,48,nuevo,4G,8,1.8,128,4,android,moto g20,6.5,ips,12,no,899,,plaza vea
+5000,realme,5,5,nuevo,4G,8,1.8,64,4,android,c21y,6.5,ips,12,si,599,559,plaza vea
+4500,samsung,32,12,nuevo,4G,8,2.9,128,6,android,galaxy s21 fe,6.2,dynamic amoled,12,no,2699,2499,plaza vea
+4500,samsung,32,64,nuevo,4G,8,2.4,128,6,android,galaxy a52s,5.6,super amoled,12,no,1999,,plaza vea
+4000,huawei,8,13,nuevo,4G,8,1.8,64,4,emui,y7,6.3,ips,12,no,699,,plaza vea
+4000,huawei,8,13,nuevo,4G,8,1.83,32,3,emui,y7,6.3,ips,12,no,599,,plaza vea
+4000,huawei,8,48,nuevo,4G,8,2.2,64,4,emui,y8s,6.5,ips,12,no,899,,plaza vea
+5000,samsung,8,50,nuevo,4G,8,2.4,128,4,android,galaxy a23,,ips,12,no,949,,plaza vea
+5000,samsung,40,108,nuevo,5G,8,2.99,256,12,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,4559,,plaza vea
+3046,apple,,12,reacondicionado,5G,6,2.65,,4,ios,iphone 11 pro,,ips,,si,2499,,plaza vea
+4323,apple,12,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,6999,,plaza vea
+4323,apple,12,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,6499,,plaza vea
+3240,apple,12,12,reacondicionado,5G,6,3.23,128,4,ios,iphone 13,,super retina xdr oled,12,si,3729,,plaza vea
+4323,apple,12,48,nuevo,5G,6,3.46,,6,ios,iphone 14 pro max,,super retina xdr oled,12,si,6739,,plaza vea
+4323,apple,12,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro max,,super retina xdr oled,12,si,7099,,plaza vea
+3279,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 14,6,super retina xdr oled,7,si,4475,,plaza vea
+3227,apple,12,12,nuevo,4G,6,3.23,128,4,ios,iphone 13,6.1,super retina xdr oled,6,no,4219,,plaza vea
+2942,apple,7,,reacondicionado,4G,6,,128,3,ios,iphone xr,6.1,super retina xdr oled,12,si,1729,,plaza vea
+,samsung,32,64,nuevo,4G,8,2.4,128,,android,galaxy a53,,super amoled,12,no,1799,1699,plaza vea
+3240,apple,12,12,nuevo,5G,6,3.23,128,4,ios,iphone 13,6.1,ips,3,si,4585,,plaza vea
+3000,zte,2,13,nuevo,4G,8,,32,2,android,blade a31 plus,,ips,12,no,375,,plaza vea
+5150,umidigi,8,16,nuevo,4G,4,2,64,4,android,a13s,6.8,ips,12,no,529,,plaza vea
+5000,motorola,13,,nuevo,5G,8,1.9,128,4,android,moto g51,6.78,ips,12,no,799,699,plaza vea
+2942,apple,7,,reacondicionado,4G,4,2.25,128,3,ios,iphone xr,6.1,super retina xdr oled,12,no,1629,,plaza vea
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,super amoled,12,si,1549,,plaza vea
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,super amoled,12,si,1988,,plaza vea
+5000,xiaomi,13,50,nuevo,5G,8,2.4,128,4,android,redmi note 11,,amoled,12,si,849,749,plaza vea
+5000,xiaomi,5,13,nuevo,5G,8,2,32,2,android,redmi 9a,,ips,6,no,409,,plaza vea
+4200,cat,5,8,nuevo,4G,4,1.8,32,3,android,s42,5.5,ips,,no,1149,,plaza vea
+900,smooth,0.3,0.3,nuevo,3G,1,1,0.032,0.032,freedos,uno,,ips,6,no,119.9,,plaza vea
+1800,landbyte,0.3,0.3,nuevo,3G,1,,0.032,0.032,freedos,lt1030,,ips,6,no,92.9,,plaza vea
+650,smooth,0.3,0.3,nuevo,3G,1,,0.032,0.032,freedos,snap x,,ips,6,no,72.9,,plaza vea
+5000,samsung,5,50,nuevo,4G,2,2.3,64,4,android,galaxy a04,6.5,ips,12,no,869,,plaza vea
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,amoled,12,no,2399,,plaza vea
+5000,samsung,8,50,nuevo,4G,8,2.4,128,4,android,galaxy a23,6.6,ips,12,no,1199,,plaza vea
+4000,motorola,5,13,nuevo,4G,2,1,32,2,android,moto e20,6.5,ips,12,no,459,,plaza vea
+5000,motorola,8,48,nuevo,4G,2,1,32,2,android,moto e30,6.5,ips,12,no,579,,plaza vea
+4800,huawei,16,64,nuevo,4G,2,2,128,8,emui,honor x9,6.8,ips,12,no,1530,,plaza vea
+4020,motorola,2,16,nuevo,4G,2,2.3,64,2,android,moto e22i,6.5,ips,12,no,569,,plaza vea
+5000,samsung,13,48,nuevo,4G,8,2.2,128,4,android,galaxy a22,6.4,super amoled,12,no,799,749,plaza vea
+4000,huawei,8,13,nuevo,4G,2,1.4,32,3,emui,y7,6.26,ips,12,no,879,,plaza vea
+3020,huawei,8,13,nuevo,4G,2,2,32,2,emui,y6,6.09,ips,12,no,699,,plaza vea
+3340,huawei,32,48,nuevo,4G,2,2.2,256,8,emui,p30 lite,6.15,ips,12,no,1349,,plaza vea
+3000,huawei,8,13,nuevo,4G,2,1.4,16,2,emui,y7,,ips,12,no,749,,plaza vea
+4323,apple,12,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro max,6.7,super retina xdr oled,6,si,6592,,plaza vea
+3279,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 14,6,super retina xdr oled,6,si,4559,,plaza vea
+3200,apple,12,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro,6.7,super retina xdr oled,6,si,6153,,plaza vea
+3095,apple,12,12,reacondicionado,5G,6,3.23,256,6,ios,iphone 13 pro,6.1,super retina xdr oled,12,si,5159,,plaza vea
+4352,apple,12,12,reacondicionado,5G,6,3.23,256,6,ios,iphone 13 pro max,6.7,super retina xdr oled,12,si,5379,,plaza vea
+4352,apple,12,12,reacondicionado,5G,6,3.23,128,6,ios,iphone 13 pro max,6.7,super retina xdr oled,12,si,5079,,plaza vea
+3095,apple,12,12,reacondicionado,5G,6,3.23,128,6,ios,iphone 13 pro,6.1,super retina xdr oled,12,si,4859,,plaza vea
+2227,apple,12,12,reacondicionado,5G,6,3.1,128,4,ios,iphone 12 mini,5.4,super retina xdr oled,12,si,2129,,plaza vea
+2227,apple,12,12,reacondicionado,5G,6,3.1,128,3,ios,iphone 12 mini,5.4,super retina xdr oled,12,si,2129,,plaza vea
+2227,apple,12,12,reacondicionado,5G,6,3.1,256,3,ios,iphone 12 mini,5.4,super retina xdr oled,12,si,2309,,plaza vea
+2227,apple,12,12,reacondicionado,5G,6,3.1,256,4,ios,iphone 12 mini,,super retina xdr oled,12,si,2309,,plaza vea
+2018,apple,7,12,reacondicionado,5G,6,3.23,64,4,ios,iphone se,4.7,ips,12,si,2089,,plaza vea
+1821,apple,7,12,reacondicionado,4G,6,3.23,128,3,ios,iphone se,4.7,ips,12,si,1159,,plaza vea
+2018,apple,7,12,reacondicionado,5G,6,3.23,256,4,ios,iphone se,4.7,ips,12,si,2459,,plaza vea
+2018,apple,7,12,reacondicionado,5G,6,3.23,128,4,ios,iphone se,,ips,12,si,2279,,plaza vea
+1821,apple,7,12,reacondicionado,4G,6,3.23,256,3,ios,iphone se,4.7,ips,12,si,1289,,plaza vea
+3046,apple,12,12,reacondicionado,4G,6,2.65,128,4,ios,iphone 11 pro,5.8,super retina xdr oled,12,si,2279,,plaza vea
+1821,apple,7,12,reacondicionado,4G,6,3.23,256,3,ios,iphone se,4.7,ips,12,si,1289,,plaza vea
+3110,apple,12,12,reacondicionado,4G,6,2.65,256,4,ios,iphone 11,6.1,ips,12,si,2199,,plaza vea
+3200,apple,12,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro,6.7,super retina xdr oled,12,si,6499,,plaza vea
+4323,apple,12,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,6699,,plaza vea
+4323,apple,12,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,7199,,plaza vea
+3279,apple,12,12,nuevo,5G,6,3.23,256,6,ios,iphone 14,6,super retina xdr oled,12,si,5199,,plaza vea
+3200,apple,12,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro,,super retina xdr oled,12,si,6499,,plaza vea
+5000,samsung,40,108,nuevo,5G,8,2.99,256,12,android,galaxy s22 ultra,6.8,amoled,6,si,4998,,plaza vea
+5000,xiaomi,5,13,nuevo,4G,8,2,32,2,android,redmi 9a,6.5,ips,12,no,600,,plaza vea
+3000,motorola,5,,nuevo,4G,8,2,32,2,android,moto e6s,6.1,ips,12,no,900,,plaza vea
+650,smooth,0.3,0.3,nuevo,3G,1,,0.032,0.032,freedos,snap x,,ips,3,no,109,,plaza vea
+650,smooth,0.3,0.3,nuevo,3G,1,,0.032,0.032,freedos,snap x,,ips,3,no,69,,plaza vea
+900,smooth,0.3,0.3,nuevo,2G,1,1,0.032,0.032,freedos,snap mini,,ips,3,no,69,,plaza vea
+5000,xiaomi,20,200,nuevo,5G,8,3.2,256,12,android,mi 12t pro,6.7,ips,12,si,2799,,plaza vea
+5000,xiaomi,20,200,nuevo,5G,8,3.2,256,8,android,mi 12t pro,6.7,ips,12,si,2899,,plaza vea
+5000,xiaomi,5,8,nuevo,4G,2,2,32,2,android,redmi a1,6.5,ips,12,no,399,,plaza vea
+5000,xiaomi,5,8,nuevo,4G,2,2,32,2,android,redmi a1,6.5,ips,12,no,459,,plaza vea
+4520,xiaomi,20,,nuevo,5G,8,3.2,256,12,android,poco f4,,amoled,6,no,2700,,plaza vea
+,verykool,,,nuevo,4G,4,,0.032,0.032,freedos,i550,,ips,6,no,129,,plaza vea
+5000,samsung,32,64,nuevo,5G,2,2.4,128,8,android,galaxy a53,6.5,amoled,12,no,1749,,plaza vea
+5000,samsung,13,48,nuevo,4G,8,2,64,4,android,galaxy a22,6.4,ips,12,si,839,,plaza vea
+3279,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 14,6,super retina xdr oled,6,si,4629,,plaza vea
+3200,apple,12,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro,,super retina xdr oled,12,si,5999,,plaza vea
+4020,motorola,5,16,nuevo,4G,8,,64,2,android,moto e22i,6.5,ips,6,si,570,,plaza vea
+4000,samsung,12,64,reacondicionado,4G,8,,128,8,android,galaxy s20,,dynamic amoled,3,si,1625,,plaza vea
+5000,samsung,13,48,nuevo,5G,8,2.4,128,6,android,galaxy a33,6.4,super amoled,12,si,1309,,plaza vea
+3190,apple,12,12,reacondicionado,4G,6,2.65,64,4,ios,iphone 11 pro,,super retina xdr oled,3,si,2460,,plaza vea
+4500,samsung,10,64,reacondicionado,4G,8,,128,8,android,galaxy s20 plus,6.7,dynamic amoled,3,si,1977,,plaza vea
+2942,apple,7,,reacondicionado,4G,6,,128,3,ios,iphone xr,,ips,3,si,1559,,plaza vea
+3279,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 14,6,super retina xdr oled,6,si,4680,,plaza vea
+3700,samsung,10,12,nuevo,5G,8,3.19,128,8,android,galaxy z flip 4,6.7,dynamic amoled,6,si,3625,,plaza vea
+2815,apple,12,12,reacondicionado,5G,6,3.1,256,4,ios,iphone 12,,super retina xdr oled,12,si,3059,,plaza vea
+2815,apple,12,12,reacondicionado,4G,6,3.1,256,4,ios,iphone 12,,super retina xdr oled,12,si,3059,,plaza vea
+1850,apple,7,12,reacondicionado,4G,6,2.38,256,2,ios,iphone 8,,ips,3,si,1263,,plaza vea
+3000,movisun,5,13,nuevo,4G,4,1.3,32,2,android,movisun astro a1,,ips,12,no,395,,plaza vea
+5000,xiaomi,20,200,nuevo,5G,8,3.2,256,8,android,mi 12t pro,6.7,amoled,12,no,2799,,plaza vea
+5000,samsung,13,48,nuevo,5G,8,2.4,128,6,android,galaxy a33,6.4,super amoled,6,si,1278,,plaza vea
+4323,apple,12,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,7199,,plaza vea
+4323,apple,12,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro max,6.7,super retina xdr oled,,si,7399,,plaza vea
+4323,apple,12,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,6699,,plaza vea
+3279,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 14,6,super retina xdr oled,12,si,4849,,plaza vea
+5000,samsung,40,108,nuevo,5G,8,2.9,256,12,android,galaxy s21 ultra,6.8,dynamic amoled,6,si,4285,,plaza vea
+3240,apple,12,12,reacondicionado,5G,6,3.23,256,4,ios,iphone 13,,super retina xdr oled,12,si,3909,,plaza vea
+5000,motorola,16,50,nuevo,4G,2,2,128,4,android,moto g22,6.5,ips,12,no,859,,plaza vea
+3240,apple,12,12,reacondicionado,5G,6,3.23,256,4,ios,iphone 13,,super retina xdr oled,12,si,3909,,plaza vea
+2675,apple,7,12,reacondicionado,4G,6,2.4,256,3,ios,iphone 8 plus,,ips,3,si,1515,,plaza vea
+5000,motorola,16,50,nuevo,4G,8,2.3,128,4,android,moto g22,6.5,ips,12,no,919,,plaza vea
+4500,samsung,32,12,nuevo,5G,8,2.8,128,6,android,galaxy s20 fe,6.5,super amoled,,si,2099,1999,plaza vea
+3240,apple,,12,nuevo,5G,6,3.23,128,4,ios,iphone 13,6.1,super retina xdr oled,12,si,4699,,plaza vea
+5000,motorola,16,50,nuevo,4G,8,2.4,128,6,android,moto g52,,ips,12,no,999,,plaza vea
+4400,samsung,4,50,nuevo,5G,8,3.18,512,12,android,galaxy z fold4,7.6,dynamic amoled,,si,6999,,plaza vea
+3700,samsung,10,12,nuevo,5G,8,3.18,256,8,android,galaxy z flip 4,6.7,dynamic amoled,,si,3799,,plaza vea
+5000,xiaomi,5,8,nuevo,4G,4,2.4,64,2,android,redmi a1,6.5,ips,12,si,429,,plaza vea
+5000,verykool,,8,nuevo,4G,1,1,0.032,0.032,freedos,i880,,ips,12,si,129,,plaza vea
+3200,lg,8,13,nuevo,4G,8,1.5,16,3,android,stylus 3,5.7,ips,12,si,959,,plaza vea
+,xiaomi,8,40,nuevo,5G,8,2.4,128,6,android,mi 12 lite,6.7,amoled,12,si,1998,,plaza vea
+5000,samsung,5,50,nuevo,4G,8,2.3,64,4,android,galaxy a04,6.5,ips,12,no,599,,plaza vea
+4323,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 14 plus,6.7,super retina xdr oled,12,si,5599,,plaza vea
+5000,oneplus,32,48,nuevo,5G,8,3.2,256,8,android,oneplus 10 pro,6.7,amoled,6,si,3515,,plaza vea
+,xiaomi,32,108,nuevo,5G,8,1.9,128,8,android,redmi 12 lite,6.6,ips,12,no,1999,,plaza vea
+5000,xiaomi,20,200,nuevo,5G,8,3.2,256,8,android,mi 12t pro,6.7,amoled,12,no,2799,,plaza vea
+5000,xiaomi,20,108,nuevo,4G,8,3,256,8,android,mi 12t,6.7,amoled,12,no,2029,,plaza vea
+4300,xiaomi,32,108,nuevo,5G,8,2.4,128,8,android,mi 12 lite,6.6,amoled,12,no,1799,,plaza vea
+4150,umidigi,24,48,nuevo,4G,8,2,128,8,android,a9 pro,6.4,ips,12,no,799,,plaza vea
+4323,apple,12,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro max,6.7,super retina xdr oled,6,si,6592,,plaza vea
+3279,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 14,6,super retina xdr oled,12,si,4799,,plaza vea
+3279,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 14,6,super retina xdr oled,12,si,4599,,plaza vea
+5000,xiaomi,13,64,nuevo,4G,8,2.05,128,6,android,poco m5s,6.4,amoled,12,no,979,,plaza vea
+5000,samsung,5,13,nuevo,4G,8,1.6,32,2,android,galaxy a03,,ips,12,no,419,,plaza vea
+4200,zte,16,64,nuevo,5G,8,2.84,256,12,android,nubia red magic 6r,6.7,amoled,6,no,2329,,plaza vea
+5000,xiaomi,13,50,nuevo,4G,8,2.4,,,android,redmi note 11,6.43,ips,12,no,819,,plaza vea
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,amoled,6,no,1579,,plaza vea
+3700,samsung,10,12,nuevo,5G,8,3.19,256,8,android,galaxy z flip 4,6.7,dynamic amoled,6,si,3867,,plaza vea
+3500,lg,32,13,nuevo,5G,8,2.84,128,6,android,g8x thinq,6.4,oled,6,si,1384,,plaza vea
+5000,vivo,8,13,nuevo,4G,8,1.8,64,4,android,y20,6.51,ips,12,no,999,,plaza vea
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,,ips,6,no,1579,,plaza vea
+6000,tecno,8,13,nuevo,4G,8,2,64,,android,pova neo,6.7,ips,12,si,859,,plaza vea
+5000,samsung,13,48,nuevo,4G,8,2.4,128,6,android,galaxy a33,6.5,super amoled,12,si,1699,,plaza vea
+6000,samsung,20,40,nuevo,4G,8,2.3,64,4,android,galaxy m21s,6.4,super amoled,12,si,1089,,plaza vea
+,xiaomi,5,13,nuevo,5G,8,2.3,32,2,android,redmi 9c,6.4,ips,12,si,779,,plaza vea
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,amoled,12,si,1599,,plaza vea
+5000,motorola,16,50,nuevo,4G,8,2.3,128,4,android,moto g22,6.5,ips,12,no,859,,plaza vea
+5000,xiaomi,20,108,nuevo,5G,8,2.84,256,8,android,mi 11t pro,,amoled,6,no,2099,,plaza vea
+3110,apple,12,12,nuevo,5G,6,2.65,64,4,ios,iphone 11,,ips,12,si,2699,,plaza vea
+5000,samsung,13,48,nuevo,4G,8,2.4,128,6,android,galaxy a33,6.4,amoled,12,no,1299,,plaza vea
+3110,apple,12,12,nuevo,5G,6,2.65,64,4,ios,iphone 11,,ips,12,si,2899,,plaza vea
+3110,apple,12,12,nuevo,4G,6,2.65,128,4,ios,iphone 11,,ips,12,si,3199,,plaza vea
+5000,samsung,32,64,nuevo,5G,8,,128,6,android,galaxy a53,6.5,ips,12,si,1799,,plaza vea
+3000,motorola,5,,nuevo,4G,8,2,32,2,android,moto e6s,6.4,ips,12,si,1119,,plaza vea
+4323,apple,12,48,nuevo,5G,6,3.46,,6,ios,iphone 14 pro max,,super retina xdr oled,12,si,7129,,plaza vea
+3240,apple,12,12,nuevo,5G,6,3.23,128,4,ios,iphone 13,,super retina xdr oled,12,si,3899,,plaza vea
+3200,apple,12,48,nuevo,5G,6,3.46,,6,ios,iphone 14 pro,,super retina xdr oled,12,si,6799,,plaza vea
+5000,xiaomi,16,108,nuevo,4G,8,,128,6,android,redmi note 10 pro,,ips,,si,,1499,plaza vea
+5000,realme,5,12,nuevo,4G,8,,64,3,android,c3 rmx2020,,ips,,si,,769,plaza vea
+4700,xiaomi,20,64,nuevo,5G,8,,256,12,android,redmi k50 ge,6.7,oled,12,no,2819,,plaza vea
+4000,lg,32,13,nuevo,5G,8,,256,8,android,v50s thinq,6.4,oled,6,si,1515,,plaza vea
+4700,xiaomi,20,64,nuevo,5G,8,,256,12,android,redmi k50 ge,6.7,oled,6,no,2515,,plaza vea
+3190,apple,12,12,reacondicionado,4G,6,2.65,64,4,ios,iphone 11 pro,,super retina xdr oled,3,si,2438,,plaza vea
+1821,apple,8,12,reacondicionado,4G,6,3.23,128,3,ios,iphone se,,ips,3,si,1263,,plaza vea
+5000,xiaomi,16,108,nuevo,4G,8,2.5,128,6,android,redmi note 11 pro,,amoled,12,no,1299,,plaza vea
+5000,samsung,32,64,nuevo,5G,8,,128,6,android,galaxy a53,,ips,12,no,1799,,plaza vea
+5020,xiaomi,16,108,nuevo,4G,8,2.3,128,6,android,redmi note 10 pro,6.7,ips,12,no,1159,,plaza vea
+,samsung,8,50,nuevo,4G,8,2,64,4,android,galaxy a13,6.6,ips,12,no,699,,plaza vea
+5000,samsung,8,50,nuevo,4G,8,2,64,4,android,galaxy a13,6.6,ips,12,no,699,,plaza vea
+4500,xiaomi,16,108,nuevo,5G,8,2.5,128,8,android,redmi note 11 pro plus,,ips,12,no,1899,,plaza vea
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,amoled,12,no,1899,,plaza vea
+,huawei,8,50,nuevo,4G,8,,128,6,emui,nova y90,,ips,12,si,1049,,plaza vea
+5000,xiaomi,2,8,nuevo,4G,8,,32,2,android,redmi a1,6.5,ips,12,no,399,,plaza vea
+4323,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 14 plus,6.7,super retina xdr oled,12,si,5899,,plaza vea
+3279,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 14,6,super retina xdr oled,12,si,5399,,plaza vea
+1850,apple,7,12,reacondicionado,4G,6,2.38,64,2,ios,iphone 8,,ips,3,si,1076,,plaza vea
+1850,apple,7,12,reacondicionado,4G,6,2.38,64,2,ios,iphone 8,,ips,3,si,1076,,plaza vea
+3110,apple,12,12,reacondicionado,4G,6,2.65,64,4,ios,iphone 11,,ips,3,si,1999,,plaza vea
+2700,apple,7,,reacondicionado,4G,6,,64,3,ios,iphone x,,super retina xdr oled,3,si,1526,,plaza vea
+4000,wiko,16,64,nuevo,4G,8,,128,4,android,t50,,ips,12,si,869,,plaza vea
+5000,samsung,32,108,nuevo,5G,8,,256,8,android,galaxy a73,,amoled,12,no,2699,,plaza vea
+,motorola,,,nuevo,4G,8,1.6,32,2,android,moto e6i,,ips,12,si,589,,plaza vea
+,xiaomi,,50,nuevo,4G,8,2.4,128,4,android,redmi note 11,,amoled,12,si,989,,plaza vea
+,huawei,,,nuevo,4G,8,2.2,64,4,emui,y7a,,ips,12,si,939,,plaza vea
+,hyundai,,5,nuevo,4G,4,,32,1,android,e603,,ips,12,si,399,,plaza vea
+2942,apple,7,,reacondicionado,4G,6,,64,3,ios,iphone xr,,ips,3,si,1460,,plaza vea
+3700,samsung,10,12,nuevo,5G,8,3.19,128,8,android,galaxy z flip 4,,dynamic amoled,12,si,3799,,plaza vea
+3700,samsung,10,12,nuevo,5G,8,3.19,256,8,android,galaxy z flip 4,,dynamic amoled,12,si,3599,3499,plaza vea
+4500,xiaomi,20,64,nuevo,5G,8,3,256,8,android,poco f4 gt,6.7,amoled,12,si,2699,,plaza vea
+5000,samsung,16,48,nuevo,5G,8,2.4,128,6,android,galaxy a33,6.4,super amoled,6,no,1263,,plaza vea
+3200,zte,8,13,nuevo,4G,4,1.6,64,2,android,blade a5,6,ips,12,si,479,,plaza vea
+,samsung,,13,nuevo,4G,8,1.6,32,2,android,galaxy a03,6.5,amoled,12,si,479,,plaza vea
+4500,oneplus,32,,nuevo,5G,8,2.6,128,8,android,nord 2,6.4,amoled,6,no,1889,,plaza vea
+1821,apple,7,12,nuevo,5G,6,3.23,64,4,ios,iphone se,4.7,ips,6,si,2384,,plaza vea
+1821,apple,7,12,nuevo,5G,6,3.23,128,4,ios,iphone se,4.7,ips,6,si,2636,,plaza vea
+,samsung,,48,nuevo,4G,8,2.3,128,4,android,galaxy a12,6.5,amoled,12,si,879,,plaza vea
+,samsung,,13,nuevo,4G,8,2,32,2,android,galaxy a10s,6.5,ips,12,si,759,,plaza vea
+2942,apple,7,,reacondicionado,4G,6,,64,3,ios,iphone xr,6.1,ips,3,si,1460,,plaza vea
+,sony,,12,nuevo,4G,8,,,,android,xperia 1 iii,,ips,,si,,6809,plaza vea
+,motorola,,50,nuevo,4G,8,,,,android,moto edge 30 pro,,ips,,si,,3769,plaza vea
+5000,tecno,8,48,nuevo,4G,4,2,64,4,android,spark 8 pro,6.8,ips,13,no,899,,plaza vea
+5000,xiaomi,8,50,nuevo,4G,8,2,128,4,android,redmi 10,6,ips,6,no,899,,plaza vea
+5000,xiaomi,13,64,nuevo,4G,8,2,128,6,android,redmi note 10s,6.4,amoled,6,no,1399,,plaza vea
+,samsung,5,13,nuevo,4G,8,1.6,32,2,android,galaxy a03,6.5,ips,12,si,479,,plaza vea
+3227,apple,12,12,nuevo,4G,6,3.23,128,4,ios,iphone 13,6.1,super retina xdr oled,12,no,3999,,plaza vea
+3227,apple,12,12,nuevo,5G,6,3.23,128,4,ios,iphone 13,6.1,super retina xdr oled,12,no,3999,,plaza vea
+4150,umidigi,24,48,nuevo,4G,8,2,128,8,android,a9 pro,6.3,ips,12,no,1699,,plaza vea
+5000,samsung,32,64,nuevo,5G,8,,128,6,android,galaxy a53,6.5,ips,12,si,1699,,plaza vea
+5000,samsung,32,64,nuevo,5G,8,,128,6,android,galaxy a53,6.5,ips,12,si,2100,,plaza vea
+2942,apple,7,,reacondicionado,5G,6,,256,3,ios,iphone xr,6.1,super retina xdr oled,12,si,1559,,plaza vea
+3110,apple,12,12,reacondicionado,5G,6,2.65,64,4,ios,iphone 11,6.1,super retina xdr oled,12,si,1919,,plaza vea
+5150,umidigi,16,48,nuevo,4G,8,2,128,6,android,a13 pro,6.7,ips,12,no,799,,plaza vea
+5000,xiaomi,13,50,nuevo,4G,8,2.4,128,4,android,redmi note 11,6.5,ips,12,si,999,,plaza vea
+5000,samsung,8,48,nuevo,5G,8,2.2,128,3,android,galaxy a22,6.5,ips,12,si,1099,,plaza vea
+5000,samsung,32,64,nuevo,5G,8,2.2,128,6,android,galaxy a53,6.5,amoled,12,si,1699,,plaza vea
+5000,samsung,13,48,nuevo,4G,8,2,64,4,android,galaxy a22,6.5,ips,12,si,1099,,plaza vea
+5000,samsung,8,50,nuevo,4G,8,2.4,128,4,android,galaxy a23,6.5,ips,12,si,949,,plaza vea
+5000,samsung,20,64,nuevo,4G,8,2,128,4,android,galaxy a32,6.5,ips,12,si,1399,,plaza vea
+5000,samsung,5,13,nuevo,4G,8,1.6,32,3,android,galaxy a03,6.5,ips,12,si,599,,plaza vea
+5000,xiaomi,5,13,nuevo,4G,8,2,32,2,android,redmi 10a,6.5,ips,12,si,599,,plaza vea
+5000,samsung,5,13,nuevo,4G,8,1.6,32,2,android,galaxy a03,6.5,ips,12,si,449,,plaza vea
+5000,xiaomi,13,64,nuevo,4G,8,2.3,128,6,android,redmi note 10s,6.5,ips,12,si,999,,plaza vea
+5000,xiaomi,5,13,nuevo,4G,8,2.3,128,4,android,redmi 9c,6.5,ips,12,si,749,,plaza vea
+6000,xiaomi,8,50,nuevo,4G,8,2.2,128,4,android,redmi 10,6.5,ips,12,si,999,,plaza vea
+5000,xiaomi,5,13,nuevo,4G,8,2,32,2,android,redmi 10a,6.5,ips,12,si,599,,plaza vea
+5000,xiaomi,5,13,nuevo,4G,8,2,32,2,android,redmi 9a,6.5,ips,12,si,499,,plaza vea
+5000,xiaomi,8,50,nuevo,4G,8,2.4,128,4,android,redmi note 11,6.5,ips,12,no,949,,plaza vea
+800,movisun,,0.3,nuevo,3G,,,,,freedos,aplo k32,1.8,ips,12,no,165,,plaza vea
+4600,xiaomi,32,,nuevo,5G,8,,256,8,android,mi 12 pro,,amoled,12,si,4599,,plaza vea
+4500,xiaomi,32,50,nuevo,5G,8,,256,12,android,mi 12,,amoled,12,si,3199,,plaza vea
+5000,xiaomi,16,,nuevo,5G,8,3,256,8,android,mi 11t,,amoled,6,no,1799,,plaza vea
+5000,samsung,8,50,nuevo,4G,8,2.4,128,4,android,galaxy a23,6.6,ips,6,si,911,,plaza vea
+5000,xiaomi,16,108,nuevo,4G,8,2.4,128,4,android,redmi note 11s,,ips,12,no,1199,,plaza vea
+3800,generico,5,,nuevo,3G,1,1.3,32,1,android,lamate s120,6.1,ips,12,no,480,,plaza vea
+3800,generico,5,,nuevo,4G,1,1.3,32,2,android,lamate p100,6.5,ips,12,no,599,,plaza vea
+,xiaomi,5,13,nuevo,5G,8,2,32,2,android,redmi 10a,,ips,12,no,599,,plaza vea
+,motorola,60,50,nuevo,4G,8,2.5,256,12,android,moto edge 30 pro,,ips,12,no,2899,,plaza vea
+5000,xiaomi,5,50,nuevo,5G,8,2.4,128,4,android,redmi 10c,6.7,ips,6,si,735,,plaza vea
+5000,realme,8,50,nuevo,5G,8,2.4,128,6,android,9i,6.6,ips,12,si,1149,,plaza vea
+6000,motorola,32,,nuevo,4G,8,,128,6,android,moto g60,,ips,6,si,1098,,plaza vea
+5000,xiaomi,5,50,nuevo,5G,8,2.4,128,4,android,redmi 10c,6.71,ips,6,si,735,,plaza vea
+5000,xiaomi,5,13,nuevo,4G,8,2,32,2,android,redmi 10a,6.5,ips,6,no,499,,plaza vea
+3200,zte,8,13,nuevo,4G,8,2,64,2,android,blade a5,5.5,ips,12,no,489,,plaza vea
+950,lg,,1.3,nuevo,4G,,,32,,android,g360,,ips,6,si,193,,plaza vea
+5000,xiaomi,16,108,nuevo,4G,8,2.4,128,8,android,redmi note 11s,6.43,ips,6,si,1230,,plaza vea
+5000,xiaomi,13,50,nuevo,4G,8,2.4,128,4,android,redmi note 11,6.43,ips,6,si,845,,plaza vea
+950,lg,,1.3,nuevo,4G,,,32,,android,g360,,ips,6,si,188,,plaza vea
+5000,xiaomi,16,108,nuevo,5G,8,2.84,256,8,android,mi 11t pro,6.67,ips,6,si,2175,,plaza vea
+5000,xiaomi,16,108,nuevo,4G,8,2.4,128,8,android,redmi note 11s,6.43,ips,6,si,1230,,plaza vea
+5000,xiaomi,13,64,nuevo,5G,8,2.4,128,6,android,redmi note 10s,6.43,ips,6,si,933,,plaza vea
+5000,xiaomi,16,,nuevo,5G,8,3,256,8,android,mi 11t,6.67,ips,6,si,1867,,plaza vea
+2942,apple,7,,reacondicionado,4G,6,,64,3,ios,iphone xr,6.1,super retina xdr oled,12,si,1319,,plaza vea
+5000,xiaomi,16,108,nuevo,4G,8,2.5,128,6,android,redmi note 11 pro,6.7,amoled,12,si,1349,,plaza vea
+5000,xiaomi,16,108,nuevo,5G,8,2.8,256,8,android,mi 11t pro,,amoled,6,si,1998,,plaza vea
+5000,xiaomi,16,108,nuevo,5G,8,2.84,256,8,android,mi 11t pro,,amoled,6,si,2054,,plaza vea
+5000,samsung,40,108,nuevo,4G,8,2.99,256,12,android,galaxy s22 ultra,6.8,ips,6,si,4867,,plaza vea
+3700,samsung,10,50,nuevo,4G,8,2.99,128,8,android,galaxy s22,6.1,ips,6,no,3131,,plaza vea
+2046,apple,12,12,nuevo,5G,6,3.23,128,4,ios,iphone 13,6.1,oled,12,si,4589,,plaza vea
+3240,apple,12,12,nuevo,5G,6,3.23,128,4,ios,iphone 13,6.1,oled,12,si,4199,,plaza vea
+2815,apple,12,12,nuevo,5G,6,3.1,128,4,ios,iphone 12,,oled,12,si,4099,,plaza vea
+,xiaomi,32,50,nuevo,5G,8,3,256,8,android,mi 12,6.28,amoled,12,no,3399,,plaza vea
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,super amoled,12,si,1549,,plaza vea
+,apple,,12,nuevo,5G,6,3.23,,6,ios,iphone 13 pro max,6.7,ips,12,si,8890,,plaza vea
+,apple,,12,nuevo,5G,6,3.23,,6,ios,iphone 13 pro max,6.7,ips,12,si,9980,,plaza vea
+,xiaomi,16,108,nuevo,4G,8,2.4,128,6,android,redmi note 11s,6.4,ips,12,si,999,,plaza vea
+5000,samsung,8,48,nuevo,5G,8,2.2,128,4,android,galaxy a22,6.4,ips,12,si,1169,,plaza vea
+5000,samsung,50,50,nuevo,4G,8,2.4,128,6,android,galaxy a23,6.6,ips,12,si,1049,,plaza vea
+5000,xiaomi,5,50,nuevo,4G,8,2.4,128,4,android,redmi 10c,6.7,ips,6,si,724,,plaza vea
+4500,xiaomi,32,50,nuevo,4G,8,3,256,8,android,mi 12,6.3,oled,6,no,3890,,plaza vea
+4040,samsung,8,64,nuevo,5G,8,,128,8,android,galaxy a53,6.5,ips,6,si,1779,,plaza vea
+5000,xiaomi,16,108,nuevo,4G,8,2.4,128,8,android,redmi note 11s,6.4,ips,6,si,1230,,plaza vea
+5000,xiaomi,16,108,nuevo,5G,8,,128,6,android,mi 11t pro,6.7,ips,6,si,2054,,plaza vea
+5000,xiaomi,,108,nuevo,4G,8,2.5,128,6,android,redmi note 11 pro,6.7,amoled,12,si,1229,,plaza vea
+5000,samsung,13,48,nuevo,4G,8,2.2,128,4,android,galaxy a22,6.4,super amoled,12,no,799,749,plaza vea
+,samsung,8,,nuevo,4G,8,2.3,64,6,android,galaxy note 8,,ips,6,si,1427,,plaza vea
+,huawei,32,48,nuevo,4G,8,2.2,128,4,emui,p30 lite,,ips,12,si,977,,plaza vea
+,xiaomi,20,,nuevo,4G,8,,256,8,android,mi 11i,,ips,6,si,2384,,plaza vea
+5000,samsung,13,48,nuevo,4G,8,2,128,4,android,galaxy a22,,ips,6,si,879,,plaza vea
+3060,alcatel,5,13,nuevo,4G,8,1.6,32,2,android,1se,5.5,ips,7,no,599,,plaza vea
+5150,umidigi,8,13,nuevo,4G,8,,64,3,android,a9,6.53,ips,12,no,549,,plaza vea
+,xiaomi,16,108,nuevo,4G,8,2,128,6,android,redmi note 10 pro,,ips,6,si,1069,,plaza vea
+3110,apple,12,12,nuevo,4G,6,2.65,64,4,ios,iphone 11,,ips,6,si,2526,,plaza vea
+3110,apple,12,12,nuevo,4G,6,2.65,64,4,ios,iphone 11,,ips,12,si,4899,,plaza vea
+,xiaomi,13,64,nuevo,4G,8,,128,6,android,redmi note 10s,,ips,6,si,933,,plaza vea
+,samsung,8,,nuevo,4G,8,2.35,64,4,android,galaxy s8 plus,,super amoled,6,si,1296,,plaza vea
+3200,zte,8,13,nuevo,4G,8,,64,2,android,blade a5,,ips,12,si,445,,plaza vea
+,apple,12,12,nuevo,4G,6,2.5,64,4,ios,iphone 12 mini,,super retina xdr oled,3,si,3979,,plaza vea
+,sky devices,2,5,nuevo,4G,4,1.4,32,1,freedos,elite c5,,ips,7,si,299,,plaza vea
+,zte,5,5,nuevo,4G,4,1.3,32,1,android,blade l8,,ips,7,si,299,,plaza vea
+,xiaomi,20,,nuevo,5G,8,2.84,,8,android,mi 10t pro,,ips,12,si,2999,,plaza vea
+,samsung,8,48,nuevo,4G,8,2.3,64,4,android,galaxy a12,,ips,12,si,746,,plaza vea
+5000,motorola,16,16,nuevo,4G,8,3,64,4,android,moto g8,6.4,ips,,no,499,459,plaza vea
+5000,xiaomi,5,13,nuevo,5G,8,3,32,2,android,redmi 9a,6.5,ips,,no,499,,plaza vea
+5000,xiaomi,5,8,nuevo,4G,4,,32,2,android,redmi a1,6,ips,12,no,,699,saga
+5000,samsung,13,48,nuevo,5G,8,2.4,128,6,android,galaxy a33,6.4,amoled,12,si,1199,,saga
+3900,samsung,12,50,nuevo,5G,8,3.36,128,8,android,galaxy s23,6.1,dynamic amoled,12,si,,3999,saga
+3200,apple,12,48,nuevo,5G,6,3.46,128,,ios,iphone 14 pro,6.1,super retina xdr oled,12,si,5899,,saga
+4300,honor,16,64,nuevo,4G,8,2,128,6,android,honor 50 lite,6.57,ips,12,no,999,,saga
+4500,samsung,32,12,nuevo,5G,8,2.9,128,6,android,galaxy s21 fe,6.4,dynamic amoled,12,si,2799,,saga
+5000,samsung,12,200,nuevo,5G,8,3.36,256,8,android,galaxy s23 ultra,6.8,dynamic amoled,12,si,,5599,saga
+5000,samsung,5,50,nuevo,4G,8,2.3,64,3,android,galaxy a04e,6.5,ips,12,no,499,489,saga
+5000,motorola,13,48,nuevo,4G,8,2,64,4,android,moto g20,6.5,ips,12,si,,764,saga
+2775,apple,12,12,nuevo,5G,6,2.5,128,,ios,iphone 12,6.1,super retina xdr oled,12,si,3499,,saga
+3200,apple,12,48,nuevo,5G,6,3.46,128,,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,6499,6299,saga
+4500,samsung,32,12,nuevo,5G,8,,128,6,android,galaxy s20 fe,6.5,amoled,12,si,1899,,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,amoled,12,si,,1629,saga
+3110,apple,12,12,nuevo,4G,6,2.65,128,,ios,iphone 11,6.1,super retina xdr oled,12,si,2499,,saga
+5000,samsung,8,50,nuevo,4G,8,2.4,128,4,android,galaxy a23,,ips,12,si,849,,saga
+3227,apple,12,12,nuevo,5G,6,3.23,256,,ios,iphone 13,6.1,super retina xdr oled,12,si,4699,,saga
+4325,apple,12,12,nuevo,5G,6,3.23,128,,ios,iphone 14 plus,6.7,super retina xdr oled,12,si,4999,,saga
+5000,samsung,5,50,nuevo,4G,8,2.3,32,3,android,galaxy a04e,6.5,ips,12,no,429,419,saga
+4500,samsung,32,12,nuevo,5G,8,2.8,128,6,android,galaxy s20 fe,6.5,super amoled,12,si,1999,,saga
+5000,samsung,5,50,nuevo,4G,8,2.3,64,4,android,galaxy a04,6.5,ips,12,no,549,,saga
+5000,samsung,13,48,nuevo,4G,8,2,128,4,android,galaxy a22,,ips,12,si,749,,saga
+5000,samsung,8,50,nuevo,4G,8,2,64,4,android,galaxy a13,6.6,ips,12,si,649,,saga
+5000,samsung,5,50,nuevo,4G,8,2.3,64,4,android,galaxy a04,6.5,ips,12,no,529,,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,super amoled,12,si,1599,,saga
+2227,apple,,12,reacondicionado,5G,6,2.5,64,4,ios,iphone 12 mini,6,ips,3,si,2799,,saga
+4000,motorola,5,13,nuevo,4G,8,,32,2,android,moto e20,6,ips,12,si,799,,saga
+4000,motorola,8,13,nuevo,4G,8,,32,2,android,moto e20,6,ips,12,si,799,,saga
+3110,apple,12,12,nuevo,4G,6,2.65,64,,ios,iphone 11,6.1,super retina xdr oled,12,si,2299,,saga
+4325,apple,12,12,nuevo,5G,6,3.23,256,,ios,iphone 14 plus,6.7,super retina xdr oled,12,si,5599,,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,amoled,12,si,1699,,saga
+3700,samsung,10,50,nuevo,5G,8,2.99,128,8,android,galaxy s22,6.1,dynamic amoled,12,si,3299,,saga
+5000,samsung,13,48,nuevo,4G,8,2.4,128,6,android,galaxy a33,6.4,amoled,12,si,1199,,saga
+4520,xiaomi,20,48,nuevo,5G,8,3.2,256,8,android,poco f3,6.67,amoled,12,si,2799,,saga
+3270,apple,12,12,nuevo,5G,6,3.23,128,,ios,iphone 14,6.1,super retina xdr oled,12,si,4499,,saga
+5000,samsung,8,50,nuevo,4G,8,2,64,4,android,galaxy a13,6.6,ips,12,si,649,,saga
+3700,samsung,10,12,nuevo,5G,8,3.19,128,8,android,galaxy z flip 4,6.7,dynamic amoled,12,si,3699,,saga
+4300,huawei,,64,nuevo,4G,8,,64,6,emui,nova 8i,6.76,ips,12,si,899,869,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,amoled,12,si,1779,1619,saga
+4020,motorola,5,16,nuevo,4G,8,,64,2,android,moto e22i,,ips,12,si,479,,saga
+3190,apple,12,12,reacondicionado,4G,6,2.65,64,4,ios,iphone 11 pro,5.8,super retina xdr oled,3,si,,2416,saga
+2406,apple,,12,reacondicionado,4G,6,3.23,128,4,ios,iphone 13 mini,5.5,super retina xdr oled,3,si,4699,,saga
+4250,xiaomi,20,64,nuevo,5G,8,2.4,128,8,android,mi 11 lite,6.55,amoled,12,si,2099,,saga
+5000,motorola,2,48,nuevo,4G,8,1.6,32,2,android,moto e30,6.5,ips,12,si,689,,saga
+5000,samsung,5,13,nuevo,4G,8,1.6,32,2,android,galaxy a03,6.5,ips,12,si,509,,saga
+2942,apple,7,,reacondicionado,5G,6,2.5,128,3,ios,iphone xr,6.1,ips,3,si,,1559,saga
+5000,samsung,5,50,nuevo,4G,8,2.3,64,4,android,galaxy a04,6,ips,12,si,699,,saga
+4352,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 13 pro max,6.7,super retina xdr oled,12,si,,7999,saga
+6000,huawei,,48,nuevo,4G,8,,128,4,emui,nova y70,6.75,ips,12,si,779,769,saga
+5000,motorola,8,48,nuevo,4G,8,1.8,32,2,android,moto e30,6.5,ips,12,si,,570,saga
+5000,xiaomi,16,108,nuevo,5G,8,2.84,256,8,android,mi 11t pro,6.67,amoled,12,si,3399,,saga
+5000,samsung,12,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,super amoled,12,si,1799,,saga
+2700,apple,7,,reacondicionado,5G,6,2.5,256,3,ios,iphone x,5.8,oled,3,si,,1647,saga
+5000,xiaomi,16,108,nuevo,5G,8,,256,8,android,mi 11t pro,6.67,amoled,12,si,2999,,saga
+5000,samsung,5,50,nuevo,4G,8,2.3,64,3,android,galaxy a04,6,ips,12,si,549,499,saga
+4300,xiaomi,32,40,nuevo,5G,8,2.4,128,8,android,mi 12 lite,6,amoled,12,si,2499,,saga
+4600,xiaomi,32,,nuevo,4G,8,3,256,8,android,mi 12 pro,6.7,amoled,12,si,,4999,saga
+4600,xiaomi,32,,nuevo,4G,8,3,256,8,android,mi 12 pro,6.7,amoled,12,si,,4999,saga
+2900,apple,12,12,reacondicionado,4G,6,1.85,32,2,ios,iphone 6s,,ips,3,no,1200,,saga
+1850,apple,7,12,nuevo,4G,6,2.4,64,2,ios,iphone 8,4.7,amoled,12,si,,1349,saga
+3227,apple,12,12,nuevo,4G,6,3.23,128,4,ios,iphone 13,6.1,super retina xdr oled,12,si,4999,,saga
+4323,apple,12,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,7799,,saga
+3000,huawei,5,13,nuevo,4G,8,1.1,32,2,emui,y6,6,ips,12,si,899,,saga
+5000,xiaomi,20,108,nuevo,5G,8,,256,8,android,mi 12t,6.67,amoled,12,si,3299,,saga
+5000,samsung,8,50,nuevo,5G,8,2,64,4,android,galaxy a13,6.6,ips,12,no,,699,saga
+3000,huawei,8,13,nuevo,4G,8,1.8,32,3,emui,y7,6,ips,12,si,899,,saga
+5000,xiaomi,20,200,nuevo,5G,8,,256,8,android,mi 12t pro,6.67,amoled,12,si,4199,,saga
+2700,apple,7,,reacondicionado,5G,6,2.5,64,2,ios,iphone x,5.8,super retina xdr oled,3,si,,1526,saga
+5000,huawei,,50,nuevo,4G,8,,128,6,emui,nova y90,6.7,ips,12,si,,1099,saga
+3700,samsung,10,12,nuevo,5G,8,3.18,256,8,android,galaxy z flip 4,6.7,dynamic amoled,12,si,3899,,saga
+5000,huawei,8,50,nuevo,4G,8,,128,6,emui,nova y90,6.7,ips,12,si,1099,1049,saga
+2942,apple,7,,reacondicionado,5G,6,2.5,64,3,ios,iphone xr,6.1,super retina xdr oled,3,si,,1427,saga
+3969,apple,12,12,reacondicionado,4G,6,2.66,64,4,ios,iphone 11 pro max,,oled,3,si,2927,2680,saga
+5000,samsung,,50,nuevo,4G,8,2,64,,android,galaxy a13,6.6,ips,12,no,849,,saga
+3200,zte,5,13,nuevo,4G,8,,64,2,android,blade a51,6,ips,12,si,999,,saga
+4000,motorola,5,13,nuevo,4G,8,1.6,32,2,android,moto e20,6,ips,12,no,399,,saga
+4250,xiaomi,20,64,nuevo,5G,8,2.4,128,8,android,mi 11 lite,6.55,amoled,12,si,1899,,saga
+,samsung,5,13,nuevo,4G,8,1.6,32,3,android,galaxy a03,6,ips,12,si,799,,saga
+2775,apple,12,12,nuevo,5G,6,2.5,64,2,ios,iphone 12,6.1,super retina xdr oled,12,si,3999,,saga
+5000,xiaomi,20,64,nuevo,5G,8,,128,6,android,mi 10t,6.67,amoled,12,si,2499,,saga
+4250,xiaomi,,64,nuevo,4G,8,2.4,128,6,android,mi 11 lite,6.55,amoled,12,si,,1799,saga
+4250,xiaomi,20,64,nuevo,5G,8,2.4,128,8,android,mi 11 lite,6.55,amoled,12,si,1999,,saga
+5000,samsung,,13,nuevo,4G,8,1.6,32,3,android,galaxy a03,6,ips,12,si,,549,saga
+5000,xiaomi,,,nuevo,5G,8,2.6,256,8,android,mi 11t,6.67,amoled,12,si,1899,1799,saga
+4000,motorola,5,13,nuevo,4G,8,1.6,32,2,android,moto e20,6,ips,12,no,589,549,saga
+2658,apple,,12,reacondicionado,5G,6,2.49,256,4,ios,iphone xs,4,ips,3,si,3199,,saga
+4000,motorola,5,13,nuevo,4G,8,1.6,32,2,android,moto e20,6,ips,12,no,579,529,saga
+4323,apple,12,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,7099,,saga
+5000,xiaomi,,108,nuevo,4G,8,,256,8,android,mi 11t pro,6.67,amoled,12,si,,3399,saga
+4500,xiaomi,,50,nuevo,5G,8,,256,8,android,mi 12,6.28,amoled,12,si,,3599,saga
+4500,xiaomi,20,,nuevo,5G,8,3.2,128,8,android,poco f4,6,amoled,12,si,2799,,saga
+5000,samsung,5,13,nuevo,4G,8,1.6,32,2,android,galaxy a03,6,ips,12,si,899,,saga
+5000,samsung,5,13,nuevo,4G,8,1.6,32,2,android,galaxy a03,6,ips,12,si,499,,saga
+5000,xiaomi,8,50,nuevo,4G,8,2.2,128,4,android,redmi 10,6.5,ips,12,si,1299,,saga
+,samsung,5,13,nuevo,4G,8,1.6,32,2,android,galaxy a03,6,ips,12,si,599,,saga
+3227,apple,12,12,nuevo,4G,6,3.23,128,4,ios,iphone 13,6.1,super retina xdr oled,12,si,4599,,saga
+5000,samsung,5,13,nuevo,4G,8,1.6,32,2,android,galaxy a03,6,ips,12,si,599,,saga
+,xiaomi,8,50,nuevo,4G,8,2.2,128,4,android,redmi 10,6.5,ips,12,si,1319,1299,saga
+5000,xiaomi,5,13,nuevo,4G,8,2,64,3,android,redmi 10a,6.53,ips,12,si,999,,saga
+5000,samsung,,13,nuevo,4G,8,1.6,32,3,android,galaxy a03,6,ips,12,si,,649,saga
+4352,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 13 pro max,6.7,super retina xdr oled,12,si,,6499,saga
+4020,motorola,5,16,nuevo,4G,8,2.3,64,2,android,moto e22i,,ips,12,si,699,,saga
+2650,zte,8,8,nuevo,4G,8,1.3,1,1,android,blade l210,6.5,ips,12,si,,349,saga
+3340,huawei,32,48,nuevo,4G,8,2.2,128,4,emui,p30 lite,6.15,ips,12,si,977,,saga
+3110,apple,12,12,reacondicionado,4G,6,2.65,64,4,ios,iphone 11,6.1,ips,3,si,,1699,saga
+5000,motorola,8,48,nuevo,4G,8,1.8,32,2,android,moto e30,6.5,ips,12,no,999,,saga
+2675,apple,7,12,reacondicionado,4G,6,2.4,256,3,ios,iphone 8 plus,5.5,super retina xdr oled,3,si,,1515,saga
+5000,samsung,5,13,nuevo,4G,8,1.6,32,3,android,galaxy a03,6,ips,12,si,999,,saga
+3200,zte,8,13,nuevo,5G,8,,32,2,android,blade a5 2020,6,ips,12,no,549,,saga
+5000,motorola,8,48,nuevo,4G,8,1.8,24,2,android,e30,6.5,ips,12,no,699,,saga
+5000,xiaomi,5,13,nuevo,4G,8,2,32,2,android,redmi 10a,6.53,ips,12,si,,499,saga
+2675,apple,7,12,nuevo,4G,6,2.4,64,3,android,iphone 8 plus,5.5,ips,12,si,,1599,saga
+4300,xiaomi,32,40,nuevo,5G,8,2.4,256,8,android,mi 12 lite,6,amoled,12,si,2999,,saga
+1850,apple,7,12,nuevo,4G,6,2.4,64,2,ios,iphone 8,4.7,amoled,12,si,,1399,saga
+5000,xiaomi,5,13,nuevo,4G,8,2,64,3,android,redmi 10a,6.53,ips,12,si,999,,saga
+5000,xiaomi,5,13,nuevo,4G,8,2,64,3,android,redmi 10a,6.53,ips,12,si,,576,saga
+5000,samsung,8,48,nuevo,4G,8,2.3,64,4,android,galaxy a12,,ips,12,si,1299,,saga
+4323,apple,12,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,8999,,saga
+,samsung,8,48,nuevo,4G,8,2.3,64,4,android,galaxy a12,,ips,12,si,,899,saga
+,samsung,8,48,nuevo,4G,8,2.3,64,4,android,galaxy a12,,ips,12,si,,899,saga
+1821,apple,,12,reacondicionado,5G,6,,128,3,ios,iphone se,4,ips,3,si,2299,,saga
+3227,apple,,12,nuevo,4G,6,3.23,128,4,ios,iphone 13,6.1,ips,12,si,,4099,saga
+5000,samsung,8,50,nuevo,4G,8,2,64,4,android,galaxy a13,6.6,ips,12,si,899,,saga
+5000,samsung,8,50,nuevo,4G,8,2,32,3,android,galaxy a13,6.6,ips,12,si,1299,,saga
+3000,zte,2,13,nuevo,4G,8,1.6,32,1,android,blade a31 plus,6,ips,12,si,,339,saga
+5000,samsung,8,50,nuevo,4G,8,2,32,3,android,galaxy a13,6.6,ips,12,si,1299,,saga
+5000,xiaomi,5,13,nuevo,4G,8,2,32,2,android,redmi 10a,6.53,ips,12,si,,599,saga
+5000,xiaomi,5,50,nuevo,4G,8,2.4,64,3,android,redmi 10c,6.7,ips,12,no,,699,saga
+5000,motorola,8,13,nuevo,4G,8,1.6,32,4,android,moto e32,6.5,ips,12,no,549,,saga
+5000,xiaomi,5,50,nuevo,4G,8,2.4,64,3,android,redmi 10c,6.7,ips,12,no,,699,saga
+5000,samsung,8,50,nuevo,4G,8,2,64,,android,galaxy a13,6.6,ips,12,si,999,,saga
+5000,xiaomi,5,13,nuevo,4G,8,2,32,2,android,redmi 9a,,ips,12,si,499,,saga
+3200,zte,8,13,nuevo,5G,8,1.6,64,2,android,blade a5 2020,6,ips,12,no,,550,saga
+2675,apple,12,12,reacondicionado,4G,6,2.4,64,3,ios,iphone 8 plus,5.5,ips,3,si,,1199,saga
+4100,samsung,10,12,nuevo,4G,8,2.84,128,8,android,galaxy s10 plus,6,ips,12,si,2398,,saga
+5000,realme,,48,nuevo,4G,8,2.2,128,4,android,realme 8,6.5,ips,12,si,,1099,saga
+4300,xiaomi,32,40,nuevo,5G,8,2.4,256,8,android,mi 12 lite,6,amoled,12,si,2499,,saga
+2942,apple,7,,reacondicionado,5G,6,2.5,64,3,ios,iphone xr,6.1,ips,3,si,1526,1395,saga
+5000,verykool,,8,nuevo,4G,,,,,freedos,i880,,ips,12,si,,109,saga
+5000,xiaomi,5,13,nuevo,4G,8,2,32,2,android,redmi 9a,,ips,12,si,499,,saga
+5000,xiaomi,5,13,nuevo,4G,8,2.3,32,2,android,redmi 9c,6,ips,12,si,1230,,saga
+950,lg,,1.3,nuevo,4G,1,,32,,android,g360,3.2,ips,12,no,,180,saga
+1821,apple,8,12,reacondicionado,5G,6,2.65,128,3,ios,iphone se,4.7,ips,3,si,,1208,saga
+,xiaomi,5,13,nuevo,4G,8,2.3,64,3,android,redmi 9c,6,ips,12,si,,899,saga
+5000,samsung,13,48,nuevo,4G,8,2.2,128,6,android,galaxy a22,6.4,ips,12,si,,920,saga
+4000,motorola,2,48,nuevo,4G,8,,32,2,android,moto e7,6,ips,12,si,899,,saga
+5000,xiaomi,5,8,nuevo,4G,8,,32,2,android,redmi a1,6,ips,12,no,,399,saga
+4400,motorola,32,50,nuevo,5G,8,3,256,12,android,edge 30 neo,6.6,oled,12,no,2499,,saga
+5020,xiaomi,16,108,nuevo,4G,8,2.3,128,8,android,redmi note 10 pro,6.6,amoled,12,si,1499,,saga
+4020,motorola,13,50,nuevo,5G,8,2.2,128,8,android,edge 30 neo,6.6,oled,12,no,1699,,saga
+5020,xiaomi,16,108,nuevo,4G,8,2.3,256,8,android,redmi note 10 pro,6.6,amoled,12,si,1700,,saga
+4323,apple,13,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,8999,,saga
+5020,xiaomi,16,108,nuevo,4G,8,2.3,128,6,android,redmi note 10 pro,6.6,amoled,12,si,1699,,saga
+5020,xiaomi,16,108,reacondicionado,4G,8,2.3,256,8,android,redmi note 10 pro,6.6,amoled,3,si,1599,,saga
+4500,xiaomi,20,,nuevo,5G,8,3.2,128,6,android,poco f4,6,amoled,12,si,2699,,saga
+3046,apple,12,12,reacondicionado,4G,6,2.65,64,4,ios,iphone 11 pro,5,ips,3,si,2580,2362,saga
+5020,xiaomi,16,108,nuevo,4G,8,2.3,128,6,android,redmi note 10 pro,6.6,amoled,12,si,1499,,saga
+,motorola,16,64,nuevo,4G,,,,4,android,moto g9 power,6.7,ips,12,si,1599,,saga
+1850,apple,7,12,reacondicionado,4G,6,2.4,128,2,ios,iphone 8,4.7,ips,3,si,1251,1142,saga
+5020,xiaomi,16,108,nuevo,4G,8,2.3,256,8,android,redmi note 10 pro,6.6,amoled,12,si,1499,,saga
+4360,huawei,,50,nuevo,4G,8,,256,8,emui,p50 pro,6.6,ips,12,si,,4499,saga
+2775,apple,12,12,reacondicionado,5G,6,2.5,128,4,ios,iphone 12,6.1,super retina xdr oled,3,si,,2699,saga
+5000,samsung,8,50,nuevo,4G,8,2,64,4,android,galaxy a13,6.6,ips,12,si,1299,,saga
+600,lh electronic,,0.3,nuevo,2G,,,32,2,android,f2g,1.6,ips,12,no,,59,saga
+800,nokia,,,nuevo,2G,1,,,,freedos,nokia 106,1.8,ips,12,si,150,,saga
+2775,apple,12,12,nuevo,5G,6,2.5,128,4,ios,iphone 12,6.1,super retina xdr oled,12,si,4299,3899,saga
+3000,samsung,8,12,nuevo,4G,8,2.35,64,4,android,galaxy s8,5.8,super amoled,12,si,,1241,saga
+4000,vivo,40,,nuevo,5G,8,2.4,128,8,android,v21,6.5,amoled,12,si,1799,,saga
+5000,samsung,,50,nuevo,4G,8,2,64,4,android,galaxy a13,6.6,ips,12,si,,799,saga
+5020,xiaomi,16,108,nuevo,4G,8,2.3,128,8,android,redmi note 10 pro,6.6,amoled,12,si,1699,,saga
+5000,samsung,8,50,nuevo,4G,8,2.2,64,4,android,galaxy a13,6.6,ips,12,si,799,,saga
+600,bmobile,,0.3,nuevo,4G,,,32,,freedos,k386,1,ips,12,si,99,,saga
+2675,apple,12,12,reacondicionado,4G,6,2.4,64,3,ios,iphone 8 plus,5.5,ips,3,si,2214,,saga
+3000,samsung,5,,nuevo,4G,8,1.5,16,1,android,galaxy a01,5.3,ips,12,si,,409,saga
+5000,xiaomi,13,50,nuevo,4G,8,2.4,128,4,android,redmi note 11,6.4,amoled,12,si,,897,saga
+3000,huawei,8,13,nuevo,4G,8,1.8,64,4,emui,y7,6,ips,12,si,899,,saga
+5000,xiaomi,13,50,nuevo,4G,8,2.4,128,4,android,redmi note 11,6.4,amoled,12,si,1099,,saga
+5000,xiaomi,13,50,nuevo,4G,8,2.4,128,4,android,redmi note 11,6.4,amoled,12,si,999,,saga
+4800,motorola,32,50,nuevo,5G,8,3,256,12,android,edge 30 neo,6.6,oled,12,no,3199,,saga
+,samsung,13,48,nuevo,4G,8,2,128,4,android,galaxy a22,,ips,12,si,1849,,saga
+4000,lg,13,32,reacondicionado,4G,8,,64,3,android,k51s,6,ips,3,si,520,471,saga
+5000,huawei,8,,nuevo,4G,8,2.2,64,4,emui,y7a,6.7,ips,12,si,,847,saga
+3969,apple,12,12,reacondicionado,4G,6,2.66,256,4,ios,iphone 11 pro max,,ips,3,si,3227,2955,saga
+800,universal,,,nuevo,4G,,,,,freedos,gol z1 jr,1.8,ips,12,si,,129,saga
+600,nokia,,,nuevo,4G,1,,,,freedos,nokia 106,1.8,ips,12,si,115,106,saga
+,motorola,8,50,nuevo,4G,8,2,128,4,android,moto g31,6,ips,12,si,949,,saga
+5000,vivo,8,13,nuevo,4G,8,1.8,32,3,android,y11s,6.5,ips,12,si,669,,saga
+800,nokia,,0.3,nuevo,2G,1,1,4,,freedos,nokia 110,1.7,ips,12,si,,109,saga
+4323,apple,12,48,nuevo,5G,6,3.46,256,,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,9699,,saga
+3227,apple,12,12,nuevo,4G,6,3.23,128,4,ios,iphone 13,6.1,super retina xdr oled,12,si,4999,,saga
+5000,samsung,13,48,nuevo,4G,8,2,128,4,android,galaxy a22,,ips,12,si,1499,,saga
+5000,samsung,13,48,nuevo,4G,8,2,128,4,android,galaxy a22,,ips,12,si,1499,,saga
+3340,huawei,32,48,nuevo,4G,8,,256,6,emui,p30 lite,6.15,ips,12,si,1322,1208,saga
+3190,apple,12,12,reacondicionado,4G,6,2.65,64,4,ios,iphone 11 pro,5,super retina xdr oled,3,si,,2416,saga
+800,nokia,,0.3,nuevo,4G,1,1,,,freedos,nokia 110,1.7,ips,12,si,169,,saga
+3046,apple,12,12,reacondicionado,4G,6,2.65,64,4,ios,iphone 11,6.1,ips,3,si,,1999,saga
+1000,generico,,,nuevo,4G,,,32,,android,gol g1 porto,1.7,ips,12,si,,109,saga
+3200,zte,8,13,nuevo,5G,8,,64,2,android,blade a5 2020,6,ips,12,no,478,439,saga
+5000,samsung,8,48,nuevo,5G,8,2.2,128,4,android,galaxy a22,,ips,12,si,1599,,saga
+3200,zte,5,13,nuevo,4G,8,1.6,32,2,android,blade a51 lite,6,ips,12,si,569,,saga
+4000,motorola,5,13,nuevo,4G,8,,32,2,android,moto e20,6,ips,12,si,999,,saga
+5000,samsung,8,48,nuevo,5G,8,2,128,4,android,galaxy a22,,ips,12,si,1599,,saga
+,verykool,,,nuevo,4G,,,,,freedos,robusto,1,ips,12,si,,180,saga
+5000,samsung,,50,nuevo,4G,8,2.3,64,4,android,galaxy a04,6.5,ips,12,no,,599,saga
+5000,samsung,13,48,nuevo,4G,8,2,128,4,android,galaxy a22,,ips,12,si,2199,,saga
+2406,apple,12,12,nuevo,4G,6,3.23,256,4,ios,iphone 13 mini,5.5,super retina xdr oled,12,si,,4685,saga
+5000,xiaomi,,64,nuevo,4G,8,,64,6,android,mi 10t,6.67,amoled,12,si,,1999,saga
+4400,samsung,4,12,nuevo,5G,8,3.19,256,12,android,galaxy z fold4,7.6,dynamic amoled,12,si,6199,,saga
+5000,motorola,12,48,nuevo,4G,8,,32,2,android,moto e30,6.5,ips,12,si,799,,saga
+3340,xiaomi,32,48,nuevo,4G,8,,256,6,android,p30 lite,6.15,ips,12,si,1099,,saga
+4323,apple,,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,7500,,saga
+5000,motorola,2,48,nuevo,4G,6,,32,2,android,moto e30,6.5,ips,12,si,799,,saga
+5000,samsung,13,48,nuevo,4G,8,2,64,4,android,galaxy a22,,ips,12,si,1499,,saga
+4800,honor,32,48,nuevo,4G,8,3,256,8,android,honor 70,6.62,oled,12,no,2999,,saga
+4323,apple,12,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,7799,,saga
+3046,apple,12,12,reacondicionado,4G,6,2.65,64,4,ios,iphone 11 pro,5,ips,3,si,2580,2362,saga
+4250,xiaomi,20,64,nuevo,5G,8,2.4,128,6,android,mi 11 lite,6.55,amoled,12,si,,1670,saga
+5000,samsung,13,48,nuevo,4G,8,2.2,128,4,android,galaxy a22,,ips,12,si,869,,saga
+4500,samsung,32,12,nuevo,5G,8,2.84,128,6,android,galaxy s21 fe,6.4,amoled,12,si,,3599,saga
+1850,apple,7,12,reacondicionado,4G,6,2.4,64,1.5,ios,iphone 8,4.7,ips,3,si,,1076,saga
+5000,samsung,8,50,nuevo,4G,8,2.4,128,4,android,galaxy a23,,ips,12,si,1599,,saga
+5000,samsung,8,50,nuevo,4G,8,2.4,128,4,android,galaxy a23,,ips,12,si,1599,,saga
+3200,apple,12,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro,6.1,super retina xdr oled,12,si,6999,6799,saga
+4250,xiaomi,,64,nuevo,4G,8,2.4,64,6,android,mi 11 lite,6.55,amoled,12,si,,1699,saga
+5000,samsung,,50,nuevo,4G,8,2.4,128,4,android,galaxy a23,,ips,12,si,,1099,saga
+1000,landbyte,,,nuevo,2G,1,1.8,5,,freedos,lt1035,2.4,ips,12,si,,77.9,saga
+800,nokia,,0.3,nuevo,4G,1,1,,,freedos,nokia 110,1.7,ips,12,si,113,104,saga
+,xiaomi,20,64,nuevo,5G,8,2.4,128,8,android,mi 11 lite,6.55,amoled,12,si,2099,,saga
+,xiaomi,20,64,nuevo,5G,8,2.4,128,8,android,mi 11 lite,6.55,amoled,12,si,1899,,saga
+4250,xiaomi,16,64,nuevo,5G,8,2.4,128,6,android,mi 11 lite,6.55,amoled,12,si,1309,,saga
+,huawei,,8,nuevo,4G,4,,,1,emui,y5,5,ips,12,si,,799,saga
+3227,apple,12,12,nuevo,4G,6,3.23,128,4,android,iphone 13,6.1,super retina xdr oled,12,si,4999,,saga
+1500,nokia,,,nuevo,4G,4,,32,4,android,nokia 6300,2.4,ips,12,si,,149,saga
+3900,huawei,16,108,nuevo,4G,8,,128,6,emui,nova 9 se,,ips,12,si,1143,1043,saga
+4500,samsung,32,12,nuevo,4G,8,2.7,128,6,android,galaxy s20 fe,6.5,amoled,12,si,,1899,saga
+5000,xiaomi,20,50,nuevo,4G,8,2.84,256,12,android,mi 11 ultra,5.8,amoled,12,si,3946,3614,saga
+3000,zte,2,13,nuevo,4G,8,1.6,32,1,android,blade a31 plus,6,ips,12,si,,339,saga
+4323,apple,,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,,6499,saga
+5000,samsung,20,64,nuevo,4G,8,2,32,4,android,galaxy a32,,amoled,12,si,1699,,saga
+5000,xiaomi,20,50,nuevo,4G,8,2.84,256,12,android,mi 11 ultra,5.8,amoled,12,si,,3614,saga
+4000,huawei,16,108,nuevo,5G,8,2.4,128,6,emui,nova 9 se,,ips,12,si,1399,,saga
+1850,apple,7,12,reacondicionado,4G,6,2.4,128,2,ios,iphone 8,4.7,ips,3,si,1119,1021,saga
+5000,samsung,12,64,nuevo,5G,8,2.4,128,8,android,galaxy a53,6.5,super amoled,12,si,1999,,saga
+5000,xiaomi,20,50,nuevo,4G,8,2.84,256,12,android,mi 11 ultra,5.8,amoled,12,si,4299,,saga
+5000,samsung,20,64,nuevo,4G,8,2,32,4,android,galaxy a32,,amoled,12,si,1699,,saga
+5000,xiaomi,20,50,nuevo,4G,8,2.84,256,12,android,mi 11 ultra,5.8,amoled,12,si,5499,,saga
+1200,generico,,,nuevo,2G,,,,,freedos,gol s1 plus,2.5,ips,12,si,390,,saga
+,xiaomi,20,,nuevo,5G,8,,256,8,android,mi 11i,6.67,amoled,12,si,2484,2274,saga
+5000,samsung,13,48,nuevo,5G,8,2.4,128,6,android,galaxy a33,6.4,amoled,12,si,1999,,saga
+5000,xiaomi,20,108,nuevo,4G,8,,256,8,android,mi 11t pro,6.67,amoled,12,si,2499,,saga
+5000,motorola,16,50,nuevo,4G,8,,128,4,android,moto g22,6.5,ips,12,no,1199,,saga
+5000,samsung,13,48,nuevo,5G,8,2.4,128,6,android,galaxy a33,6.4,amoled,12,si,1999,,saga
+5000,xiaomi,16,108,nuevo,4G,8,,256,8,android,mi 11t pro,6.67,amoled,12,si,2245,2054,saga
+5000,xiaomi,16,108,nuevo,4G,8,,256,8,android,mi 11t pro,6.67,amoled,12,si,2245,2054,saga
+5000,xiaomi,16,108,nuevo,5G,8,2.8,256,8,android,mi 11t pro,6.67,amoled,12,si,,1978,saga
+5000,samsung,13,48,nuevo,5G,8,2.4,128,6,android,galaxy a33,6.4,amoled,12,si,1549,,saga
+5000,vivo,16,8,nuevo,4G,8,2,128,8,android,y51,6.5,ips,12,si,,1159,saga
+5000,xiaomi,16,108,nuevo,5G,8,,256,8,android,mi 11t pro,6.67,amoled,12,si,2499,,saga
+,samsung,13,48,nuevo,5G,8,2.4,64,6,android,galaxy a33,6.4,amoled,12,si,1499,,saga
+5000,xiaomi,16,108,nuevo,5G,8,,256,8,android,mi 11t pro,6.67,amoled,12,si,3499,,saga
+3200,apple,12,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro,6.1,super retina xdr oled,12,si,6799,,saga
+5000,xiaomi,16,108,nuevo,4G,8,,256,8,android,mi 11t pro,6.67,amoled,12,si,2399,,saga
+,samsung,13,48,nuevo,5G,8,2.4,64,6,android,galaxy a33,6.4,amoled,12,si,1849,,saga
+4500,samsung,32,64,reacondicionado,5G,8,2.4,128,6,android,galaxy a52s,6,amoled,3,si,,1699,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,amoled,12,si,2599,,saga
+5000,xiaomi,,108,nuevo,5G,8,,256,8,android,mi 11t pro,6.67,amoled,12,si,,2900,saga
+3200,apple,12,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro,6.1,super retina xdr oled,12,si,6533,5988,saga
+,oppo,32,64,nuevo,5G,8,,256,8,android,oppo reno 7,6,ips,12,si,2699,2449,saga
+5000,xiaomi,,108,nuevo,5G,8,,256,12,android,mi 11t pro,6.67,amoled,12,si,,3100,saga
+5000,realme,16,108,nuevo,4G,8,,128,8,android,realme 9,,ips,12,si,1899,,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,amoled,12,si,2599,,saga
+1850,apple,7,12,reacondicionado,4G,6,2.4,256,2,ios,iphone 8,4.7,ips,3,si,1370,1252,saga
+5000,honor,8,48,nuevo,4G,8,2.4,128,4,android,honor x7,7,ips,12,no,,999,saga
+3174,apple,7,12,reacondicionado,5G,6,2.49,256,4,ios,iphone xs max,6,ips,3,si,,2399,saga
+4500,samsung,32,12,nuevo,5G,8,2.7,128,6,android,galaxy s20 fe,6.5,amoled,12,si,,1778,saga
+5000,realme,,5,nuevo,3G,1,1,64,4,android,c21y,1,ips,12,si,,489,saga
+5000,samsung,,64,nuevo,5G,8,,128,6,android,galaxy a53,6.5,super amoled,12,si,,1999,saga
+5000,xiaomi,16,108,nuevo,5G,8,2.84,256,8,android,mi 11t pro,6.67,amoled,12,si,3049,,saga
+6000,samsung,20,40,nuevo,4G,8,2.3,64,4,android,galaxy m21s,6.4,super amoled,12,si,1560,,saga
+2815,apple,12,12,nuevo,5G,6,2.5,128,6,ios,iphone 12 pro,6.1,super retina xdr oled,12,si,,5699,saga
+4250,xiaomi,20,64,nuevo,5G,8,2.4,128,6,android,mi 11 lite,6.55,amoled,12,si,2199,2099,saga
+3687,apple,12,12,reacondicionado,5G,6,2.5,128,,ios,iphone 12 pro max,7,ips,3,si,3993,3658,saga
+5000,motorola,16,50,nuevo,4G,8,,128,4,android,moto g22,6.5,ips,12,no,1499,,saga
+2716,apple,7,,reacondicionado,5G,6,2.5,64,3,ios,iphone x,5.8,ips,3,si,,1450,saga
+,xiaomi,,108,nuevo,5G,8,,256,12,android,mi 11t pro,6.67,amoled,12,si,,3100,saga
+4500,samsung,32,12,nuevo,5G,8,2.9,128,8,android,galaxy s21 fe,6.4,amoled,12,si,3500,,saga
+2815,apple,12,12,reacondicionado,5G,6,2.5,128,6,ios,iphone 12 pro,6.1,super retina xdr oled,3,si,3407,3120,saga
+2942,apple,,,reacondicionado,5G,6,2.5,256,3,ios,iphone xr,6.1,ips,3,si,2499,,saga
+3340,huawei,32,48,nuevo,4G,8,,128,4,emui,p30 lite,6.15,ips,12,si,1059,966,saga
+5000,realme,16,50,nuevo,4G,8,,128,6,android,realme 9i,,ips,12,si,1589,,saga
+5000,xiaomi,,108,nuevo,5G,8,,256,,android,mi 11t pro,6.67,amoled,12,si,2999,,saga
+5000,realme,5,8,nuevo,4G,8,,32,2,android,realme c11,,ips,12,si,799,,saga
+3687,apple,12,12,reacondicionado,5G,6,2.5,128,6,ios,iphone 12 pro max,7,super retina xdr oled,3,si,8500,,saga
+3700,samsung,,50,nuevo,5G,8,2.99,128,8,android,galaxy s22,6.1,dynamic amoled,12,si,,3999,saga
+5000,samsung,5,13,nuevo,4G,8,1.6,32,3,android,galaxy a03,6,ips,12,si,,489,saga
+5000,samsung,13,48,nuevo,4G,8,2.2,64,4,android,galaxy a22,6.4,ips,12,si,999,,saga
+5000,xiaomi,16,108,nuevo,5G,8,,256,8,android,mi 11t pro,6.67,amoled,12,si,2099,1939,saga
+3279,apple,,12,nuevo,5G,6,3.23,128,,ios,iphone 14,6.1,super retina xdr oled,12,si,,4449,saga
+4250,xiaomi,20,64,nuevo,5G,8,2.4,128,6,android,mi 11 lite,6.55,amoled,12,si,1859,1799,saga
+5000,samsung,5,13,nuevo,4G,8,1.6,32,3,android,galaxy a03,6.5,ips,12,si,544,493,saga
+5000,xiaomi,16,108,nuevo,5G,8,,256,12,android,mi 11t pro,6.67,amoled,12,si,2999,,saga
+5000,samsung,8,50,nuevo,4G,8,2.2,64,,android,galaxy a13,6.6,ips,12,si,795,724,saga
+5000,samsung,8,50,nuevo,4G,8,2,128,4,android,galaxy a13,6.6,ips,12,no,949,,saga
+5000,motorola,16,50,nuevo,4G,8,,64,4,android,moto g22,6.5,ips,12,no,1199,,saga
+3687,apple,12,12,reacondicionado,5G,6,2.5,128,6,ios,iphone 12 pro max,7,super retina xdr oled,3,si,3993,3658,saga
+5000,honor,5,50,nuevo,4G,8,2,64,4,android,honor x6,6,ips,12,si,899,,saga
+,xiaomi,13,50,nuevo,4G,8,3.2,256,8,android,mi 12,6.28,amoled,12,si,3899,,saga
+2775,apple,12,12,reacondicionado,5G,6,2.5,64,4,ios,iphone 12,6.1,ips,3,si,,2560,saga
+,xiaomi,13,50,nuevo,4G,8,3.2,256,,android,mi 12,6.28,amoled,12,si,3899,,saga
+5000,motorola,16,50,nuevo,4G,8,2.3,128,4,android,moto g22,6.5,ips,12,no,,699,saga
+5000,samsung,8,50,nuevo,4G,8,2,64,4,android,galaxy a13,6.6,ips,12,no,759,691,saga
+5000,samsung,13,48,nuevo,4G,8,2.2,128,4,android,galaxy a22,6.4,ips,12,si,903,823,saga
+5000,samsung,16,48,nuevo,5G,8,2.4,128,6,android,galaxy a33,6.4,amoled,12,si,,1263,saga
+1821,apple,8,12,reacondicionado,5G,6,2.65,64,3,ios,iphone se,4.7,ips,3,si,1310,1197,saga
+4250,xiaomi,8,64,nuevo,5G,8,2.4,128,6,android,mi 11 lite,6.55,amoled,12,si,2099,,saga
+,xiaomi,32,50,nuevo,4G,8,3.2,256,12,android,mi 12,6.28,amoled,12,si,3950,,saga
+4410,google,8,12,nuevo,4G,8,2.8,128,6,android,pixel 6a,6,ips,12,si,2699,,saga
+,xiaomi,32,50,nuevo,5G,8,,256,12,android,mi 12,6.28,amoled,12,si,3199,,saga
+5000,realme,5,8,nuevo,4G,8,,32,2,android,realme c11,,ips,12,si,,519,saga
+4500,xiaomi,32,50,nuevo,5G,8,3,256,8,android,mi 12,6.28,amoled,12,si,4299,,saga
+4500,samsung,32,12,nuevo,4G,8,2.9,128,6,android,galaxy s21,6.4,ips,12,si,3299,,saga
+4000,lg,32,,nuevo,5G,8,2.84,256,8,android,v50s,6.4,oled,12,si,,1460,saga
+5000,realme,,8,nuevo,4G,8,,32,2,android,realme c11,,ips,12,si,,479,saga
+3500,lg,32,12,nuevo,4G,8,2.84,128,6,android,g8x,6.4,oled,12,si,,1186,saga
+5000,realme,5,13,nuevo,4G,8,,64,4,android,realme c21y,,ips,12,si,999,,saga
+3110,apple,12,12,nuevo,4G,6,2.65,256,4,ios,iphone 11,6.1,ips,12,si,3119,2856,saga
+,sony,13,20,nuevo,4G,8,,64,4,android,sony xperia xz3,6,ips,12,no,1454,1329,saga
+5000,samsung,13,48,nuevo,5G,8,2.4,128,6,android,galaxy a33,6.4,amoled,12,si,1499,,saga
+3110,apple,12,12,nuevo,4G,6,2.65,64,4,ios,iphone 11,6.1,ips,12,si,2760,2526,saga
+3340,huawei,32,48,nuevo,4G,8,2.2,256,6,emui,p30 lite,6.15,ips,12,si,,928,saga
+5000,motorola,16,50,nuevo,4G,,,64,4,android,moto g22,6.5,ips,12,no,1499,,saga
+5000,realme,5,13,nuevo,4G,,,64,4,android,realme c21y,,ips,12,si,,699,saga
+950,lg,,1.3,nuevo,4G,,,32,,android,g360,3.2,ips,12,no,,179,saga
+,xiaomi,32,40,nuevo,5G,8,2.4,256,8,android,mi 12 lite,6,amoled,12,si,2799,,saga
+5000,samsung,13,48,nuevo,5G,8,2.4,128,6,android,galaxy a33,6.4,amoled,12,si,,1499,saga
+,xiaomi,32,40,nuevo,5G,8,2.4,256,8,android,mi 12 lite,6,amoled,12,si,2599,,saga
+1400,zte,1,5,nuevo,2G,,1.3,16,,android,blade l130,3.2,ips,12,si,,225,saga
+,xiaomi,32,,nuevo,5G,8,,256,12,android,mi 12 pro,6.7,amoled,12,si,,4799,saga
+4500,samsung,32,12,nuevo,4G,8,2.84,128,6,android,galaxy s20 fe,6.5,amoled,12,si,2499,,saga
+5000,samsung,13,48,nuevo,5G,8,2.4,128,6,android,galaxy a33,6.4,amoled,12,si,1499,,saga
+4600,xiaomi,32,,nuevo,5G,8,3.2,256,8,android,mi 12 pro,6.7,amoled,12,si,5599,,saga
+4000,samsung,32,64,nuevo,4G,8,2.3,128,4,android,galaxy a51,6.5,super amoled,12,si,,1351,saga
+5000,xiaomi,13,64,nuevo,4G,,2.05,128,6,android,poco m5s,7,ips,12,no,1499,,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,super amoled,12,si,1592,1529,saga
+4000,lg,8,,nuevo,4G,8,2,64,3,android,k42,6.1,ips,12,si,,900,saga
+3227,apple,12,12,nuevo,4G,6,3.23,128,3,ios,iphone 13,6.1,super retina xdr oled,12,si,6999,,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a54,6.5,super amoled,12,si,1592,1569,saga
+,samsung,32,64,nuevo,5G,8,2.4,128,8,android,galaxy a55,6.5,super amoled,12,si,1945,1779,saga
+5000,motorola,13,64,nuevo,4G,,,64,4,android,moto g30,7,ips,12,no,1299,,saga
+5000,motorola,13,64,nuevo,4G,,,64,4,android,moto g30,7,ips,12,no,1499,,saga
+,sony,13,20,nuevo,4G,8,2.7,64,4,android,sony xperia xz3,6,ips,12,no,,1329,saga
+4250,xiaomi,20,64,nuevo,5G,8,2.4,128,6,android,mi 11 lite,6.55,amoled,12,si,2099,,saga
+5000,motorola,16,50,nuevo,4G,,,128,4,android,moto g31,6,ips,12,no,1299,,saga
+,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a56,6.5,super amoled,12,si,1700,1579,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,128,8,android,galaxy a57,6.5,super amoled,12,si,,1779,saga
+4800,honor,32,48,nuevo,5G,8,3,256,8,android,honor 70,6.62,oled,12,no,2299,,saga
+4600,xiaomi,32,,nuevo,5G,8,3.2,256,12,android,mi 12 pro,6.7,amoled,12,si,4599,,saga
+,samsung,32,64,nuevo,5G,8,2.4,128,,android,galaxy a58,6.5,super amoled,12,si,1742,1592,saga
+,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a59,6.5,super amoled,12,si,1742,1592,saga
+3110,apple,12,12,reacondicionado,4G,6,2.65,64,4,ios,iphone 11,6.1,ips,3,si,2185,1999,saga
+4600,xiaomi,,,nuevo,5G,8,,256,,android,mi 12 pro,6.7,amoled,12,si,,4379,saga
+4600,xiaomi,,,nuevo,5G,8,3.2,256,,android,mi 12 pro,6.7,amoled,12,si,4199,,saga
+6000,motorola,,,nuevo,4G,,,128,4,android,moto g60,6,ips,12,si,1499,,saga
+1600,movisun,,0.3,nuevo,3G,,,,,freedos,aplo k31,2.8,ips,12,si,,189,saga
+5000,samsung,40,,nuevo,5G,8,2.7,128,12,android,galaxy s20 ultra,7,amoled,12,si,,3175,saga
+5000,motorola,16,64,nuevo,4G,,,128,6,android,moto g60s,7,ips,12,si,1299,,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,128,,android,galaxy a60,6.5,super amoled,12,si,1742,1592,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a61,6.5,super amoled,12,si,,1592,saga
+5000,samsung,32,48,nuevo,5G,8,2.4,128,8,android,galaxy a62,6.5,super amoled,12,si,,1779,saga
+,oneplus,32,48,nuevo,5G,,3.2,256,,android,oneplus 10 pro,,ips,12,si,3718,3405,saga
+5000,xiaomi,16,108,nuevo,5G,,2.96,256,8,android,poco x4 pro,7,amoled,12,si,2499,,saga
+4860,xiaomi,32,50,nuevo,4G,8,,256,12,android,mi 12s ultra,6,amoled,12,si,5950,,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,128,8,android,galaxy a63,6.5,super amoled,12,si,1945,1779,saga
+2775,apple,12,12,reacondicionado,5G,6,2.5,64,4,ios,iphone 12,6.1,ips,3,si,2400,2197,saga
+3300,samsung,10,12,nuevo,5G,8,2.84,256,8,android,galaxy z flip 3,6,dynamic amoled,12,si,4499,,saga
+2815,apple,12,12,nuevo,5G,6,2.5,256,6,ios,iphone 12 pro,6.1,ips,12,si,5999,,saga
+5000,samsung,32,50,nuevo,5G,8,2.4,128,8,android,galaxy a64,6.5,super amoled,12,si,,1779,saga
+2900,hyundai,5,5,nuevo,3G,4,,32,1,android,e603,5.9,ips,12,si,,349,saga
+1821,apple,7,12,nuevo,5G,6,2.65,128,4,ios,iphone se,4.7,ips,12,si,2636,,saga
+5000,xiaomi,,108,nuevo,4G,8,3.2,256,8,android,mi 12t,6.67,amoled,12,si,2999,,saga
+5000,realme,5,13,nuevo,4G,,,64,4,android,realme c31,,ips,12,si,1099,,saga
+5000,xiaomi,16,108,nuevo,5G,8,,256,8,android,mi 12t,6.67,amoled,12,si,2599,,saga
+5000,vivo,8,,nuevo,4G,3,2.4,64,4,android,vivo y20,6.5,ips,12,no,929,,saga
+5000,samsung,5,13,nuevo,4G,8,1.6,32,2,android,galaxy a03,6,ips,12,si,,499,saga
+5000,xiaomi,20,108,nuevo,4G,8,,256,8,android,mi 12t,6.67,amoled,12,si,2499,2299,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,128,8,android,galaxy a65,6.5,super amoled,12,si,1945,1779,saga
+5000,samsung,32,16,nuevo,5G,8,2.4,128,6,android,galaxy a66,6.5,super amoled,12,si,1799,,saga
+5000,motorola,16,64,nuevo,4G,,,128,6,android,moto g60s,7,ips,12,si,1399,,saga
+3095,apple,12,12,nuevo,4G,6,3.23,256,6,ios,iphone 13 pro,,super retina xdr oled,12,si,5838,5351,saga
+5000,zte,8,16,nuevo,4G,8,1.6,128,4,android,v20 smart,6.82,ips,12,si,,,saga
+5000,samsung,32,50,nuevo,5G,8,2.4,128,6,android,galaxy a67,6.5,super amoled,12,si,1799,,saga
+5000,samsung,,108,nuevo,5G,8,2.4,128,8,android,galaxy a73,6,ips,12,si,2299,,saga
+3969,apple,12,12,reacondicionado,4G,6,2.66,64,4,ios,iphone 11 pro max,,ips,3,si,2927,2680,saga
+5000,vivo,8,,nuevo,4G,,,128,4,android,vivo y21s,6.51,ips,12,no,,999,saga
+5000,samsung,32,108,nuevo,5G,,,128,6,android,galaxy a73,6.7,ips,12,si,2499,,saga
+3227,apple,12,12,nuevo,4G,6,3.23,256,4,ios,iphone 13,6.1,super retina xdr oled,12,si,4497,4120,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,super amoled,12,si,,1578,saga
+4520,xiaomi,,48,nuevo,4G,,3.2,256,8,android,poco f3,6.67,amoled,12,si,1599,1549,saga
+4250,xiaomi,16,64,nuevo,4G,8,2.3,128,6,android,mi 11 lite,6.55,amoled,12,si,1499,,saga
+5000,xiaomi,20,108,nuevo,5G,8,3.2,256,8,android,mi 12t,6.67,amoled,12,si,2599,,saga
+5000,samsung,,108,nuevo,5G,8,,128,8,android,galaxy a74,6,super amoled,12,si,2299,,saga
+4500,samsung,10,12,nuevo,4G,8,2.84,256,12,android,galaxy z fold 3,6,dynamic amoled,12,si,7499,,saga
+5000,oneplus,32,48,nuevo,5G,,,256,12,android,oneplus 10 pro,6,ips,12,si,4900,,saga
+5000,xiaomi,20,108,nuevo,5G,8,3.2,256,8,android,mi 12t,6.67,amoled,12,si,2799,,saga
+5000,honor,5,50,nuevo,4G,8,2,64,4,android,honor x6,6,ips,12,si,1299,,saga
+5000,huawei,8,13,nuevo,4G,8,2,64,3,emui,y6p,6,ips,12,si,707,643,saga
+5000,xiaomi,20,108,nuevo,5G,8,3.2,256,8,android,mi 12t,6.67,amoled,12,si,2499,,saga
+600,sky devices,,0.3,nuevo,4G,,,0.032,0.032,freedos,rock,1,ips,12,si,79,,saga
+5000,xiaomi,,108,nuevo,5G,8,3.2,256,8,android,mi 12t,6.67,amoled,12,si,2999,,saga
+1850,apple,7,12,reacondicionado,4G,6,2.4,256,2,ios,iphone 8,4.7,super retina xdr oled,3,si,,1252,saga
+5000,xiaomi,48,200,nuevo,4G,8,3.2,256,8,android,mi 12t pro,6.67,amoled,12,si,3999,,saga
+5000,xiaomi,,200,nuevo,5G,8,3.2,256,8,android,mi 12t pro,6.67,amoled,12,si,2999,,saga
+4500,samsung,32,12,nuevo,4G,8,2.84,128,6,android,galaxy s20 fe,6.5,amoled,12,si,2199,,saga
+4800,honor,16,64,nuevo,4G,8,2.4,128,6,android,honor x9,7,ips,12,si,1599,,saga
+5000,samsung,32,108,nuevo,5G,8,2.2,64,6,android,galaxy a73,6.7,ips,12,si,,3499,saga
+650,smooth,,0.3,nuevo,2G,1,1,24,,freedos,snap x,1.8,ips,12,no,,57.9,saga
+5000,samsung,40,50,nuevo,4G,8,2.99,128,8,android,galaxy s22,6.1,amoled,12,si,5599,,saga
+5000,realme,8,50,nuevo,4G,8,2,128,4,android,realme c35,,ips,12,si,1399,,saga
+3095,apple,12,12,nuevo,5G,6,3.23,256,6,ios,iphone 13 pro,,super retina xdr oled,12,si,,5351,saga
+4400,samsung,10,12,nuevo,4G,8,2.84,256,12,android,galaxy z fold 3,6,ips,12,si,7499,,saga
+5000,xiaomi,20,200,nuevo,4G,8,3.2,128,12,android,mi 12t pro,6.67,amoled,12,si,3500,,saga
+5000,samsung,5,13,nuevo,4G,8,1.6,32,3,android,galaxy a03,6,ips,12,si,689,,saga
+5000,samsung,5,13,nuevo,4G,,1.6,128,4,android,galaxy a03,6,ips,12,si,699,,saga
+4000,motorola,5,13,nuevo,4G,8,1.6,32,2,android,moto e20,6,ips,12,si,,550,saga
+5000,samsung,5,13,nuevo,4G,8,1.6,32,2,android,galaxy a03,6,ips,12,si,,399,saga
+5000,xiaomi,20,200,nuevo,4G,8,3.2,256,8,android,mi 12t pro,6.67,amoled,12,si,3799,,saga
+2650,zte,5,8,nuevo,4G,4,1.3,32,1,android,blade l210,6.5,ips,12,si,,529,saga
+5000,xiaomi,,200,nuevo,5G,8,,256,8,android,mi 12t pro,6.67,amoled,12,si,3599,,saga
+5000,samsung,5,13,nuevo,4G,8,1.6,32,3,android,galaxy a03,6,ips,12,si,599,,saga
+4000,huawei,8,13,nuevo,4G,8,1.8,64,4,emui,y7,6,ips,12,si,652,592,saga
+5000,samsung,5,13,nuevo,4G,8,1.6,32,2,android,galaxy a03,6,ips,12,si,598,,saga
+4000,motorola,5,13,nuevo,4G,,,32,2,android,moto e20,6,ips,12,si,519,,saga
+3279,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 14,6.1,super retina xdr oled,12,si,5999,,saga
+5000,xiaomi,20,200,nuevo,4G,8,3.2,256,8,android,mi 12t pro,6.67,amoled,12,si,3599,,saga
+5000,xiaomi,20,200,nuevo,4G,8,3.2,256,8,android,mi 12t pro,6.67,amoled,12,si,,3599,saga
+4000,samsung,8,13,nuevo,4G,8,2,32,2,android,galaxy a10s,6.5,ips,12,si,,679,saga
+5000,samsung,5,50,nuevo,4G,8,2,64,4,android,galaxy a04s,,ips,12,no,699,679,saga
+5000,xiaomi,20,200,nuevo,4G,8,3.2,256,8,android,mi 12t pro,6.67,amoled,12,si,3299,,saga
+,samsung,5,13,nuevo,4G,8,2.3,32,3,android,galaxy a03s,6,ips,12,si,699,,saga
+5000,xiaomi,20,200,nuevo,4G,8,,256,8,android,mi 12t pro,6.67,amoled,12,si,3399,,saga
+5000,samsung,8,50,nuevo,4G,8,2,64,4,android,galaxy a13,6.5,ips,12,si,,749,saga
+,oneplus,32,50,nuevo,5G,,,128,8,android,oneplus nord 2,,ips,12,si,2065,1889,saga
+5000,xiaomi,20,200,nuevo,4G,8,,256,8,android,mi 12t pro,6.67,amoled,12,si,2999,,saga
+5000,xiaomi,20,200,nuevo,4G,8,,256,8,android,mi 12t pro,6.67,amoled,12,si,3999,,saga
+5000,realme,8,50,nuevo,4G,8,2,64,4,android,realme c35,,ips,12,si,,799,saga
+,samsung,5,13,nuevo,4G,,2.3,32,3,android,galaxy a03s,6,ips,12,si,699,,saga
+5000,xiaomi,20,200,nuevo,5G,8,,256,8,android,mi 12t pro,6.67,amoled,12,si,3599,,saga
+4700,xiaomi,20,64,nuevo,4G,8,3,128,8,android,poco f4 gt,6.7,amoled,12,si,,2999,saga
+3000,motorola,5,13,nuevo,4G,8,1.6,32,2,android,e6i,6,ips,12,si,,519,saga
+5000,xiaomi,20,200,nuevo,5G,8,,256,8,android,mi 12t pro,6.67,amoled,12,si,3999,,saga
+5000,xiaomi,,200,nuevo,5G,8,,256,8,android,mi 12t pro,6.67,amoled,12,si,3129,,saga
+5000,vivo,16,64,nuevo,4G,,,128,8,android,vivo y53s,6.51,ips,12,no,,1099,saga
+3700,samsung,10,50,nuevo,4G,8,2.99,128,8,android,galaxy s22,6.1,amoled,12,si,3131,3109,saga
+5000,samsung,5,13,nuevo,4G,8,2.3,64,4,android,galaxy a03s,6,ips,12,si,890,,saga
+5000,samsung,5,50,nuevo,4G,8,2.3,128,4,android,galaxy a04,6.5,ips,12,no,899,,saga
+5000,samsung,5,50,nuevo,4G,,2.3,128,4,android,galaxy a04,6.5,ips,12,no,899,,saga
+4323,apple,48,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,8500,,saga
+5000,samsung,5,50,nuevo,4G,8,2.3,64,4,android,galaxy a04,6.5,ips,12,no,649,,saga
+,realme,16,48,nuevo,4G,8,2.1,128,6,android,realme 7,6.5,ips,12,si,,1149,saga
+,zte,16,64,nuevo,5G,8,2.99,256,16,android,redmagic 7 pro,6,ips,12,si,5995,,saga
+5000,honor,8,48,nuevo,4G,8,2.4,128,4,android,honor x7,7,ips,12,no,,999,saga
+5000,samsung,8,48,nuevo,4G,8,2.3,128,4,android,galaxy a12,,ips,12,si,,779,saga
+5000,xiaomi,16,108,nuevo,4G,8,,256,8,android,mi 11t pro,6.67,amoled,12,si,2500,,saga
+5000,xiaomi,,108,nuevo,4G,8,,256,,android,mi 11t pro,6.67,amoled,12,si,2199,,saga
+5000,nokia,,0.3,nuevo,3G,1,1,0.032,0.032,freedos,nokia 110,1.7,ips,12,si,139,,saga
+1000,lh electronic,,,nuevo,4G,,,32,,freedos,mobulaa m1704,2.4,ips,12,si,,136,saga
+5000,samsung,8,48,nuevo,4G,8,2.3,128,4,android,galaxy a12,,ips,12,si,,799,saga
+3200,zte,8,13,nuevo,4G,8,1.2,64,2,android,blade a5,6.1,ips,12,si,,405,saga
+4000,motorola,5,13,nuevo,4G,4,1.6,32,2,android,moto e20,6,ips,12,si,669,,saga
+5000,samsung,,48,nuevo,4G,8,2.3,64,,android,galaxy a12,,ips,12,si,999,,saga
+5020,xiaomi,16,108,nuevo,4G,8,,128,,android,redmi note 10 pro,6,amoled,12,si,1500,,saga
+5000,samsung,,48,nuevo,4G,8,2.3,64,,android,galaxy a12,,ips,12,si,829,779,saga
+5020,xiaomi,16,108,nuevo,4G,8,2.3,256,8,android,redmi note 10 pro,6,amoled,12,si,1899,,saga
+5020,xiaomi,16,108,nuevo,4G,8,2.3,128,6,android,redmi note 10 pro,6,amoled,12,si,1899,,saga
+5020,xiaomi,16,108,nuevo,4G,8,2.3,128,,android,redmi note 10 pro,6,amoled,12,si,1899,,saga
+5020,xiaomi,,108,nuevo,4G,8,2.3,128,6,android,redmi note 10 pro,6,amoled,12,si,1199,,saga
+4020,motorola,5,16,nuevo,4G,8,2.3,64,2,android,moto e22i,,ips,12,si,599,,saga
+5020,xiaomi,16,108,nuevo,4G,,2.3,256,8,android,redmi note 10 pro,6,amoled,12,si,1899,,saga
+6000,motorola,16,64,nuevo,4G,8,2,128,4,android,moto g9 power,6.7,ips,12,si,,1400,saga
+3110,apple,12,12,reacondicionado,3G,6,2.65,64,3,ios,iphone 11,6.1,ips,3,si,,1999,saga
+3200,apple,12,48,nuevo,5G,6,3.46,256,,ios,iphone 14 pro,6.1,super retina xdr oled,12,si,6499,6399,saga
+3227,apple,12,12,nuevo,5G,6,3.23,128,,ios,iphone 13,6.1,super retina xdr oled,12,si,4299,,saga
+4352,apple,12,12,nuevo,5G,6,3.23,256,,ios,iphone 13 pro max,6.7,super retina xdr oled,12,si,5899,,saga
+3046,apple,12,12,reacondicionado,4G,6,2.65,512,4,ios,iphone 11 pro,5,ips,3,si,,2599,saga
+3969,apple,12,12,reacondicionado,4G,6,2.66,256,4,ios,iphone 11 pro max,,ips,3,si,3227,2955,saga
+4323,apple,12,48,nuevo,5G,6,3.46,256,,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,7199,6999,saga
+4300,honor,32,108,nuevo,5G,8,2.4,128,6,android,honor 50,6.57,oled,12,si,2326,,saga
+5020,xiaomi,16,108,nuevo,4G,8,,128,8,android,redmi note 10 pro,6,amoled,12,si,1899,,saga
+5000,samsung,12,200,nuevo,5G,8,3.36,512,12,android,galaxy s23 ultra,6.8,dynamic amoled,12,si,6399,,saga
+3279,apple,12,12,nuevo,5G,6,3.23,256,,ios,iphone 14,6.1,super retina xdr oled,12,si,4999,,saga
+4352,apple,12,12,nuevo,5G,6,3.23,512,,ios,iphone 13 pro max,6.7,super retina xdr oled,12,si,7599,,saga
+1500,cat,,2,nuevo,2G,1,,,,freedos,cat b26,2.4,ips,12,si,,349,saga
+3095,apple,12,12,nuevo,5G,6,3.23,256,,ios,iphone 13 pro,,super retina xdr oled,12,si,5899,,saga
+4400,samsung,12,12,nuevo,5G,8,3.19,256,12,android,galaxy z fold4,7.6,dynamic amoled,12,si,6599,,saga
+,samsung,8,50,nuevo,4G,8,2.2,128,4,android,galaxy a13,6.6,ips,12,si,999,,saga
+5000,samsung,40,108,nuevo,5G,8,2.99,128,8,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,5599,,saga
+2658,apple,,12,reacondicionado,5G,6,2.49,64,4,ios,iphone xs,4,ips,3,si,2499,,saga
+4800,honor,32,48,nuevo,5G,8,,256,8,android,honor 70,6.62,oled,12,si,2299,,saga
+5000,samsung,8,50,nuevo,4G,8,2.2,128,4,android,galaxy a13,6.6,ips,12,si,999,949,saga
+5000,xiaomi,,50,nuevo,4G,8,,128,4,android,redmi note 11,6.67,amoled,12,si,999,,saga
+5000,samsung,5,50,nuevo,4G,8,2.2,128,4,android,galaxy a13,6.6,ips,12,si,999,,saga
+3095,apple,12,12,nuevo,5G,6,3.23,512,,ios,iphone 13 pro,,super retina xdr oled,12,si,6999,,saga
+2775,apple,12,12,reacondicionado,5G,6,2.5,64,4,ios,iphone 12,6.1,ips,3,si,,2450,saga
+5000,xiaomi,,108,nuevo,4G,8,,128,6,android,redmi note 11 pro,6.67,amoled,12,si,1599,,saga
+5000,samsung,5,50,nuevo,4G,8,2,64,4,android,galaxy a13,6.6,ips,12,si,,1200,saga
+4020,motorola,5,16,nuevo,4G,,,64,2,android,moto e22i,,ips,12,si,599,,saga
+3227,apple,12,12,nuevo,5G,6,3.23,512,,ios,iphone 13,6.1,super retina xdr oled,12,si,5899,,saga
+1500,hyundai,0.3,2,nuevo,3G,4,1.3,16,,android,e475,4,ips,12,si,259,,saga
+5000,xiaomi,16,64,nuevo,5G,4,2.4,128,6,android,poco m4 pro,6.5,ips,12,si,,1999,saga
+5000,samsung,5,50,nuevo,4G,8,2,128,4,android,galaxy a13,6.6,ips,12,si,999,,saga
+2658,apple,12,12,reacondicionado,5G,6,2.49,64,3,ios,iphone xs,4,ips,3,si,3000,,saga
+3700,samsung,10,50,nuevo,4G,8,2.99,128,8,android,galaxy s22,6.1,amoled,12,si,3999,,saga
+5000,xiaomi,,64,nuevo,4G,,,128,6,android,poco m4 pro,6.5,amoled,12,si,1059,1039,saga
+5000,xiaomi,8,50,nuevo,4G,8,2.2,128,4,android,redmi 10,6.5,ips,12,si,,1022,saga
+3046,apple,12,12,reacondicionado,4G,6,2.65,256,4,ios,iphone 11,6.1,super retina xdr oled,3,si,,2142,saga
+,realme,16,108,nuevo,4G,,,128,8,android,realme 9,,ips,12,si,1299,,saga
+3687,apple,12,12,reacondicionado,5G,6,2.5,256,6,ios,iphone 12 pro max,7,ips,3,si,4137,3790,saga
+5000,xiaomi,,50,nuevo,4G,8,2.2,128,4,android,redmi 10,6.5,ips,12,si,869,799,saga
+4000,samsung,8,48,nuevo,4G,8,2.7,128,6,android,galaxy note 9,6.4,super amoled,12,si,,1658,saga
+5000,samsung,8,50,nuevo,4G,8,2.2,64,4,android,galaxy a13,6.6,ips,12,si,,749,saga
+4400,samsung,10,12,nuevo,4G,8,3.19,256,12,android,galaxy z fold4,7.6,dynamic amoled,12,si,7999,,saga
+3110,apple,12,12,reacondicionado,4G,6,2.65,128,4,ios,iphone 11,6.1,ips,3,si,2221,2032,saga
+4400,samsung,10,50,nuevo,5G,8,3.18,512,12,android,galaxy z fold4,7.6,dynamic amoled,12,si,7099,,saga
+4000,lg,32,,nuevo,5G,,,256,,android,v50s,6.4,ips,12,si,1598,1460,saga
+5000,xiaomi,8,50,nuevo,4G,8,2.2,128,4,android,redmi 10,6.5,amoled,12,si,869,859,saga
+5000,samsung,8,50,nuevo,4G,8,2.2,64,4,android,galaxy a13,6.6,ips,12,si,999,,saga
+5000,xiaomi,,64,nuevo,4G,,,128,6,android,poco m4 pro,6.5,ips,12,si,1059,1039,saga
+4323,apple,12,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,8999,,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.84,256,8,android,mi 11t pro,6.7,amoled,12,si,2054,1899,saga
+2775,apple,12,12,reacondicionado,5G,6,2.5,128,4,ios,iphone 12,6.1,ips,3,si,6000,,saga
+5000,samsung,8,50,nuevo,4G,8,2.2,64,4,android,galaxy a13,6.6,ips,12,si,899,,saga
+,xiaomi,8,50,nuevo,4G,8,2.2,128,4,android,redmi 10,6.5,ips,12,si,1299,,saga
+4323,apple,,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,,8299,saga
+4500,xiaomi,8,,nuevo,4G,,3.2,256,,android,poco f4,6,amoled,12,si,2499,,saga
+5000,samsung,8,48,nuevo,5G,8,2,128,4,android,galaxy a22,,ips,12,si,999,,saga
+,xiaomi,8,50,nuevo,4G,8,2.2,128,4,android,redmi 10,6.5,ips,12,si,,979,saga
+2716,apple,7,,reacondicionado,5G,6,2.39,64,3,ios,iphone x,5.8,ips,3,si,1670,1526,saga
+5000,samsung,8,48,nuevo,5G,8,2,128,4,android,galaxy a22,,ips,12,si,1599,,saga
+5000,samsung,,48,nuevo,5G,8,2,128,4,android,galaxy a22,,ips,12,si,999,,saga
+,smooth,,0.3,nuevo,2G,1,1,0.032,0.032,freedos,snap x,1.8,ips,12,no,,59,saga
+5000,xiaomi,8,50,nuevo,4G,8,2.2,128,4,android,redmi 10,6.5,amoled,12,si,,729,saga
+5000,xiaomi,,13,nuevo,4G,8,2,32,2,android,redmi 10a,6.53,ips,12,si,459,439,saga
+5000,samsung,8,48,nuevo,5G,8,2,128,4,android,galaxy a22,,ips,12,si,1099,,saga
+5000,xiaomi,5,13,nuevo,4G,8,2,64,3,android,redmi 10a,6.53,ips,12,si,1059,,saga
+4500,xiaomi,20,,nuevo,5G,,3.2,128,6,android,poco f4,6,amoled,12,si,1799,,saga
+800,smooth,,0.3,nuevo,2G,1,1,0.032,0.032,freedos,snap x,1.8,ips,12,no,,59,saga
+4500,xiaomi,,,nuevo,5G,,3.2,256,8,android,poco f4,6,amoled,12,si,,2500,saga
+5000,xiaomi,5,13,nuevo,4G,8,2,32,2,android,redmi 10a,6.53,ips,12,si,999,,saga
+5000,xiaomi,5,13,nuevo,4G,8,2,32,2,android,redmi 10a,6.53,ips,12,si,499,459,saga
+5000,honor,8,48,nuevo,4G,8,2.4,128,4,android,honor x7,7,ips,12,no,1199,,saga
+,realme,16,50,nuevo,4G,,,128,,android,realme 9i,,ips,12,si,915,834,saga
+4300,honor,32,108,nuevo,5G,8,2.4,128,,android,honor 50,6.57,oled,12,si,2999,,saga
+5000,samsung,8,48,nuevo,5G,8,2,128,4,android,galaxy a22,,ips,12,si,1600,,saga
+5000,xiaomi,5,13,nuevo,4G,8,2,32,,android,redmi 10a,6.53,ips,12,si,550,499,saga
+,realme,16,50,nuevo,4G,,,128,6,android,realme 9i,,ips,12,si,1299,,saga
+5000,xiaomi,5,50,nuevo,4G,8,2.4,64,3,android,redmi 10c,6.7,ips,12,no,589,,saga
+5000,xiaomi,5,50,nuevo,4G,8,2.4,64,4,android,redmi 10c,6.7,ips,12,no,999,,saga
+4500,samsung,,12,nuevo,5G,,,128,,android,galaxy s20 fe,6.5,amoled,12,si,2398,,saga
+5000,samsung,8,48,nuevo,4G,8,2.2,128,4,android,galaxy a22,,ips,12,si,,1049,saga
+3000,motorola,5,,nuevo,4G,8,2,32,2,android,moto e6s,6.1,ips,12,si,,1000,saga
+5000,motorola,5,,nuevo,4G,8,1.6,32,2,android,moto e7i power,6.5,ips,12,si,,540,saga
+5000,motorola,32,108,nuevo,4G,,,128,6,android,moto egde,7,ips,12,si,,1399,saga
+,smooth,,0.3,nuevo,2G,,,,,freedos,snap x,1.8,ips,12,no,,59,saga
+,samsung,13,48,nuevo,4G,8,2,64,4,android,galaxy a22,,ips,12,si,929,,saga
+5000,xiaomi,,50,nuevo,4G,8,2.4,64,3,android,redmi 10c,6.7,ips,12,no,619,589,saga
+5000,xiaomi,5,50,nuevo,4G,8,2.4,128,4,android,redmi 10c,6.7,ips,12,no,1199,,saga
+5000,motorola,16,50,nuevo,4G,8,2,128,4,android,moto g31,6,ips,12,no,999,,saga
+5000,xiaomi,,50,nuevo,4G,8,2.4,64,4,android,redmi 10c,6.7,ips,12,no,799,,saga
+5000,motorola,13,50,nuevo,4G,,,128,4,android,moto g31,6,ips,12,no,699,,saga
+5000,samsung,8,50,nuevo,4G,8,2.3,128,4,android,galaxy a23,,ips,12,si,1199,1099,saga
+,xiaomi,5,50,nuevo,4G,8,2.4,,4,android,redmi 10c,6.7,ips,12,no,,900,saga
+5000,samsung,5,50,nuevo,4G,8,2.3,128,6,android,galaxy a23,,ips,12,si,1499.99,,saga
+5000,motorola,13,50,nuevo,3G,8,2,128,3,android,moto g31,6,super retina xdr oled,12,no,980,,saga
+4323,apple,12,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,9699,,saga
+,xiaomi,,50,nuevo,4G,8,2.4,128,4,android,redmi 10c,6.7,ips,12,no,999,,saga
+5000,xiaomi,5,50,nuevo,4G,8,2.4,128,4,android,redmi 10c,6.7,ips,12,no,,724,saga
+5000,xiaomi,5,50,nuevo,4G,8,2.4,128,4,android,redmi 10c,6.7,ips,12,no,795,724,saga
+5000,samsung,20,64,nuevo,4G,8,2,32,4,android,galaxy a32,,amoled,12,si,,1059,saga
+5000,xiaomi,5,50,nuevo,4G,8,2.4,128,4,android,redmi 10c,6.7,ips,12,no,795,724,saga
+5000,samsung,16,13,nuevo,3G,8,2.3,128,3,android,galaxy a03s,6,ips,12,si,,769,saga
+5000,xiaomi,,50,nuevo,4G,8,2.4,64,3,android,redmi 10c,6.7,ips,12,no,799,,saga
+5000,samsung,,48,nuevo,5G,8,2.4,128,6,android,galaxy a33,6.4,amoled,12,si,1599,,saga
+5000,samsung,,48,nuevo,5G,,2.4,128,6,android,galaxy a33,6.4,amoled,12,si,1599,,saga
+5000,samsung,13,48,nuevo,5G,8,2.4,128,6,android,galaxy a33,6.4,amoled,12,si,1599,1499,saga
+5000,samsung,16,48,nuevo,5G,8,2.4,128,6,android,galaxy a33,6.4,amoled,12,si,1499,,saga
+3200,apple,12,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro,6.1,super retina xdr oled,12,si,6999,,saga
+5000,xiaomi,,13,nuevo,4G,8,2,32,2,android,redmi 9a,,ips,12,si,419,389,saga
+4000,zte,,5,nuevo,3G,2,1.3,32,1,android,blade l8,5,ips,12,no,349,,saga
+5000,zte,8,13,nuevo,4G,8,1.6,128,3,android,blade v30,6.8,ips,12,no,,999,saga
+,lg,8,,nuevo,4G,8,2,32,3,android,k41s,6.5,ips,12,si,,999,saga
+3227,apple,,12,nuevo,4G,6,3.23,128,4,ios,iphone 13,6.1,super retina xdr oled,12,si,,4799,saga
+5000,xiaomi,,13,nuevo,4G,8,2,32,2,android,redmi 9a,,ips,12,si,419,389,saga
+5000,xiaomi,,13,nuevo,4G,8,2,32,2,android,redmi 9a,,ips,12,si,,499,saga
+5000,xiaomi,5,13,nuevo,4G,8,2,32,2,android,redmi 9a,,ips,12,si,999,,saga
+5000,xiaomi,5,13,nuevo,4G,8,2,32,2,android,redmi 9a,,ips,12,si,699,,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,amoled,12,si,1999,,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,amoled,12,si,2099,1999,saga
+5000,samsung,,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,amoled,12,si,1699,,saga
+1821,apple,8,12,reacondicionado,5G,6,2.65,128,3,ios,iphone se,4.7,ips,3,si,1310,1197,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,256,6,android,galaxy a53,6.5,amoled,12,si,2499,,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,amoled,12,si,2399,,saga
+5000,xiaomi,5,13,nuevo,4G,8,2,32,2,android,redmi 9a,,ips,12,si,,459,saga
+5000,motorola,13,50,nuevo,3G,8,2,128,3,android,moto g31,6,super retina xdr oled,12,no,,980,saga
+3200,apple,12,48,nuevo,5G,6,3.46,256,,ios,iphone 14 pro,6.1,super retina xdr oled,12,si,7599,,saga
+5000,samsung,,64,nuevo,5G,8,2.4,128,,android,galaxy a53,6.5,amoled,12,si,2299,,saga
+5000,xiaomi,5,13,nuevo,4G,8,2,32,2,android,redmi 9a,,ips,12,si,,411,saga
+5000,samsung,5,13,nuevo,4G,8,1.6,32,3,android,galaxy a03,6.5,ips,12,si,,493,saga
+5000,motorola,13,,nuevo,5G,8,2.2,128,4,android,moto g50,6.5,ips,12,no,,998,saga
+,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,amoled,12,si,2499,,saga
+5000,xiaomi,5,13,nuevo,4G,8,2,32,2,android,redmi 9a,,ips,12,si,599,,saga
+,samsung,32,64,nuevo,5G,8,2.4,128,,android,galaxy a53,6.5,amoled,12,si,2799,,saga
+5000,xiaomi,5,13,nuevo,4G,8,2,32,2,android,redmi 9a,,ips,12,si,1299,,saga
+5000,samsung,32,108,nuevo,5G,8,2.2,256,6,android,galaxy a73,6.7,ips,12,si,,3499,saga
+1821,apple,7,12,nuevo,5G,6,2.65,64,,ios,iphone se,4.7,ips,12,si,2556,2340,saga
+6000,motorola,32,,nuevo,4G,,,128,6,android,moto g60,6,ips,12,si,1318,,saga
+6000,motorola,32,,nuevo,4G,4,,128,6,android,moto g60,6,ips,12,si,1650,,saga
+,samsung,,64,nuevo,5G,,2.4,128,6,android,galaxy a53,6.5,amoled,12,si,,1699,saga
+6000,motorola,32,,nuevo,4G,8,2.3,128,6,android,moto g60,6,ips,12,si,1599,,saga
+5000,xiaomi,5,13,nuevo,4G,8,2,32,2,android,redmi 9a,,ips,12,si,,416,saga
+5000,xiaomi,5,13,nuevo,4G,8,2,32,2,android,redmi 9a,,ips,12,si,,399,saga
+5000,xiaomi,13,13,nuevo,4G,8,2,32,2,android,redmi 9a,,ips,12,si,499,,saga
+5000,samsung,12,48,nuevo,5G,8,2.2,128,,android,galaxy a22,,ips,12,si,,929,saga
+4000,lg,13,32,nuevo,4G,8,2.3,32,3,android,k51s,6,ips,12,si,950,,saga
+5000,xiaomi,5,13,nuevo,4G,8,2,32,2,android,redmi 9a,,ips,12,si,559,,saga
+5000,samsung,12,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,amoled,12,si,,1699,saga
+5000,samsung,12,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,amoled,12,si,,1649,saga
+5000,xiaomi,5,13,nuevo,4G,8,2,32,3,android,redmi 9a,,ips,12,si,559,,saga
+4323,apple,12,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,,8500,saga
+5000,xiaomi,,13,nuevo,4G,8,2.3,64,3,android,redmi 9c,6,ips,12,si,,659,saga
+5000,samsung,12,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,amoled,12,si,1798,,saga
+5000,xiaomi,5,13,nuevo,4G,8,2.3,64,3,android,redmi 9c,6,ips,12,si,999,,saga
+5000,samsung,5,13,nuevo,4G,8,2.3,32,3,android,galaxy a03s,6,ips,12,si,,649,saga
+,xiaomi,5,13,nuevo,4G,8,2.3,64,3,android,redmi 9c,6,ips,12,si,,999,saga
+5000,xiaomi,5,13,nuevo,4G,8,2.3,32,2,android,redmi 9c,6,ips,12,si,,699,saga
+4500,xiaomi,20,,nuevo,5G,,3.2,256,8,android,poco f4,6,amoled,12,si,1999,,saga
+5000,samsung,8,50,nuevo,4G,8,2,128,4,android,galaxy a13,6.6,ips,12,si,,1199,saga
+5000,motorola,16,64,nuevo,4G,,,128,6,android,moto g60s,7,ips,12,si,1199,,saga
+5000,samsung,12,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,super amoled,12,si,1999,,saga
+5000,samsung,12,64,nuevo,5G,8,,128,8,android,galaxy a53,6.5,amoled,12,si,1798,,saga
+5000,xiaomi,13,13,nuevo,4G,8,2.3,64,3,android,redmi 9c,6,ips,12,si,1200,,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,amoled,12,si,2299,,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,amoled,12,si,1799,,saga
+,samsung,32,64,nuevo,5G,,2.4,128,6,android,galaxy a53,6.5,amoled,12,si,2299,,saga
+4323,apple,12,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,7899,,saga
+3200,zte,8,13,nuevo,4G,8,1.6,32,2,android,blade a5,6.1,ips,12,si,,405,saga
+5000,xiaomi,13,13,nuevo,4G,8,2.3,64,3,android,redmi 9c,6,ips,12,si,,1200,saga
+,samsung,5,13,nuevo,4G,8,2.3,64,4,android,galaxy a03s,6,ips,12,si,,764,saga
+5000,samsung,32,108,nuevo,5G,8,2.4,128,,android,galaxy a73,6.7,super amoled,12,si,2999,,saga
+,xiaomi,8,13,nuevo,4G,8,2,128,4,android,redmi 9t,6.5,ips,12,si,,959,saga
+4020,motorola,5,16,nuevo,4G,8,2.3,64,2,android,moto e22i,,ips,12,si,,570,saga
+5000,xiaomi,5,8,nuevo,4G,,2,32,2,android,redmi a1,6,ips,12,no,449,,saga
+,xiaomi,25,8,nuevo,4G,,2,32,,android,redmi a1,6,ips,12,no,499,,saga
+,xiaomi,5,8,nuevo,4G,,2,32,2,android,redmi a1,6,ips,12,no,799,,saga
+5000,samsung,32,64,nuevo,4G,,2.4,128,6,android,galaxy a53,6.5,amoled,12,si,1899,,saga
+5000,samsung,32,64,nuevo,5G,8,,128,,android,galaxy a53,6.5,amoled,12,si,2299,,saga
+,nokia,,0.3,nuevo,4G,1,1,0.032,0.032,freedos,nokia 110,1.7,ips,12,no,110,,saga
+950,lg,,1.3,nuevo,4G,,,32,,android,g360,3.2,ips,12,no,204,187,saga
+5000,samsung,32,64,nuevo,4G,8,2.4,128,6,android,galaxy a53,6.5,amoled,12,si,1899,,saga
+,xiaomi,5,8,nuevo,4G,,2,32,,android,redmi a1,6,ips,12,no,436,401,saga
+,nokia,,0.3,nuevo,4G,1,1,0.032,0.032,freedos,nokia 110,1.7,ips,12,no,,95,saga
+5000,xiaomi,5,8,nuevo,4G,4,2,32,2,android,redmi a1,6,ips,12,no,,411,saga
+4020,motorola,5,16,nuevo,4G,,,64,2,android,moto e22i,,ips,12,si,628,570,saga
+,xiaomi,5,8,nuevo,4G,4,2,32,2,android,redmi a1,6,ips,12,no,,419,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,128,,android,galaxy a53,6.5,amoled,12,si,2299,,saga
+,xiaomi,5,8,nuevo,4G,,2,32,2,android,redmi a1,6,ips,12,no,,599,saga
+,xiaomi,5,8,nuevo,4G,,2,32,2,android,redmi a1,6,ips,12,no,549,,saga
+2675,apple,7,12,reacondicionado,4G,6,2.4,256,3,ios,iphone 8 plus,5.5,ips,3,si,1658,1515,saga
+5000,motorola,8,48,nuevo,4G,8,1.8,64,4,android,moto e40,7,ips,12,si,676,614,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,super amoled,12,si,,2100,saga
+,xiaomi,5,8,nuevo,4G,,2,32,2,android,redmi a1,6,ips,12,no,549,,saga
+5000,samsung,,108,nuevo,5G,,,128,,android,galaxy a73,6.7,super amoled,12,si,2999,,saga
+4323,apple,12,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,7299,6699,saga
+5000,samsung,16,48,nuevo,5G,8,2.4,128,6,android,galaxy a33,6.4,amoled,12,si,1699,,saga
+5000,motorola,8,50,nuevo,4G,8,2,128,4,android,moto g31,6,ips,12,si,949,,saga
+5000,xiaomi,5,8,nuevo,4G,4,2,32,2,android,redmi a1,6,ips,12,no,339,,saga
+4000,lg,8,12,nuevo,5G,8,2.84,128,6,android,v50,6.4,oled,12,si,,1427,saga
+,xiaomi,25,8,nuevo,4G,,2,32,,android,redmi a1,6,ips,12,no,499,,saga
+,xiaomi,16,48,nuevo,4G,8,3,256,12,android,redmi k40,6,ips,12,no,3500,,saga
+3227,apple,12,12,nuevo,4G,6,3.23,256,4,ios,iphone 13,6.1,super retina xdr oled,12,si,,4175,saga
+5000,motorola,,50,nuevo,4G,8,2,128,4,android,moto g31,6,ips,12,si,899,,saga
+4700,xiaomi,20,64,nuevo,4G,,3,256,12,android,poco f4 gt,6.7,amoled,12,si,2899,2699,saga
+,xiaomi,20,64,nuevo,5G,8,3,256,12,android,redmi k50,6,ips,12,no,3500,,saga
+5000,samsung,8,50,nuevo,4G,8,2.2,128,4,android,galaxy a13,6.6,ips,12,si,,899,saga
+4323,apple,12,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,7699,,saga
+3020,huawei,5,8,nuevo,4G,4,2.3,16,1,emui,y5,5,ips,12,si,742,,saga
+,xiaomi,20,64,nuevo,4G,8,3,256,12,android,redmi k50,6,ips,12,no,3100,,saga
+,smooth,,0.3,nuevo,3G,,,,,freedos,uno,1.8,ips,12,no,,109,saga
+5000,honor,5,50,nuevo,4G,8,2,64,4,android,honor x6,6,ips,12,si,1499,,saga
+3279,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 14,6.1,super retina xdr oled,12,si,5999,,saga
+5000,samsung,32,64,nuevo,5G,,2.4,128,6,android,galaxy a53,6.5,amoled,12,si,2499,,saga
+5000,motorola,13,50,nuevo,4G,8,2,128,,android,moto g31,6,ips,12,si,855,779,saga
+5000,motorola,13,50,nuevo,4G,8,2,128,4,android,moto g31,6,amoled,12,si,,779,saga
+5000,motorola,13,,nuevo,5G,8,2.2,128,4,android,moto g51,,ips,12,si,1699,,saga
+,xiaomi,20,64,nuevo,5G,8,3,128,12,android,redmi k50,6,ips,12,no,2900,,saga
+5000,samsung,,64,nuevo,4G,8,,128,,android,galaxy a53,6.5,amoled,12,si,2099,,saga
+4700,xiaomi,20,64,nuevo,4G,,3,256,12,android,poco f4 gt,6.7,amoled,12,si,3299,,saga
+,xiaomi,20,64,nuevo,5G,8,3,256,12,android,redmi k50,6,amoled,12,no,3500,,saga
+5000,samsung,,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,amoled,12,si,,1699,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,amoled,12,si,2149,,saga
+4700,xiaomi,20,64,nuevo,4G,,3,256,12,android,poco f4 gt,6.7,amoled,12,si,2999,,saga
+5000,samsung,32,64,nuevo,4G,8,2.4,128,6,android,galaxy a53,6.5,amoled,12,si,1699,,saga
+3279,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 14,6.1,super retina xdr oled,12,si,,4548,saga
+4800,honor,32,48,nuevo,5G,8,3,256,8,android,honor 70,6.62,oled,12,no,,2599,saga
+5000,samsung,8,50,nuevo,4G,8,2.4,128,4,android,galaxy a23,,ips,12,si,1199,,saga
+2600,zte,5,8,nuevo,4G,4,1.4,32,1,android,blade a3,5.5,ips,12,si,,379,saga
+,xiaomi,20,64,nuevo,5G,8,,256,,android,redmi k50,6,amoled,12,no,,2499,saga
+,xiaomi,20,64,nuevo,5G,8,3,256,12,android,redmi k50,6,oled,12,no,,2548,saga
+4323,apple,12,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,7129,,saga
+4300,honor,32,108,nuevo,4G,8,2.4,256,8,android,honor 50,6.57,oled,12,si,3599,,saga
+3020,huawei,5,8,nuevo,4G,8,2,32,2,emui,y5p,5.5,ips,12,si,599,,saga
+,xiaomi,20,64,nuevo,5G,8,3,256,,android,redmi k50,6,amoled,12,no,,2499,saga
+3300,samsung,10,12,nuevo,5G,8,2.84,256,8,android,galaxy z flip 3,6,dynamic amoled,12,si,4399,,saga
+6000,motorola,32,,nuevo,4G,8,2.3,128,6,android,moto g60,6.7,ips,12,si,1098,1009,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,128,8,android,galaxy a53,6.5,amoled,12,si,1999,,saga
+,realme,16,50,nuevo,4G,,,64,,android,realme 9i,,ips,12,si,,1159,saga
+5000,oneplus,32,48,nuevo,5G,8,3,256,8,android,oneplus 10 pro,,amoled,12,si,,3405,saga
+4700,xiaomi,20,64,nuevo,5G,8,3,256,12,android,redmi k50,6,oled,12,no,,2515,saga
+,xiaomi,20,64,nuevo,4G,8,3,256,12,android,redmi k50,6,oled,12,no,2699,,saga
+3020,huawei,5,8,nuevo,4G,8,2,32,2,emui,y5p,5.5,ips,12,si,690,,saga
+,xiaomi,12,64,nuevo,5G,8,,256,,android,redmi k50,6,oled,12,no,,2250,saga
+4700,xiaomi,20,64,nuevo,5G,8,2.995,256,12,android,redmi k50 ge,6.7,oled,12,no,,3150,saga
+3200,apple,12,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro,6.1,super retina xdr oled,12,si,6199,5799,saga
+,realme,16,50,nuevo,4G,,,64,6,android,realme 9i,,ips,12,si,,1159,saga
+4323,apple,12,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,,6537,saga
+4700,xiaomi,,64,nuevo,5G,8,3,256,12,android,poco f4 gt,6.7,amoled,12,si,3250,,saga
+3200,zte,8,13,nuevo,4G,1,1,64,,android,blade a5,6.1,ips,12,si,,449,saga
+5000,samsung,32,108,nuevo,5G,,2.4,256,8,android,galaxy a73,6.7,super amoled,12,si,3399,,saga
+6000,motorola,32,,nuevo,4G,8,2.3,128,6,android,moto g60,6.7,ips,12,si,1203,1098,saga
+2942,apple,7,,reacondicionado,5G,6,2.5,128,3,ios,iphone xr,6.1,ips,3,si,1694,1548,saga
+5000,samsung,32,108,nuevo,5G,8,2.4,256,8,android,galaxy a73,6.7,ips,12,si,2599,,saga
+4700,xiaomi,,64,nuevo,5G,8,3,256,12,android,poco f4 gt,6.7,amoled,12,si,,3250,saga
+4700,xiaomi,20,64,nuevo,5G,8,2.995,256,12,android,redmi k50 ge,6.7,oled,12,no,,2499,saga
+4700,xiaomi,20,64,nuevo,5G,8,2.995,128,12,android,redmi k50 ge,6.7,oled,12,no,2900,,saga
+4000,motorola,5,13,nuevo,4G,2,2,32,2,android,moto e20,6,ips,12,si,,519,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.84,256,8,android,redmi mi 11t pro,7,amoled,12,si,2899,,saga
+3110,apple,12,12,nuevo,4G,6,2.65,128,4,ios,iphone 11,6.1,ips,12,si,3999,,saga
+,xiaomi,,108,nuevo,4G,8,2.4,128,8,android,redmi mi 12 lite,,amoled,12,si,1899,,saga
+5000,samsung,32,108,nuevo,5G,8,2.4,128,8,android,galaxy a73,6.7,super amoled,12,si,2999,,saga
+4000,motorola,5,13,nuevo,4G,1,1.6,32,2,android,moto e20,6,ips,12,si,,519,saga
+,realme,5,8,nuevo,4G,,2.3,32,2,android,realme c11,,ips,12,si,519,,saga
+,xiaomi,8,48,nuevo,5G,,2.2,128,4,android,redmi note 10,6,ips,12,si,1299,,saga
+,xiaomi,8,48,nuevo,5G,,2.2,128,4,android,redmi note 10,6,ips,12,si,1199,,saga
+,realme,5,8,nuevo,4G,,2.3,32,2,android,realme c11,,ips,12,si,519,,saga
+5000,samsung,32,108,nuevo,5G,8,2.4,256,8,android,galaxy a73,6.7,super amoled,12,si,2999,,saga
+,xiaomi,5,48,nuevo,4G,,2.2,128,4,android,redmi note 10,6,ips,12,si,,1099,saga
+4000,motorola,5,13,nuevo,4G,,2.2,32,2,android,moto e20,6,ips,12,si,799,,saga
+5000,motorola,8,48,nuevo,4G,,2.2,,4,android,moto g stylus,6,ips,12,si,,1099,saga
+5000,motorola,13,48,nuevo,4G,,2.2,128,4,android,moto g20,6.5,ips,12,si,1199,,saga
+4000,lg,8,12,nuevo,5G,,2.2,128,6,android,v50,6.4,ips,12,si,1562,1427,saga
+5000,samsung,32,108,nuevo,5G,8,2.4,128,6,android,galaxy a73,6.7,super amoled,12,si,2999,,saga
+5000,samsung,32,108,nuevo,5G,8,2.4,128,6,android,galaxy a73,6.7,super amoled,12,si,2999,,saga
+3227,apple,12,12,nuevo,5G,6,3.23,128,4,ios,iphone 13,6.1,super retina xdr oled,12,si,,4099,saga
+5000,samsung,32,108,nuevo,5G,,2.4,128,6,android,galaxy a73,6.7,super amoled,12,si,2734,,saga
+5020,xiaomi,,108,nuevo,4G,,2.3,128,,android,redmi note 10 pro,6.6,amoled,12,si,1299,,saga
+5000,samsung,5,13,nuevo,4G,8,1.6,32,2,android,galaxy a03,6,ips,12,si,,547,saga
+5020,xiaomi,16,108,nuevo,4G,,2.3,128,6,android,redmi note 10 pro,6.6,amoled,12,si,1167,1065,saga
+4200,zte,16,64,nuevo,4G,8,2.84,256,12,android,nubia red magic,6.6,amoled,12,no,,2307,saga
+5000,honor,8,48,nuevo,4G,8,2.4,128,4,android,honor x7,7,ips,12,no,1999,,saga
+5020,xiaomi,16,108,nuevo,4G,,2.3,256,8,android,redmi note 10 pro,6.6,amoled,12,si,1999,,saga
+3227,apple,12,12,nuevo,4G,6,3.23,128,4,ios,iphone 13,6.1,ips,12,si,4175,3969,saga
+5000,samsung,5,13,nuevo,4G,4,2.3,32,3,android,galaxy a03s,6,ips,12,si,,697,saga
+,nokia,5,5,nuevo,4G,,1.3,,2,android,nokia 1.4,6,ips,12,si,,499,saga
+5020,xiaomi,16,108,nuevo,4G,,2.3,128,6,android,redmi note 10 pro,6.6,amoled,12,si,1999,,saga
+5000,samsung,32,108,nuevo,5G,,2.4,128,6,android,galaxy a73,6.7,super amoled,12,si,2374,,saga
+4323,apple,,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,,7099,saga
+3200,apple,12,48,nuevo,5G,6,3.46,128,,ios,iphone 14 pro,6.1,super retina xdr oled,12,si,6999,,saga
+5000,samsung,32,108,nuevo,5G,8,2.4,256,8,android,galaxy a73,6.7,super amoled,12,si,2878,,saga
+4700,xiaomi,20,64,nuevo,4G,,3,256,12,android,poco f4 gt,6.7,amoled,12,si,4099,,saga
+4500,samsung,32,12,nuevo,4G,8,2.7,128,6,android,galaxy s20 fe,6.5,amoled,12,si,,1778,saga
+5020,xiaomi,16,108,nuevo,4G,,2.3,128,6,android,redmi note 10 pro,6.6,amoled,12,si,1500,,saga
+5020,xiaomi,16,108,nuevo,4G,,2.3,128,8,android,redmi note 10 pro,6.6,amoled,12,si,1399,,saga
+5000,samsung,32,108,nuevo,5G,8,2.4,128,8,android,galaxy a73,6.7,super amoled,12,si,2734,,saga
+5020,xiaomi,16,108,nuevo,4G,,2.3,128,6,android,redmi note 10 pro,6.6,amoled,12,si,1700,,saga
+5020,xiaomi,,108,nuevo,4G,,2.3,128,,android,redmi note 10 pro,6.6,amoled,12,si,1999,,saga
+5000,samsung,32,108,nuevo,4G,8,2.4,128,8,android,galaxy a73,6.7,super amoled,12,si,2499,,saga
+4500,samsung,32,12,nuevo,4G,8,2.7,128,6,android,galaxy s20 fe,6.5,amoled,12,si,,1898,saga
+5020,xiaomi,16,108,nuevo,4G,,2.3,256,6,android,redmi note 10 pro,6.6,amoled,12,si,1699,,saga
+5000,samsung,40,108,nuevo,5G,8,2.99,256,,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,6999,,saga
+5020,xiaomi,16,108,nuevo,4G,8,2.3,128,6,android,redmi note 10 pro,6.6,amoled,12,si,1400,,saga
+600,landbyte,,,nuevo,2G,1,1.8,,,freedos,lt2010,1.8,ips,12,si,,69.9,saga
+5020,xiaomi,,108,nuevo,4G,,2.3,128,,android,redmi note 10 pro,6.6,amoled,12,si,1799,,saga
+5000,samsung,32,108,nuevo,5G,8,2.4,128,6,android,galaxy a73,6.7,super amoled,12,si,2374,,saga
+600,nokia,,,nuevo,4G,8,1.8,,,android,nokia 106,1.8,ips,12,si,,106,saga
+5020,xiaomi,16,108,nuevo,4G,,2.3,128,6,android,redmi note 10 pro,6.6,amoled,12,si,1899,,saga
+4200,zte,16,64,nuevo,5G,8,2.75,256,12,android,nubia red magic,,ips,12,no,2460,2252,saga
+5020,xiaomi,8,108,nuevo,5G,8,2.3,256,8,android,redmi note 10 pro,6.6,amoled,12,si,1799,,saga
+5000,samsung,,108,nuevo,5G,8,2.4,256,8,android,galaxy a73,6.7,super amoled,12,si,,2900,saga
+5000,motorola,13,48,nuevo,4G,,2.3,64,4,android,moto g20,6.5,ips,12,si,999,,saga
+5020,xiaomi,16,108,nuevo,4G,8,2.3,128,6,android,redmi note 10 pro,6.6,amoled,12,si,1399,,saga
+5000,xiaomi,2,50,nuevo,4G,8,2.2,128,4,android,redmi note 10c,6.5,amoled,12,si,,749,saga
+5000,realme,,13,nuevo,4G,,1.8,64,,android,realme c21y,,ips,12,si,799,,saga
+3279,apple,12,12,nuevo,5G,6,3.23,128,,ios,iphone 14,6.1,super retina xdr oled,12,si,4916,4504,saga
+5000,samsung,,108,nuevo,5G,8,2.4,128,8,android,galaxy a73,6.7,super amoled,12,si,,2700,saga
+5000,motorola,13,48,nuevo,4G,,2.3,64,4,android,moto g20,6.5,ips,12,si,1499,,saga
+5000,xiaomi,,64,nuevo,4G,8,2.05,64,6,android,redmi note 10s,6.43,ips,12,si,929,899,saga
+1600,movisum,,0.3,nuevo,4G,,,,,freedos,aplo k31,2.8,ips,12,si,,189,saga
+5000,motorola,16,50,nuevo,4G,,2.3,128,4,android,moto g22,6.5,ips,12,no,1399,,saga
+5000,realme,5,13,nuevo,4G,,1.8,64,,android,realme c21y,,ips,12,si,,699,saga
+5000,xiaomi,13,64,nuevo,4G,8,2.05,64,6,android,redmi note 10s,6.43,ips,12,si,1699,,saga
+5000,xiaomi,,64,nuevo,4G,8,2.05,128,6,android,redmi note 10s,6.43,ips,12,si,,1299,saga
+5000,xiaomi,13,64,nuevo,4G,8,2.05,128,8,android,redmi note 10s,6.43,ips,12,si,1899,,saga
+,smooth,5,8,nuevo,4G,,,32,1,android,lite,5,ips,12,si,399,,saga
+5000,xiaomi,13,64,nuevo,4G,8,2.05,128,6,android,redmi note 10s,6.43,ips,12,si,1899,,saga
+,oneplus,32,50,nuevo,5G,,2.4,128,,android,oneplus nord 2,,ips,12,si,2065,1889,saga
+5000,samsung,32,108,nuevo,5G,8,2.4,256,8,android,galaxy a73,6.7,super amoled,12,si,,2900,saga
+5000,xiaomi,13,64,nuevo,4G,8,2.05,128,6,android,redmi note 10s,6.43,ips,12,si,1023,933,saga
+5000,xiaomi,13,64,nuevo,4G,8,2.05,128,6,android,redmi note 10s,6.43,amoled,12,si,,929,saga
+5000,samsung,32,108,nuevo,5G,8,2.4,128,8,android,galaxy a73,6.7,super amoled,12,si,,2700,saga
+,xiaomi,13,64,nuevo,4G,8,2.05,128,6,android,redmi note 10s,6.43,amoled,12,si,,1460,saga
+,samsung,32,108,nuevo,5G,,2.4,128,8,android,galaxy a73,6.7,super amoled,12,si,2499,,saga
+4323,apple,12,48,nuevo,5G,6,3.46,,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,9299,8499,saga
+,xiaomi,13,64,nuevo,4G,8,2.05,128,6,android,redmi note 10s,6.43,ips,12,si,1699,,saga
+5000,samsung,32,108,nuevo,5G,8,2.4,128,8,android,galaxy a73,6.7,amoled,12,si,,2199,saga
+5000,samsung,40,108,nuevo,5G,8,2.99,256,,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,6599,,saga
+,xiaomi,13,64,nuevo,4G,8,2.05,128,6,android,redmi note 10s,6.43,amoled,12,si,,1320,saga
+,samsung,10,16,reacondicionado,4G,8,2.7,256,8,android,galaxy note 10,,ips,3,si,3000,,saga
+3400,samsung,10,16,nuevo,4G,8,2.84,512,8,android,galaxy s10,6.1,amoled,12,si,,1999,saga
+,realme,5,13,nuevo,4G,8,1.8,64,4,android,realme c21y,,ips,12,si,,636,saga
+1800,landbyte,,,nuevo,2G,1,1,0.032,0.032,freedos,lt1030,2.4,ips,12,no,,92.9,saga
+1000,verykool,,,nuevo,2G,1,1,0.032,0.032,freedos,i220,2,ips,12,no,113,104,saga
+,xiaomi,13,64,nuevo,4G,8,2.05,128,6,android,redmi note 10s,6.43,ips,12,si,1299,,saga
+5000,motorola,16,50,nuevo,4G,,2.3,128,4,android,moto g22,6.5,ips,12,no,999,,saga
+,xiaomi,13,64,nuevo,4G,8,2.05,64,6,android,redmi note 10s,6.43,amoled,12,si,,1320,saga
+,samsung,13,64,nuevo,4G,8,2.05,128,6,android,redmi note 10s,6.43,ips,12,si,1299,,saga
+,xiaomi,16,64,nuevo,4G,8,2.05,128,6,android,redmi note 10s,6.43,ips,12,si,1299,,saga
+,samsung,10,108,nuevo,4G,8,2.73,256,8,android,galaxy note 20 ultra,,dynamic amoled,12,si,5499,,saga
+1800,altron,,0.3,nuevo,4G,,,,,freedos,al215,2.4,ips,12,no,,149,saga
+5000,motorola,16,50,nuevo,4G,,2.3,64,4,android,moto g22,6.5,ips,12,no,999,,saga
+4323,apple,12,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,7799,,saga
+5000,xiaomi,13,64,nuevo,4G,8,2.05,128,6,android,redmi note 10s,6.43,amoled,12,si,,933,saga
+,samsung,10,12,nuevo,4G,8,2.84,128,8,android,galaxy s10 plus,6,dynamic amoled,12,si,,2490,saga
+,xiaomi,13,64,nuevo,4G,8,2.05,128,6,android,redmi note 10s,6.43,ips,12,si,1699,,saga
+,samsung,,12,nuevo,4G,8,2.84,128,8,android,galaxy s10 plus,6,dynamic amoled,12,si,,2490,saga
+,samsung,12,12,reacondicionado,4G,8,2.84,128,6,android,galaxy s10e,5.8,dynamic amoled,3,si,2200,,saga
+,xiaomi,16,64,nuevo,4G,8,2.05,128,6,android,redmi note 10s,6.43,ips,12,si,1299,,saga
+,umidigi,8,13,nuevo,4G,8,2,64,3,android,galaxy a11,6,dynamic amoled,12,si,759,,saga
+1850,apple,7,12,reacondicionado,4G,6,2.4,64,2,ios,iphone 8,4.7,ips,3,si,1179,1076,saga
+,nokia,3,0.3,nuevo,4G,1,1,0.032,0.032,freedos,nokia 110,1.7,ips,12,no,189,,saga
+4500,samsung,32,12,nuevo,5G,,2.8,128,6,android,galaxy s20 fe,6.5,amoled,12,si,2299,,saga
+5000,xiaomi,13,64,nuevo,4G,8,2.05,128,6,android,redmi note 10s,6.43,amoled,12,si,1199,,saga
+,xiaomi,13,64,nuevo,4G,8,2.3,128,6,android,redmi note 10s,6.43,amoled,12,si,,999,saga
+5000,xiaomi,13,50,nuevo,4G,8,2.4,128,4,android,redmi note 11,6.4,amoled,12,si,1399,,saga
+4700,xiaomi,32,64,nuevo,4G,,3,256,12,android,poco f4 gt,6.7,amoled,12,si,3599,,saga
+3279,apple,12,12,nuevo,5G,6,3.23,256,4,ios,iphone 14,6.1,super retina xdr oled,12,si,5799,,saga
+4500,samsung,32,12,nuevo,4G,8,2.8,128,,android,galaxy s20 fe,6.5,amoled,12,si,2499,,saga
+5000,xiaomi,13,50,nuevo,4G,8,2.4,128,6,android,redmi note 11,6.4,amoled,12,si,1499,,saga
+5000,xiaomi,,50,nuevo,4G,8,2.4,128,4,android,redmi note 11,6.4,amoled,12,si,,999,saga
+4500,samsung,32,12,nuevo,5G,8,2.8,128,6,android,galaxy s20 fe,6.5,amoled,12,si,2499,,saga
+4800,honor,32,48,nuevo,4G,8,3,256,8,android,honor 70,6.62,oled,12,no,2799,,saga
+5000,xiaomi,13,50,nuevo,4G,8,2.4,128,4,android,redmi note 11,6.4,amoled,12,si,819,809,saga
+5000,xiaomi,16,50,nuevo,4G,8,2.4,128,6,android,redmi note 11,6.4,amoled,12,si,1699,,saga
+4500,samsung,12,12,nuevo,5G,8,2.8,128,6,android,galaxy s20 fe,6.5,amoled,12,si,2499,,saga
+4500,samsung,,12,nuevo,4G,8,2.8,128,6,android,galaxy s20 fe,6.5,amoled,12,si,2499,,saga
+5000,xiaomi,13,50,nuevo,4G,8,2.4,128,4,android,redmi note 11,6.4,amoled,12,si,949,899,saga
+4500,samsung,32,12,nuevo,4G,8,2.8,128,6,android,galaxy s20 fe,6.5,amoled,12,si,2499,,saga
+5000,xiaomi,16,50,nuevo,5G,8,2.4,128,6,android,redmi note 11,6.4,amoled,12,si,1979,,saga
+600,sky devices,,0.3,nuevo,4G,1,1,32,,freedos,rock,1,ips,12,no,79,,saga
+800,lh electronic,,,nuevo,2G,1,1,5,,freedos,lt1020,1.7,ips,12,si,,78,saga
+5000,xiaomi,13,50,nuevo,4G,8,2.4,128,4,android,redmi note 11,6.4,amoled,12,si,927,845,saga
+5000,xiaomi,,50,nuevo,4G,8,2.4,128,6,android,redmi note 11,6.4,amoled,12,si,1199,,saga
+,pcd,2,5,nuevo,4G,,,,1,android,ph4003,4,ips,12,no,199,,saga
+4500,samsung,32,12,nuevo,5G,8,2.8,128,6,android,galaxy s20 fe,6.5,amoled,12,si,2599,,saga
+4500,samsung,12,12,nuevo,5G,8,2.8,128,6,android,galaxy s20 fe,6.5,amoled,12,si,2499,,saga
+4500,samsung,12,12,nuevo,5G,8,2.8,128,8,android,galaxy s20 fe,6.5,amoled,12,si,2499,,saga
+4500,samsung,,12,nuevo,5G,8,2.8,128,6,android,galaxy s20 fe,6.5,amoled,12,si,2299,,saga
+5000,xiaomi,13,50,nuevo,5G,8,2.4,128,4,android,redmi note 11,6.4,amoled,12,si,,899,saga
+,nokia,,0.3,nuevo,2G,1,1,0.032,0.032,freedos,nokia 110,1.7,ips,12,no,,104,saga
+5000,xiaomi,,50,nuevo,4G,8,2.4,128,4,android,redmi note 11,6.4,amoled,12,si,,900,saga
+5000,motorola,13,50,nuevo,4G,,2,128,4,android,moto g31,6,oled,12,no,999,,saga
+5000,xiaomi,,50,nuevo,4G,8,2.4,128,4,android,redmi note 11,6.4,amoled,12,si,1099,,saga
+5000,xiaomi,13,50,nuevo,4G,8,2.4,128,4,android,redmi note 11,6.4,amoled,12,si,,849,saga
+5000,xiaomi,,50,nuevo,4G,8,2.4,128,4,android,redmi note 11,6.4,amoled,12,si,999,,saga
+5000,xiaomi,13,50,nuevo,4G,8,2.4,128,6,android,redmi note 11,6.4,amoled,12,si,1199,,saga
+5000,xiaomi,13,50,nuevo,4G,8,2.4,128,4,android,redmi note 11,6.4,amoled,12,si,1199,,saga
+4500,samsung,32,12,nuevo,4G,8,2.8,256,,android,galaxy s20 fe,6.5,amoled,12,si,3500,3209,saga
+4500,samsung,32,12,nuevo,4G,8,2.9,128,6,android,galaxy s21 fe,6.4,amoled,12,si,2599,2449,saga
+1800,altron,,0.3,nuevo,4G,,,,,freedos,al215,2.4,amoled,12,no,,149,saga
+4500,samsung,32,12,nuevo,5G,8,2.9,256,8,android,galaxy s21 fe,6.4,amoled,12,si,3499,,saga
+4500,samsung,32,12,nuevo,4G,8,2.9,256,,android,galaxy s21 fe,6.4,amoled,12,si,3999,,saga
+5000,xiaomi,13,50,nuevo,4G,8,2.4,128,6,android,redmi note 11,6.4,amoled,12,si,,933,saga
+5000,xiaomi,13,50,nuevo,4G,8,2.4,128,4,android,redmi note 11,6.4,amoled,12,si,,845,saga
+,nokia,,0.3,nuevo,2G,1,1,0.032,0.032,freedos,nokia 110,1.7,ips,12,no,,93,saga
+,xiaomi,,64,nuevo,5G,8,2.4,128,6,android,poco m4 pro,6.5,amoled,12,si,,2600,saga
+4100,samsung,10,12,nuevo,4G,8,2.84,128,8,android,galaxy s10 plus,6,amoled,12,si,,2399,saga
+5000,xiaomi,13,50,nuevo,4G,8,2.4,128,4,android,redmi note 11,6.4,amoled,12,si,,869,saga
+5000,samsung,40,108,nuevo,5G,8,2.99,256,12,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,,4998,saga
+5000,xiaomi,,50,nuevo,4G,8,2.4,128,4,android,redmi note 11,6.4,amoled,12,si,819,799,saga
+5000,xiaomi,,50,nuevo,4G,8,2.4,128,,android,redmi note 11,6.4,amoled,12,si,1099,,saga
+5000,samsung,40,108,nuevo,5G,8,2.99,256,,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,6599,,saga
+5000,motorola,13,50,nuevo,4G,,2,128,4,android,moto g31,6,oled,12,no,999,,saga
+5000,xiaomi,,50,nuevo,5G,8,2.4,128,,android,redmi note 11,6.4,amoled,12,si,1699,,saga
+,samsung,32,12,nuevo,5G,8,2.9,256,,android,galaxy s21 fe,6.4,amoled,12,si,3399,,saga
+3279,apple,12,12,nuevo,5G,6,3.23,256,6,ios,iphone 14,6.1,super retina xdr oled,12,si,4980,4960,saga
+,samsung,32,12,nuevo,5G,8,2.9,256,8,android,galaxy s21 fe,6.4,amoled,12,si,,3500,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.5,128,8,android,redmi note 11 pro,6,amoled,12,si,1299,,saga
+5000,xiaomi,16,108,nuevo,5G,8,2.5,128,6,android,redmi note 11 pro,6,amoled,12,si,1699,,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.5,128,8,android,redmi note 11 pro,6,amoled,12,si,1799,,saga
+5000,xiaomi,32,108,nuevo,4G,8,2.5,128,8,android,redmi note 11 pro,6,amoled,12,si,1899,,saga
+5000,samsung,5,13,nuevo,3G,8,1.6,32,1.5,android,galaxy a03,6,ips,12,si,599,,saga
+4500,samsung,32,12,nuevo,5G,8,2.9,256,,android,galaxy s21 fe,6.4,amoled,12,si,3279,,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.5,128,6,android,redmi note 11 pro,6,amoled,12,si,1299,,saga
+4500,samsung,32,12,nuevo,5G,8,2.9,256,8,android,galaxy s21 fe,6.4,amoled,12,si,3699,,saga
+5000,motorola,13,,nuevo,4G,8,2.2,128,4,android,moto g50,6.5,ips,12,no,1109,,saga
+,samsung,10,64,nuevo,4G,8,2.9,128,8,android,galaxy s21 plus,6.4,amoled,12,si,4299,3949,saga
+3200,apple,,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro,6.1,super retina xdr oled,12,si,,6699,saga
+,samsung,32,12,nuevo,5G,8,2.9,256,8,android,galaxy s21 fe,6.4,amoled,12,si,2999,,saga
+5000,samsung,40,108,nuevo,5G,8,2.99,128,8,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,,4298,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.5,128,6,android,redmi note 11 pro,6,amoled,12,si,,1142,saga
+,samsung,10,50,nuevo,4G,8,2.99,256,8,android,galaxy s22,6.1,amoled,12,si,3999,3799,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.5,128,,android,redmi note 11 pro,6,amoled,12,si,1599,,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.5,128,6,android,redmi note 11 pro,6,super amoled,12,si,,1142,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.5,128,6,android,redmi note 11 pro,6,amoled,12,si,,1199,saga
+,nokia,5,8,nuevo,4G,,1.3,,1,android,nokia ta1023,5,ips,12,si,,399,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,ips,12,si,1699,1679,saga
+,samsung,10,50,nuevo,4G,8,2.99,128,8,android,galaxy s22 plus,6.5,amoled,12,si,3999,,saga
+5000,xiaomi,16,108,nuevo,5G,8,2.5,128,6,android,redmi note 11 pro,6,amoled,12,si,1979,,saga
+5000,xiaomi,13,64,nuevo,4G,,2.05,128,6,android,poco m5s,7,ips,12,no,1199,,saga
+5000,realme,5,13,nuevo,4G,,1.8,64,4,android,realme c21y,,ips,12,si,652,592,saga
+,xiaomi,8,64,nuevo,4G,8,3,256,8,android,realme gt neo,6,ips,12,si,2399,2199,saga
+5000,xiaomi,16,108,nuevo,5G,8,2.5,128,6,android,redmi note 11 pro,6,amoled,12,si,1999,,saga
+,samsung,,50,nuevo,4G,8,2.99,256,8,android,galaxy s22 plus,6.5,amoled,12,si,,4699,saga
+,samsung,10,50,nuevo,5G,8,2.99,256,8,android,galaxy s22 plus,6.5,amoled,12,si,4999,,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.5,128,6,android,redmi note 11 pro,6,amoled,12,si,1699,,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.5,128,6,android,redmi note 11 pro,6,amoled,12,si,1399,,saga
+,samsung,10,50,nuevo,4G,8,2.99,256,8,android,galaxy s22 plus,6.5,amoled,12,si,4199,,saga
+5000,xiaomi,,108,nuevo,4G,8,2.5,128,8,android,redmi note 11 pro,6,amoled,12,si,1599,,saga
+3279,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 14,6.1,super retina xdr oled,12,si,4916,4504,saga
+5000,xiaomi,16,108,nuevo,5G,8,2.5,128,6,android,redmi note 11 pro,6,amoled,12,si,1699,,saga
+5000,motorola,13,,nuevo,4G,8,2.2,128,4,android,moto g50,6.5,ips,12,no,1199,,saga
+4323,apple,12,48,nuevo,5G,6,3.46,128,,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,7132,6537,saga
+5000,xiaomi,16,108,nuevo,5G,8,2.5,128,8,android,redmi note 11 pro,6,amoled,12,si,1699,,saga
+5000,samsung,40,108,nuevo,4G,8,2.99,128,8,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,5099,,saga
+5000,samsung,40,108,nuevo,5G,8,2.99,256,12,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,4799,,saga
+5000,samsung,40,108,nuevo,4G,8,2.99,256,12,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,5199,,saga
+3179,apple,,12,reacondicionado,4G,6,2.65,64,4,ios,iphone 11 pro,5,ips,3,si,,3399,saga
+5000,samsung,32,48,nuevo,5G,8,2.4,128,6,android,galaxy a33,6.4,amoled,12,si,1699,,saga
+,oneplus,32,50,nuevo,5G,8,3,128,8,android,oneplus nord 2,,amoled,12,si,,1889,saga
+5000,samsung,40,108,nuevo,5G,8,2.99,256,8,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,6119,,saga
+950,lg,,1.3,nuevo,4G,,,32,,android,g360,3.2,ips,12,no,208,192,saga
+5000,motorola,16,50,nuevo,4G,8,2.4,128,6,android,moto g52,6.6,amoled,12,no,1999,,saga
+3200,zte,8,13,nuevo,4G,8,1.6,32,2,android,blade a5,6.1,ips,12,si,,439,saga
+4323,apple,12,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,7999,,saga
+5000,samsung,40,108,nuevo,4G,8,2.99,256,12,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,5299,,saga
+1000,smooth,,0.3,nuevo,4G,1,1,,,freedos,uno,1.8,ips,12,no,,97.9,saga
+4500,samsung,32,12,nuevo,5G,8,2.9,128,8,android,galaxy s21fe,6,amoled,12,si,2799,,saga
+5000,xiaomi,16,108,nuevo,5G,8,2.5,128,6,android,redmi note 11 pro,6,amoled,12,si,1499,,saga
+,nokia,,8,nuevo,4G,,1.3,8,1,freedos,nokia ta1023,5,ips,12,si,729,,saga
+1500,alcatel,2,5,nuevo,4G,,1.3,8,1,android,1e,4,ips,12,si,399,,saga
+2000,generico,5,8,nuevo,4G,,1.3,32,1,android,epik x515,5,ips,12,si,399,,saga
+2500,nokia,5,,nuevo,4G,4,1.3,32,1,android,nokia c1,5,ips,12,si,500,,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.5,128,6,android,redmi note 11 pro,6,amoled,12,si,1799,,saga
+3200,apple,12,48,nuevo,5G,6,3.46,128,,ios,iphone 14 pro,6.1,super retina xdr oled,12,si,6533,5988,saga
+5000,xiaomi,32,108,nuevo,4G,8,2.5,128,8,android,redmi note 11 pro,6,amoled,12,si,2999,,saga
+,xiaomi,,8,nuevo,5G,8,2.96,256,8,android,poco x4 gt,6,ips,12,si,,2100,saga
+4323,apple,12,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,7929,,saga
+3227,apple,12,12,nuevo,4G,6,3.23,128,,ios,iphone 13,6.1,super retina xdr oled,12,si,4999,,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.5,128,6,android,redmi note 11 pro,6,amoled,12,si,1899,,saga
+800,smooth,,0.3,nuevo,3G,1,1.8,0.032,0.032,freedos,uno,1.8,ips,12,no,,97.9,saga
+4323,apple,12,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,8599,,saga
+3279,apple,12,12,nuevo,5G,6,3.23,256,,ios,iphone 14,6.1,super retina xdr oled,12,si,5099,,saga
+,sky devices,2,5,nuevo,4G,1,1,1,1,android,platinum k55,5,ips,12,si,309,,saga
+,nokia,5,5,nuevo,4G,1,1,0.032,0.032,android,nokia c20,7,ips,12,no,459,,saga
+5000,motorola,16,50,nuevo,4G,8,2.4,128,6,android,moto g52,6.6,amoled,12,no,,1021,saga
+800,lh electronic,,,nuevo,4G,1,1,0.032,0.032,freedos,gol z1 jr,1.8,ips,12,si,,129,saga
+,samsung,8,48,nuevo,4G,8,2.4,128,6,android,galaxy a33,6.5,super amoled,12,si,,1529,saga
+5000,samsung,32,50,nuevo,4G,8,2.2,128,4,android,galaxy a13,6.6,ips,12,si,1199,,saga
+5000,samsung,40,108,nuevo,4G,8,2.99,256,12,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,,5299,saga
+2900,hyundai,,,nuevo,4G,,1.3,32,1,android,hyundai e603,,ips,12,si,,349,saga
+5000,xiaomi,32,108,nuevo,4G,8,2.5,128,8,android,redmi note 11 pro,6,amoled,12,si,1799,,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.5,128,6,android,redmi note 11 pro,6,amoled,12,si,1599,,saga
+1850,apple,7,12,reacondicionado,4G,6,2.4,64,2,ios,iphone 8,4.7,ips,3,si,1167,1065,saga
+,nokia,5,5,nuevo,4G,8,2,32,2,android,nokia c20,7,ips,12,no,599,,saga
+5000,samsung,40,108,nuevo,4G,8,2.99,256,,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,5999,,saga
+4500,samsung,32,12,nuevo,5G,8,2.9,256,8,android,galaxy s21 fe,6.4,amoled,12,si,2999,,saga
+5000,samsung,40,108,nuevo,4G,8,2.99,512,12,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,6999,,saga
+4323,apple,,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,,6899,saga
+,xiaomi,16,108,nuevo,5G,8,2.96,256,8,android,poco x4 pro,7,amoled,12,si,1999,,saga
+5000,huawei,8,13,nuevo,4G,8,2,64,3,emui,y6p,6,ips,12,si,,643,saga
+5000,xiaomi,16,108,nuevo,3G,8,2.5,128,4,android,redmi note 11 pro,6,ips,12,si,,1799,saga
+1800,altron,,0.3,nuevo,4G,1,1,,,freedos,al215,2.4,ips,12,si,,149,saga
+600,universal,,0.3,nuevo,4G,1,1,0.032,0.032,freedos,rock,1,ips,12,no,,119,saga
+5000,samsung,13,48,nuevo,4G,6,2.2,64,4,android,galaxy a22,,ips,12,si,,947,saga
+,nokia,8,,nuevo,4G,8,1.5,64,3,android,nokia g10,6.6,ips,12,no,799,,saga
+5000,xiaomi,16,108,nuevo,5G,8,2.5,256,8,android,redmi note 11 pro plus,6,amoled,12,si,2099,,saga
+5000,samsung,40,108,nuevo,4G,8,2.99,256,,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,6199,,saga
+5000,samsung,40,108,nuevo,4G,8,2.99,256,12,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,5950,,saga
+5000,samsung,40,108,nuevo,5G,8,2.99,256,12,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,5000,4900,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.5,256,8,android,redmi note 11 pro plus,6,amoled,12,si,2499,,saga
+5000,xiaomi,16,108,nuevo,5G,8,2.5,256,8,android,redmi note 11 pro plus,6,amoled,12,si,5000,,saga
+5000,xiaomi,16,108,nuevo,5G,8,2.5,256,,android,redmi note 11 pro plus,6,amoled,12,si,1999,,saga
+5000,xiaomi,16,108,nuevo,5G,8,2.5,256,8,android,redmi note 11 pro plus,6,amoled,12,si,1999,,saga
+,realme,,32,nuevo,4G,8,3,256,12,android,realme gt2 pro,6,ips,12,si,4250,,saga
+5000,xiaomi,16,108,nuevo,5G,8,2.5,256,8,android,redmi note 11 pro plus,6,amoled,12,si,2499,,saga
+5000,xiaomi,16,108,nuevo,5G,8,2.5,256,8,android,redmi note 11 pro plus,6,amoled,12,si,2399,,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.05,128,4,android,redmi note 11s,6,amoled,12,si,1499,,saga
+,xiaomi,16,108,nuevo,5G,8,2.96,256,8,android,poco x4 pro,7,amoled,12,si,1799,,saga
+5000,samsung,40,108,nuevo,4G,8,2.99,256,12,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,6999,,saga
+4323,apple,12,48,nuevo,5G,6,3.46,512,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,8599,7799,saga
+5000,motorola,16,50,nuevo,4G,8,2.4,128,6,android,moto g52,6.6,amoled,12,no,1107,1010,saga
+5000,samsung,40,108,nuevo,4G,8,2.99,256,,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,5299,,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.05,128,4,android,redmi note 11s,6,super retina xdr oled,12,si,,1599,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.05,128,6,android,redmi note 11s,6,amoled,12,si,1399,,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.05,128,6,android,redmi note 11s,6,amoled,12,si,1095,999,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.05,128,8,android,redmi note 11s,6,amoled,12,si,1298,1186,saga
+4325,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 14 plus,6.7,super retina xdr oled,12,si,6599,,saga
+4323,apple,,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,8999,,saga
+5000,samsung,40,108,nuevo,4G,8,2.99,256,8,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,6119,,saga
+5000,samsung,40,108,nuevo,4G,8,2.99,256,12,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,5899,,saga
+5000,motorola,16,50,nuevo,4G,8,2.4,128,,android,moto g52,6.6,amoled,12,no,1107,1010,saga
+5000,motorola,16,50,nuevo,4G,8,2.4,128,6,android,moto g52,6.6,amoled,12,no,1199,,saga
+,xiaomi,,108,nuevo,5G,8,2.96,128,8,android,poco x4 pro,7,amoled,12,si,2100,,saga
+3200,apple,,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro,6.1,super retina xdr oled,12,si,,6299,saga
+4325,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 14 plus,6.7,super retina xdr oled,12,si,,4944,saga
+5000,samsung,5,13,nuevo,4G,8,2.3,32,3,android,galaxy a03s,6,ips,12,si,,899,saga
+3227,apple,,12,nuevo,4G,6,3.23,128,4,ios,iphone 13,6.1,super retina xdr oled,12,si,4599,,saga
+,xiaomi,5,13,nuevo,4G,8,2,64,4,android,poco c40,6,ips,12,si,899,,saga
+,samsung,10,12,nuevo,5G,8,2.84,256,8,android,galaxy z flip 3,6,dynamic amoled,12,si,4414,,saga
+,samsung,10,12,nuevo,5G,8,2.84,256,8,android,galaxy z flip 3,6,dynamic amoled,12,si,4415,,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.05,128,8,android,redmi note 11s,6,amoled,12,si,,1186,saga
+,samsung,10,12,nuevo,5G,,2.84,256,8,android,galaxy z flip 3,6,dynamic amoled,12,si,4415,,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.05,128,6,android,redmi note 11s,6,amoled,12,si,1199,,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.05,128,8,android,redmi note 11s,6,amoled,12,si,1599,,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.05,128,6,android,redmi note 11s,6,amoled,12,si,1299,,saga
+,xiaomi,5,13,nuevo,4G,8,2,64,3,android,poco c40,6,ips,12,si,799,,saga
+5000,xiaomi,16,108,nuevo,5G,8,2.84,256,8,android,mi 11t pro,6.7,amoled,12,si,,2299,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.05,128,8,android,redmi note 11s,6,amoled,12,si,1299,,saga
+,samsung,12,12,nuevo,4G,8,3.19,256,8,android,galaxy z flip 4,6.7,dynamic amoled,12,si,4999,,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.05,128,8,android,redmi note 11s,6,amoled,12,si,1399,,saga
+,samsung,10,12,nuevo,4G,8,3.19,256,8,android,galaxy z flip 4,6.7,dynamic amoled,12,si,4399,,saga
+4323,apple,12,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,7499,,saga
+4700,xiaomi,,,nuevo,5G,8,3.2,256,12,android,poco f4,6,amoled,12,si,,3250,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.05,128,6,android,redmi note 11s,6,amoled,12,si,1199,,saga
+5000,samsung,40,108,nuevo,5G,8,2.99,256,,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,5999,,saga
+600,lh electronic,,0.3,nuevo,4G,,1.3,,,freedos,f2g,1.6,ips,12,no,,59,saga
+,sky devices,,0.3,nuevo,4G,,1.3,32,,freedos,f2g,1.6,ips,12,no,79,,saga
+4500,xiaomi,20,,nuevo,5G,8,3.2,256,8,android,poco f4,6,amoled,12,si,,1739,saga
+4323,apple,12,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,8399,,saga
+3110,apple,12,12,reacondicionado,4G,6,2.65,64,4,ios,iphone 11,6.1,ips,3,si,2185,1999,saga
+3227,apple,,12,nuevo,4G,6,3.23,128,6,ios,iphone 13,6.1,super retina xdr oled,12,si,,4999,saga
+,samsung,13,48,nuevo,4G,8,2,64,4,android,galaxy a22,,ips,12,si,,1499,saga
+,samsung,10,12,nuevo,5G,8,3.19,256,12,android,galaxy z flip 4,6.7,dynamic amoled,12,si,7999,,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.05,64,4,android,redmi note 11s,6,amoled,12,si,,1599,saga
+950,lg,,1.3,nuevo,3G,,,32,,android,g360,3.2,ips,12,no,,192,saga
+4323,apple,12,48,nuevo,5G,6,3.46,128,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,7132,6537,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.05,128,4,android,redmi note 11s,6,amoled,12,si,1399,,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.05,128,6,android,redmi note 11s,6,amoled,12,si,,1399,saga
+6000,tecno,8,13,nuevo,4G,8,2,64,4,android,pova neo 6 geek,6.7,ips,12,si,,769,saga
+4100,samsung,10,12,nuevo,4G,8,2.84,128,8,android,galaxy s10 plus,6,amoled,12,si,,2399,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.05,128,8,android,redmi note 11s,6,amoled,12,si,1759,,saga
+3000,samsung,8,,nuevo,4G,8,2.8,64,4,android,galaxy s9,5.8,super amoled,12,si,,1230,saga
+4500,xiaomi,20,,nuevo,5G,8,3.2,256,8,android,poco f4,6,amoled,12,si,,1738,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.84,256,8,android,mi 11t pro,6.7,amoled,12,si,,2799,saga
+4323,apple,12,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,8499,7699,saga
+3200,apple,12,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro,6.1,super retina xdr oled,12,si,7999,,saga
+4300,samsung,10,16,reacondicionado,3G,8,2.73,256,12,android,note 10 plus,6.8,super retina xdr oled,3,si,,1790,saga
+6000,tecno ,8,13,nuevo,4G,8,2,64,4,android,pova neo 6 obsidian,6.7,ips,12,si,,769,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.05,128,6,android,redmi note 11s,6,amoled,12,si,1699,,saga
+,samsung,10,12,reacondicionado,4G,8,2.73,256,8,android,note 20,,dynamic amoled,3,si,2305,2109,saga
+4500,samsung,10,108,nuevo,4G,8,2.73,256,8,android,note 20 ultra,7,amoled,12,si,,3845,saga
+4500,samsung,10,108,nuevo,4G,8,2.73,128,8,android,note 20 ultra,7,dynamic amoled,12,si,3718,3405,saga
+4500,samsung,10,108,nuevo,4G,8,2.73,256,8,android,note 20 ultra,7,dynamic amoled,12,si,4113,3768,saga
+3279,apple,12,12,nuevo,5G,6,3.23,256,6,ios,iphone 14,6.1,super retina xdr oled,12,si,4999,4980,saga
+,samsung,8,12,nuevo,4G,8,2.2,64,6,android,note 8,,ips,12,si,1526,1395,saga
+1000,smooth,,0.3,nuevo,3G,1,1,24,,freedos,uno,1.8,ips,12,no,,97.9,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.05,128,6,android,note 11 pro,6,ips,12,si,1414,,saga
+3300,samsung,8,12,nuevo,4G,8,2.35,64,6,android,note 8,,amoled,12,si,,1395,saga
+,sky devices,,0.3,nuevo,4G,,1.3,0.032,0.032,freedos,f2g,1.6,ips,12,no,79,,saga
+,samsung,8,12,nuevo,4G,8,2.7,128,6,android,galaxy note 9,6.4,ips,12,si,1813,1658,saga
+5000,realme,,13,nuevo,4G,8,1.8,64,,android,reamle c21y,,ips,12,si,799,,saga
+4000,samsung,8,12,reacondicionado,4G,8,2.7,128,6,android,galaxy note 9,6.4,ips,3,si,1358,1241,saga
+4000,samsung,8,12,reacondicionado,4G,,2.7,128,6,android,galaxy note 9,6.4,ips,3,si,1358,1241,saga
+4500,xiaomi,20,,nuevo,5G,8,3.2,256,8,android,poco f4,6,amoled,12,si,2199,,saga
+1850,apple,,12,reacondicionado,4G,6,2.4,64,2,ios,iphone 8,4.7,ips,3,si,,1699,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.05,128,4,android,redmi note 11s,6,ips,12,si,1099,999,saga
+6000,motorola,32,,nuevo,4G,8,2.3,128,6,android,moto g60,6,ips,12,si,1999,,saga
+3400,samsung,10,16,nuevo,4G,8,2.84,128,8,android,galaxy s10,6.1,amoled,12,si,1933,1768,saga
+4700,xiaomi,20,64,nuevo,5G,,3,256,12,android,poco f4 gt,6.7,amoled,12,si,3334,,saga
+4323,apple,12,48,nuevo,5G,6,3.46,128,8,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,8999,,saga
+5000,xiaomi,16,108,nuevo,5G,8,2.05,128,6,android,note 11 pro,6,ips,12,si,1599,,saga
+3400,samsung,10,16,nuevo,4G,8,2.84,512,8,android,galaxy s10,6.1,amoled,12,si,2185,1999,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.05,128,6,android,redmi note 11s,6,amoled,12,si,1099,999,saga
+,samsung,10,12,reacondicionado,4G,8,2.84,128,8,android,galaxy s10 plus,6,ips,3,si,1706,1559,saga
+1000,verykool,,,nuevo,4G,1,1,0.032,0.032,freedos,i220,2,ips,12,si,,104,saga
+3227,apple,12,12,nuevo,5G,6,3.23,128,3,ios,iphone 13,6.1,super retina xdr oled,12,si,,4219,saga
+3227,apple,12,12,nuevo,5G,6,3.23,128,4,ios,iphone 13,6.1,super retina xdr oled,12,si,4175,4108,saga
+5000,samsung,13,48,nuevo,4G,8,2.2,128,4,android,galaxy a22,6.4,amoled,12,si,,823,saga
+5150,umidigi,8,13,nuevo,4G,4,2,32,4,android,galaxy a11s,6.5,ips,12,si,699,,saga
+800,smooth,,0.3,nuevo,3G,1,1.8,5,,freedos,uno,1.8,ips,12,no,,97.9,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.05,128,4,android,redmi note 11s,6,ips,12,si,,999,saga
+3100,samsung,10,12,nuevo,4G,8,2.84,128,6,android,galaxy s10e,5.8,oled,12,si,1706,1559,saga
+4700,xiaomi,20,64,nuevo,5G,,3,256,8,android,poco f4 gt,6.7,amoled,12,si,2999,,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.05,128,8,android,redmi note 11s,6,amoled,12,si,,1186,saga
+4700,xiaomi,20,64,nuevo,5G,8,3,256,8,android,poco f4 gt,6.7,amoled,12,si,3599,,saga
+4000,samsung,12,64,reacondicionado,4G,8,2.73,128,8,android,galaxy s20,,dynamic amoled,3,si,1742,1592,saga
+6000,motorola,32,,nuevo,4G,8,2.3,128,6,android,moto g60,6,ips,12,si,1399,,saga
+5000,xiaomi,13,64,nuevo,4G,8,2.05,128,6,android,poco m5s,7,amoled,12,no,979,,saga
+4000,samsung,12,64,reacondicionado,4G,8,2.73,128,8,android,galaxy s20,,dynamic amoled,3,si,,1625,saga
+600,bmobile,,0.3,nuevo,4G,,,0.032,0.032,freedos,logic a,5.5,ips,12,si,119,,saga
+3500,samsung,8,,nuevo,4G,8,2.7,64,6,android,galaxy s9,5.8,super amoled,12,si,,1384,saga
+6000,motorola,32,,nuevo,4G,8,2.3,128,6,android,moto g60,6,ips,12,si,1199,,saga
+4500,samsung,32,12,nuevo,5G,8,2.84,128,6,android,galaxy s20 fe,6.5,super amoled,12,si,1933,1899,saga
+4500,samsung,10,64,reacondicionado,4G,8,2.73,128,8,android,galaxy s20 plus,6.7,dynamic amoled,3,si,2149,1966,saga
+5000,samsung,32,,nuevo,5G,8,2.7,128,12,android,galaxy s20 ultra,7,dynamic amoled,12,si,3466,3175,saga
+4500,samsung,32,12,nuevo,5G,8,2.9,128,6,android,galaxy s21 fe,6.4,amoled,12,si,2664,2438,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.05,128,6,android,redmi note 11s,6,ips,12,si,1199,,saga
+4800,samsung,10,64,nuevo,4G,8,2.84,128,8,android,galaxy s21 plus,6.7,amoled,12,si,,3175,saga
+4800,samsung,10,64,nuevo,5G,8,2.9,128,8,android,galaxy s21 plus,6.7,dynamic amoled,12,si,3466,3175,saga
+4323,apple,12,48,nuevo,5G,6,3.46,512,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,8499,7799,saga
+3400,huawei,8,13,nuevo,4G,8,2.36,32,3,emui,psmart,6,ips,12,si,544,493,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.5,128,6,android,redmi note 11s,6,ips,12,si,1299,,saga
+6000,motorola,,,nuevo,4G,8,2.3,128,6,android,moto g60,6,ips,12,si,1499,,saga
+5330,honor,8,50,nuevo,4G,8,2.3,128,6,android,honor x7a,7,ips,12,no,,899,saga
+1821,apple,7,12,nuevo,5G,6,2.65,128,4,ios,iphone se,4.7,ips,12,si,3999,,saga
+5000,xiaomi,16,64,nuevo,4G,8,2.3,128,6,android,redmi note 9 pro,6.7,ips,12,si,,1223,saga
+4370,samsung,12,50,nuevo,5G,8,2.99,128,8,android,galaxy s22 plus,6.5,amoled,12,si,4500,,saga
+3279,apple,,12,nuevo,5G,6,3.23,256,6,ios,iphone 14 plus,,super retina xdr oled,12,si,,6999,saga
+5020,xiaomi,16,64,nuevo,4G,8,2.3,128,6,android,redmi note 9 pro,6.7,ips,12,si,1699,,saga
+5000,samsung,40,108,nuevo,5G,8,2.9,256,12,android,galaxy s21 ultra,6.8,dynamic amoled,12,si,4317,3955,saga
+5000,motorola,16,50,nuevo,4G,8,2.2,128,6,android,moto g71,6,oled,12,si,1499,,saga
+3200,apple,12,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro,6,super retina xdr oled,12,si,7999,,saga
+3200,zte,8,13,nuevo,4G,4,1.3,64,2,android,blade a5,6.1,ips,12,si,,444,saga
+3700,samsung,10,50,nuevo,4G,8,2.99,128,8,android,galaxy s22,6.1,amoled,12,si,3419,3131,saga
+3279,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 14,6.1,super retina xdr oled,12,si,,4429,saga
+,samsung,10,50,nuevo,4G,8,2.99,128,8,android,galaxy s22 plus,6.5,dynamic amoled,12,si,4017,3680,saga
+5000,motorola,16,50,nuevo,5G,8,2.2,128,6,android,moto g71,6,oled,12,si,1399,,saga
+5000,motorola,,50,nuevo,5G,8,2.2,128,6,android,moto g71,6,oled,12,si,,1599,saga
+,samsung,13,48,nuevo,4G,8,2,128,4,android,galaxy a22,,amoled,12,si,1499,,saga
+4500,samsung,10,50,nuevo,4G,8,2.99,256,8,android,galaxy s22 plus,6.5,dynamic amoled,12,si,,3735,saga
+5000,xiaomi,13,64,nuevo,4G,8,2.05,128,6,android,poco m5s,7,ips,12,no,1299,,saga
+4325,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 14 plus,6.7,super retina xdr oled,12,si,5899,5349,saga
+5000,samsung,32,64,nuevo,5G,8,2.4,128,6,android,galaxy a53,6.5,ips,12,si,1799,1699,saga
+1000,generico,,,nuevo,4G,,,32,,freedos,i220,2,ips,12,si,113,104,saga
+5000,samsung,40,108,nuevo,4G,8,2.99,256,12,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,5599,,saga
+5000,samsung,40,108,nuevo,4G,8,2.99,256,12,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,5287,4845,saga
+5000,motorola,,50,nuevo,4G,8,2.5,128,6,android,moto g71,6,oled,12,si,,1499,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.96,256,8,android,mi 11t,6.7,ips,12,si,,1812,saga
+4800,honor,32,48,nuevo,4G,8,3,256,8,android,honor 70,6.62,oled,12,no,2799,,saga
+5000,samsung,40,108,nuevo,4G,8,2.99,256,12,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,,5799,saga
+3000,samsung,8,12,nuevo,4G,8,2.3,64,4,android,galaxy s8,5.8,amoled,12,si,1358,1241,saga
+5000,xiaomi,16,108,nuevo,5G,8,2.05,128,8,android,note 11 pro,6,ips,12,si,1599,,saga
+,motorola,8,48,nuevo,4G,8,2.2,128,4,android,one fusion,,ips,12,si,903,823,saga
+3500,samsung,8,,nuevo,4G,8,2.3,64,4,android,galaxy s8 plus,,amoled,12,si,1394,1274,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.96,256,8,android,mi 11t,6.7,ips,12,si,,1812,saga
+1821,apple,7,12,nuevo,5G,6,2.65,64,4,ios,iphone se,4.7,ips,12,si,,2340,saga
+,samsung,13,48,nuevo,4G,8,2,128,4,android,galaxy a22,,amoled,12,si,1499,,saga
+,xiaomi,16,64,nuevo,4G,8,2.3,128,6,android,redmi note 9 pro,6.7,ips,12,si,1490,,saga
+5000,zte,8,,nuevo,4G,8,1.6,128,3,android,v30 vita,6.8,ips,12,no,,999,saga
+3227,apple,12,12,nuevo,4G,6,3.23,128,4,ios,iphone 13,6.1,super retina xdr oled,12,si,4497,4120,saga
+3000,samsung,8,,nuevo,4G,8,2.7,64,4,android,galaxy s9,5.8,super amoled,12,si,1346,1230,saga
+3000,generico,5,13,nuevo,4G,8,1.6,32,3,android,epik x620,5,ips,12,no,699,,saga
+2000,generico,5,13,nuevo,4G,,1.3,32,1,android,epik k605,5,ips,12,no,499,,saga
+2000,generico,2,5,nuevo,4G,,1.3,,1,android,epik x410,4,ips,12,no,399,,saga
+5000,huawei,8,,nuevo,4G,8,2.2,64,4,emui,y7a,6.7,ips,12,si,,839,saga
+300,generico,5,5,nuevo,4G,,1.3,16,1,android,epik k503,5,ips,12,no,399,,saga
+2000,generico,5,8,nuevo,4G,,1.3,16,1,android,epik x516,5,ips,12,no,399,,saga
+5000,xiaomi,13,48,nuevo,4G,8,2,64,4,android,redmi note 9t,6.53,ips,12,si,1499,,saga
+3500,samsung,12,12,nuevo,4G,8,2.8,256,6,android,galaxy s9 plus,,super amoled,12,si,1921,1757,saga
+4300,huawei,16,48,nuevo,4G,8,2.3,128,6,emui,y9a,6.7,ips,12,si,,923,saga
+4323,apple,12,48,nuevo,5G,6,3.46,256,6,ios,iphone 14 pro max,6.7,super retina xdr oled,12,si,7491,6867,saga
+2000,generico,5,5,nuevo,4G,,1.3,16,1,android,epik k503,5,ips,12,no,399,,saga
+3800,generico,3,8,nuevo,4G,4,1.2,,1,android,gol f9,5,ips,12,no,399,,saga
+3500,samsung,12,12,nuevo,4G,8,2.7,64,6,android,galaxy s9 plus,,super amoled,12,si,1514,1384,saga
+5000,samsung,16,48,nuevo,5G,8,2.4,128,6,android,galaxy a33,6.4,amoled,12,si,1699,,saga
+3800,generico,5,8,nuevo,4G,,1.3,,1,android,epik x516,5,ips,12,no,399,,saga
+3300,samsung,10,12,nuevo,5G,8,2.84,128,8,android,galaxy z flip 3,,dynamic amoled,12,si,3478,3186,saga
+5000,xiaomi,13,64,nuevo,4G,8,2.05,128,6,android,poco m5s,7,ips,12,no,1099,,saga
+5000,xiaomi,16,108,nuevo,4G,8,2.96,256,8,android,poco x4 pro,7,amoled,12,si,1999,,saga
+3700,samsung,10,12,nuevo,5G,8,3.19,256,8,android,galaxy z flip 4,6.7,dynamic amoled,12,si,,3867,saga
+5000,xiaomi,20,108,nuevo,5G,8,2.05,128,6,android,note 11 pro,6.81,ips,12,si,1499,,saga
+3227,apple,12,12,nuevo,4G,6,3.23,512,,ios,iphone 13,6.1,super retina xdr oled,12,si,4796,4395,saga
+5000,xiaomi,,108,nuevo,5G,8,2.96,256,,android,poco x4 pro,7,amoled,12,si,1899,,saga
+800,smooth,0.3,0.3,nuevo,2G,1,1,0.032,0.032,freedos,snap mini 3,1,ips,12,no,79,,saga
+3700,samsung,10,12,nuevo,5G,8,3.19,128,8,android,galaxy z flip 4,6.7,dynamic amoled,12,si,,3581,saga
+5000,samsung,40,108,nuevo,4G,8,2.99,128,8,android,galaxy s22 ultra,6.8,dynamic amoled,12,si,,6999,saga
+800,smooth,0.3,0.3,nuevo,2G,1,1,0.032,0.032,freedos,snap mini 3,1,ips,12,no,79,,saga
+4400,samsung,10,12,nuevo,5G,8,3.19,256,,android,galaxy z fold4,7.6,dynamic amoled,12,si,6173,5658,saga
+800,smooth,0.3,0.3,nuevo,2G,1,1,0.032,0.032,freedos,snap mini 3,1,ips,12,no,79,,saga
+650,smooth,0.3,0.3,nuevo,2G,1,1,0.032,0.032,freedos,snap mini,1.8,ips,12,no,,59,saga
+5000,samsung,2,13,nuevo,4G,8,2.3,,3,android,galaxy a03s,6,ips,12,si,,699,saga
+3279,apple,12,12,nuevo,5G,6,3.23,128,6,ios,iphone 14,6.1,super retina xdr oled,12,si,5499,,saga
+2900,hyundai,,,nuevo,4G,4,1.2,32,1,android,hyundai e603,,ips,12,no,,349,saga
+5000,xiaomi,8,50,nuevo,4G,8,2.2,128,4,android,redmi 10,6.5,ips,12,si,999,949,saga
+3200,apple,12,48,nuevo,5G,6,3.46,256,,ios,iphone 14 pro,6.1,super retina xdr oled,12,si,7299,,saga
+2000,lenovo,,5,nuevo,4G,,1,,1,freedos,vibe b,4.5,ips,12,no,399,,saga
+5000,xiaomi,,50,nuevo,4G,8,2.4,128,4,android,redmi note 11,6.43,ips,12,si,999,,saga
+5000,realme,5,12,nuevo,4G,8,1.3,64,3,android,realme c3,6.5,ips,12,si,,689,saga
+5000,samsung,12,200,nuevo,4G,8,3.36,512,12,android,galaxy s23 ultra,6.8,dynamic amoled,12,si,9999,,saga
